@@ -89,3 +89,19 @@ The PMS logo is shown in the header and footer (`img/logo-mark.webp`, 108 px, ab
 `favicon.ico` (16, 32 and 48 px), `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png` (180 px),
 `android-chrome-192x192.png`, `android-chrome-512x512.png` and `logo-512.png` (used in the business structured data).
 `site.webmanifest` lists the app icons. To change the logo later, replace these files with the same names and sizes.
+
+## Google Tag Manager (GTM-P96Q7WJ7)
+
+Both Tag Manager snippets are installed on every page, including `404.html`: the script is the first thing in `<head>`
+and the `<noscript>` frame is the first thing in `<body>`. Do not add them a second time.
+The Google tag above (G-Q9CBL5LJ90) is still in the head as well. If your Tag Manager container also sends GA4 page views
+for G-Q9CBL5LJ90, every visit will be counted twice. Choose one: either keep the Google tag and do not add a GA4 tag in
+Tag Manager, or set up the GA4 tag in Tag Manager and ask for the direct Google tag to be removed from the pages.
+
+## Cookie consent (CookieYes)
+
+The CookieYes banner script is installed on every page, including `404.html`, as the very first item in `<head>`,
+above Google Tag Manager and the Google tag. Keep it first, and do not add it a second time.
+In your CookieYes dashboard: turn on Google Consent Mode and the "Consent mode override" setting, check that the
+banner text and categories match your Privacy Policy, then publish the banner. Banner design and wording are
+controlled in CookieYes, not in this website.
