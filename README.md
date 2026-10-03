@@ -44,3 +44,48 @@ The page works at either address; it works out the folder by itself.
 Both values above are safe to publish in a public repository only because they are public-by-design:
 the form URL carries no password, and the Maps key is locked to your domain.
 Never commit passwords, SMTP details, private API keys or tokens.
+
+## Search engine files (already included)
+
+| File | What it does |
+|---|---|
+| `sitemap.xml` | Lists every page address for Google, Bing and AI search tools. |
+| `robots.txt` | Tells crawlers they may read the whole site and where the sitemap is. |
+| `llms.txt` | A short plain summary of the business and its main pages for AI assistants. |
+| `og-image.png` | The picture shown when a page link is shared on social media or chat apps. |
+
+Each page folder (for example `about/`) already contains that page's own title, description, canonical link,
+structured data and readable text, so search engines and AI tools can read it without running JavaScript.
+
+After the site is live: submit `https://www.pacificmarketingsolution.com/sitemap.xml` in Google Search Console
+and Bing Webmaster Tools. If your real domain is different, replace `https://www.pacificmarketingsolution.com`
+in `sitemap.xml`, `robots.txt`, `llms.txt` and the `SITE_URL` setting inside `index.html`, then rebuild the page copies.
+
+## Search Console checklist
+
+1. Put the files online and connect your domain (GitHub Pages: Settings, Pages, Custom domain). Turn on "Enforce HTTPS".
+2. Make sure `https://www.pacificmarketingsolution.com/` opens the site, and that the version without "www" sends visitors to it.
+3. In Google Search Console, add the property:
+   - "Domain" property: verify with a DNS TXT record at your domain provider (best option, covers www and non-www), or
+   - "URL prefix" property for `https://www.pacificmarketingsolution.com/`: verify with the HTML tag
+     (send the tag to the person building the site, who adds it to every page), or upload the verification
+     file Google gives you to the main folder of this repository.
+4. Sitemaps: submit `sitemap.xml`. Status should say "Success" and show 23 discovered pages.
+5. URL Inspection: paste the home page address, click "Test live URL", then "Request indexing". Repeat for the
+   Services, About, Work and Contact pages.
+6. Repeat steps 3 and 4 in Bing Webmaster Tools (you can import the site from Search Console).
+7. Check Search Console after a few days: Pages (indexing), Enhancements (FAQ, breadcrumbs), Core Web Vitals.
+
+## Google Analytics (Google tag G-Q9CBL5LJ90)
+
+The Google tag is already pasted straight after `<head>` on every page, including `404.html`. Do not add it a second time.
+In Google Analytics, keep "Enhanced measurement" switched on (including "Page changes based on browser history events"),
+because the site moves between pages without reloading in some cases. Visitors in the European Economic Area may
+need a cookie notice or Google consent mode, depending on your legal advice.
+
+## Logo and icons
+
+The PMS logo is shown in the header and footer (`img/logo-mark.webp`, 108 px, about 1.4 KB) and is the source of every icon:
+`favicon.ico` (16, 32 and 48 px), `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png` (180 px),
+`android-chrome-192x192.png`, `android-chrome-512x512.png` and `logo-512.png` (used in the business structured data).
+`site.webmanifest` lists the app icons. To change the logo later, replace these files with the same names and sizes.
