@@ -51,13 +51,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="manifest" href="/site.webmanifest">
 <meta name="theme-color" content="#0A1024">
 <noscript><style>.rv{opacity:1!important;transform:none!important}</style></noscript>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/plus-jakarta-sans-latin-400-normal.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="/fonts/plus-jakarta-sans-latin-800-normal.woff2"><style>@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/plus-jakarta-sans-latin-400-normal.woff2) format('woff2')}@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/plus-jakarta-sans-latin-500-normal.woff2) format('woff2')}@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/plus-jakarta-sans-latin-700-normal.woff2) format('woff2')}@font-face{font-family:'Plus Jakarta Sans';font-style:normal;font-weight:800;font-display:swap;src:url(/fonts/plus-jakarta-sans-latin-800-normal.woff2) format('woff2')}@font-face{font-family:'PJS Fallback';src:local('Arial'),local('Helvetica Neue'),local('Helvetica'),local('Liberation Sans');size-adjust:106%;ascent-override:97.9%;descent-override:20.9%;line-gap-override:0%}</style>
+
 <style>
 :root{--bg:#0A1024;--surface:rgba(255,255,255,.05);--ink:#EEF2FF;--muted:#9AA7C7;--line:rgba(255,255,255,.12);--accent:#A99BFF;--accent-soft:rgba(169,155,255,.14);--good:#5FE3B5;--bad:#FF8A9B;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
 *,*::before,*::after{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.6 "Plus Jakarta Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.6 "Plus Jakarta Sans","PJS Fallback",system-ui,-apple-system,"Segoe UI",sans-serif}
 a{color:inherit}
 .wrap{max-width:1120px;margin:0 auto;padding:0 24px}
 header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
@@ -760,8 +760,8 @@ dialog.bm::backdrop{background:rgba(4,7,18,.78);backdrop-filter:blur(4px)}
 .zone{position:relative;isolation:isolate}
 .zone-bg{position:absolute;inset:0;z-index:-1;pointer-events:none;overflow:hidden}
 .zone-bg i{position:absolute;display:block;border-radius:50%;will-change:transform}
-.zone-bg .o1{left:-10%;top:-6%;width:620px;height:620px;background:radial-gradient(closest-side,rgba(130,100,255,.5),transparent);filter:blur(36px);animation:orb1 20s ease-in-out infinite alternate}
-.zone-bg .o2{right:-8%;top:6%;width:560px;height:560px;background:radial-gradient(closest-side,rgba(40,190,220,.38),transparent);filter:blur(36px);animation:orb2 24s ease-in-out infinite alternate}
+.zone-bg .o1{left:-10%;top:-60px;width:620px;height:620px;background:radial-gradient(closest-side,rgba(130,100,255,.5),transparent);filter:blur(36px);animation:orb1 20s ease-in-out infinite alternate}
+.zone-bg .o2{right:-8%;top:90px;width:560px;height:560px;background:radial-gradient(closest-side,rgba(40,190,220,.38),transparent);filter:blur(36px);animation:orb2 24s ease-in-out infinite alternate}
 .zone-bg .gridl{inset:0;border-radius:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:56px 56px;-webkit-mask-image:radial-gradient(75% 55% at 50% 28%,#000 25%,transparent 75%);mask-image:radial-gradient(75% 55% at 50% 28%,#000 25%,transparent 75%)}
 @keyframes orb1{to{transform:translate(90px,70px) scale(1.12)}}
 @keyframes orb2{to{transform:translate(-80px,90px) scale(1.1)}}
@@ -772,7 +772,7 @@ dialog.bm::backdrop{background:rgba(4,7,18,.78);backdrop-filter:blur(4px)}
 .trust{display:inline-flex;align-items:center;gap:14px;margin-top:30px;color:var(--muted);text-decoration:none;font-size:14px;line-height:1.35}
 .trust:hover{color:var(--ink)}
 .trust:focus-visible{outline:3px solid var(--accent);outline-offset:4px;border-radius:12px}
-.avs{display:inline-flex;flex:none}
+.avs{display:inline-flex;flex:none;min-width:140px;min-height:36px}
 .avs img{width:36px;height:36px;border-radius:50%;object-fit:cover;border:2px solid #0A1024;margin-left:-10px;background:#0A1024}
 .avs img:first-child{margin-left:0}
 .hv{position:relative}
@@ -801,7 +801,7 @@ dialog.bm::backdrop{background:rgba(4,7,18,.78);backdrop-filter:blur(4px)}
 @media(max-width:1100px){.fchip{display:none}}
 @media(max-width:900px){#view-home .hero{padding:44px 0 32px}.zone-bg .o1,.zone-bg .o2{width:380px;height:380px}}
 @media(max-width:700px){.tpanel{padding:26px 20px;border-radius:28px}.tpanel::before{font-size:170px;right:14px;top:-24px}.th .tc-ctl{width:100%;justify-content:flex-start}.tcar{padding-bottom:56px}}
-@media(max-width:480px){.trust{align-items:flex-start}.avs img{width:32px;height:32px}}
+@media(max-width:480px){.trust{align-items:flex-start}.avs img{width:32px;height:32px}.avs{min-width:120px;min-height:32px}}
 @media(prefers-reduced-motion:reduce){.zone-bg i,.fchip{animation:none}.glass svg path{animation:none;stroke-dashoffset:0}.glass svg circle{animation:none;opacity:1}}
 
 /* testimonial row that floats continuously */
@@ -974,6 +974,9 @@ html.mcta-pad footer{padding-bottom:calc(env(safe-area-inset-bottom,0px) + 92px)
 }
 @media(max-width:360px){.mcta-card{flex-wrap:wrap;row-gap:8px;padding:10px 12px}.mcta-t{flex:1 1 100%;padding-right:0;font-size:13.5px}.mcta-b{flex:1 1 100%;min-height:42px}html.mcta-pad footer{padding-bottom:calc(env(safe-area-inset-bottom,0px) + 108px)}}
 @media(prefers-reduced-motion:reduce){.mcta,.mcta.on{transition:none}}
+
+/* lighter decoration on phones and tablets: calm background, finished chart, no looping chips (faster, steadier loading) */
+@media(max-width:900px){.zone-bg .o1,.zone-bg .o2,.fchip,.dot{animation:none}.glass svg path{animation:none;stroke-dashoffset:0}.glass svg circle{animation:none;opacity:1;transform:none}}
 </style>
 <script type="application/ld+json" id="page-ld">{"@context":"https://schema.org","@graph":[{"@type":["ProfessionalService","Organization"],"@id":"https://pacificmarketingsolution.com/#organization","name":"Pacific Marketing Solution LLC","alternateName":"Pacific Marketing Solution","url":"https://pacificmarketingsolution.com/","email":"info@pacificmarketingsolution.com","image":"https://pacificmarketingsolution.com/images/og/home.jpg","logo":{"@type":"ImageObject","url":"https://pacificmarketingsolution.com/logo-512.png","width":512,"height":512},"contactPoint":{"@type":"ContactPoint","contactType":"customer service","email":"info@pacificmarketingsolution.com","availableLanguage":"English"},"description":"Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We combine SEO, ads, websites, AI and CRM automation.","address":[{"@type":"PostalAddress","streetAddress":"669 Shadman Colony","addressLocality":"Lahore","addressCountry":"PK"},{"@type":"PostalAddress","streetAddress":"535 W Airtex Blvd","addressLocality":"Houston","addressRegion":"TX","postalCode":"77090","addressCountry":"US"}],"location":[{"@type":"Place","name":"Lahore office","address":{"@type":"PostalAddress","streetAddress":"669 Shadman Colony","addressLocality":"Lahore","addressCountry":"PK"}},{"@type":"Place","name":"Houston office","address":{"@type":"PostalAddress","streetAddress":"535 W Airtex Blvd","addressLocality":"Houston","addressRegion":"TX","postalCode":"77090","addressCountry":"US"}}],"knowsAbout":["Search engine optimization","Answer engine optimization","Generative engine optimization","Google Ads","Meta Ads","Website development","AI chatbots and voice agents","CRM automation","White-label marketing"],"makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI automation and CRM","url":"https://pacificmarketingsolution.com/services/ai-automation-crm/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Chatbots and voice agents","url":"https://pacificmarketingsolution.com/services/ai-chatbots-voice-agents/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Performance marketing and funnels","url":"https://pacificmarketingsolution.com/services/performance-marketing-funnels/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Content, creative and video","url":"https://pacificmarketingsolution.com/services/content-creative-video/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Websites and apps","url":"https://pacificmarketingsolution.com/services/websites-digital-products/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"SEO, AEO & GEO","url":"https://pacificmarketingsolution.com/services/seo-aeo-geo/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"White-label services","url":"https://pacificmarketingsolution.com/services/white-label-services/"}}]},{"@type":"WebSite","@id":"https://pacificmarketingsolution.com/#website","url":"https://pacificmarketingsolution.com/","name":"Pacific Marketing Solution LLC","publisher":{"@id":"https://pacificmarketingsolution.com/#organization"},"inLanguage":"en"},{"@type":"BreadcrumbList","@id":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pacificmarketingsolution.com/"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://pacificmarketingsolution.com/insights/"},{"@type":"ListItem","position":3,"name":"What clients say they value most: themes from five testimonials","item":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/"}]},{"@type":"WebPage","@id":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/#webpage","url":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/","name":"What Clients Value in a Marketing Agency","description":"We read our client testimonials for patterns. SEO results, quick replies and shared know-how came up most. Here is what clients said.","inLanguage":"en","isPartOf":{"@id":"https://pacificmarketingsolution.com/#website"},"about":{"@id":"https://pacificmarketingsolution.com/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://pacificmarketingsolution.com/images/og/insight-what-clients-say-they-value-most.jpg","width":1200,"height":630},"breadcrumb":{"@id":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/#breadcrumb"}},{"@type":"Article","@id":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/#article","headline":"What clients say they value most: themes from five testimonials","description":"We read our own testimonials for patterns: SEO results, attentiveness and shared knowledge.","url":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/","image":"https://pacificmarketingsolution.com/images/og/insight-what-clients-say-they-value-most.jpg","author":{"@id":"https://pacificmarketingsolution.com/#organization"},"publisher":{"@id":"https://pacificmarketingsolution.com/#organization"},"mainEntityOfPage":{"@id":"https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/#webpage"},"articleSection":"Clients","inLanguage":"en"}]}</script>
 </head>
@@ -1400,7 +1403,7 @@ function mcTick(m){
 document.addEventListener('focusin',function(e){var t=e.target;if(t&&/^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))document.documentElement.classList.add('mcta-hold')});
 document.addEventListener('focusout',function(){setTimeout(function(){var a=document.activeElement;if(!a||!/^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName))document.documentElement.classList.remove('mcta-hold')},60)});
 window.addEventListener('scroll',function(){if(!t){t=true;requestAnimationFrame(up)}},{passive:true});up();
-if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion:reduce)').matches)return;
+if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion:reduce)').matches||matchMedia('(max-width:900px)').matches)return;      /* no scroll-reveal on phones and tablets */
 document.documentElement.classList.add('js');
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -40px 0px'});
 var SEL='section .tag,section h2,section .lead,.card,.stat,.ind div,.cap,.panel,.strip,.mq,.acc details,.cta2,.band,.glass,.hero h1,.hero .lead,.hero .cta,.badge,.pg .tag,.pg h1,.pg .lead,.two>*,.fcols>div,.nl,.xg div,.pg h2,.fun,.bcard,.hl,.dg div,.ucg div,.prg>div,.plc,.relc,.chc,.stc,.dgc,.pcard,.gi,.tcard';
@@ -1693,7 +1696,9 @@ measure();setTimeout(function(){if(host.isConnected)measure()},600);
 if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(x){visible=x.isIntersecting;kick()})},{threshold:.1}).observe(host)}else{visible=true;kick()}
 }
 (function(){
-mountFloat(document.getElementById('tcar'));
+/* the home page's floating testimonials are built when the browser is idle, so they never compete with the first paint */
+var mountHome=function(){mountFloat(document.getElementById('tcar'))};
+if('requestIdleCallback' in window)requestIdleCallback(mountHome,{timeout:2500});else setTimeout(mountHome,400);
 var vp=document.getElementById('view-page');
 function scan(){[].forEach.call(document.querySelectorAll('[data-float]:not([data-ready])'),function(h){mountFloat(h,true)})}
 if(vp&&'MutationObserver' in window)new MutationObserver(scan).observe(vp,{childList:true});
