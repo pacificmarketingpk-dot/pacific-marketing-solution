@@ -124,3 +124,20 @@ To add a page you only need: the page title, description, address and a social i
 
 Social profiles: none are listed yet because no official company profile addresses exist on the site.
 Add real ones to `sameAs` in `tools/pages.json` (and in the site code) when you have them.
+
+## Email forms (Hostinger SMTP)
+
+The contact form and the newsletter form send their email from the server, through the company mailbox
+(`info@pacificmarketingsolution.com`, `smtp.hostinger.com`, port 465, implicit TLS). The browser only talks to
+`/api/contact.php` and `/api/newsletter.php`; those PHP files (with PHPMailer in `api/vendor/`) do the SMTP work.
+
+The mailbox password is NOT in this repository and must never be added to it. Put it on the server only:
+
+1. In Hostinger hPanel open File Manager. Go to the folder that CONTAINS `public_html` (one level above it).
+2. Create a file there named `pms-secrets.php`, with the same content as `api/_lib/pms-secrets.example.php`,
+   and type the real password in place of the placeholder. That folder is not reachable from the internet.
+3. Open the site, send a test message from the Contact page, and check the inbox of `info@pacificmarketingsolution.com`.
+4. Reply to that email and check that the reply is addressed to the visitor (the message has a Reply-To).
+
+If the mailbox password is ever changed, edit `pms-secrets.php` on the server. Nothing else needs to change.
+Errors are written to the server's PHP error log (they are never shown to visitors).

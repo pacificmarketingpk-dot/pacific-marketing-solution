@@ -43,7 +43,7 @@ def make(title, sub, kicker, out, figure=None, figure_label=None, logo=None):
         mk.putalpha(m.resize((76, 76), Image.LANCZOS)); img.paste(mk, (72, 56), mk)
     d.text((166, 74), 'Pacific Marketing Solution', font=font(700, 29), fill=INK)
     # kicker pill
-    kf = font(700, 20); ktxt = '   '.join(kicker.upper()); ktxt = kicker.upper()
+    kf = font(700, 20); ktxt = kicker.upper()
     kw = d.textlength(ktxt, font=kf) + 44
     d.rounded_rectangle((72, 178, 72 + kw, 220), radius=21, fill=(58, 48, 128)); d.text((94, 187), ktxt, font=kf, fill=(214, 209, 255))
     # headline (fits in at most 3 lines)
