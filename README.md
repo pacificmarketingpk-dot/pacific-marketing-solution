@@ -57,17 +57,17 @@ Never commit passwords, SMTP details, private API keys or tokens.
 Each page folder (for example `about/`) already contains that page's own title, description, canonical link,
 structured data and readable text, so search engines and AI tools can read it without running JavaScript.
 
-After the site is live: submit `https://www.pacificmarketingsolution.com/sitemap.xml` in Google Search Console
-and Bing Webmaster Tools. If your real domain is different, replace `https://www.pacificmarketingsolution.com`
+After the site is live: submit `https://pacificmarketingsolution.com/sitemap.xml` in Google Search Console
+and Bing Webmaster Tools. If your real domain is different, replace `https://pacificmarketingsolution.com`
 in `sitemap.xml`, `robots.txt`, `llms.txt` and the `SITE_URL` setting inside `index.html`, then rebuild the page copies.
 
 ## Search Console checklist
 
 1. Put the files online and connect your domain (GitHub Pages: Settings, Pages, Custom domain). Turn on "Enforce HTTPS".
-2. Make sure `https://www.pacificmarketingsolution.com/` opens the site, and that the version without "www" sends visitors to it.
+2. Make sure `https://pacificmarketingsolution.com/` opens the site, and that the version without "www" sends visitors to it.
 3. In Google Search Console, add the property:
    - "Domain" property: verify with a DNS TXT record at your domain provider (best option, covers www and non-www), or
-   - "URL prefix" property for `https://www.pacificmarketingsolution.com/`: verify with the HTML tag
+   - "URL prefix" property for `https://pacificmarketingsolution.com/`: verify with the HTML tag
      (send the tag to the person building the site, who adds it to every page), or upload the verification
      file Google gives you to the main folder of this repository.
 4. Sitemaps: submit `sitemap.xml`. Status should say "Success" and show 23 discovered pages.
@@ -105,3 +105,22 @@ above Google Tag Manager and the Google tag. Keep it first, and do not add it a 
 In your CookieYes dashboard: turn on Google Consent Mode and the "Consent mode override" setting, check that the
 banner text and categories match your Privacy Policy, then publish the banner. Banner design and wording are
 controlled in CookieYes, not in this website.
+
+## Social sharing and SEO system
+
+Every public page carries the same set of tags, written by one template (`tools/seo_stamp.py`) from one list (`tools/pages.json`):
+title, description, `index, follow`, canonical address, Open Graph (Facebook, LinkedIn, WhatsApp) and X/Twitter card tags,
+a 1200 x 630 preview image, and structured data. The tags are in the page HTML itself, so link previews work without JavaScript.
+
+Preferred address: `https://pacificmarketingsolution.com/` (without www). Set your host so that `www` redirects to it.
+Social preview images live in `images/og/`, one per page, as optimised JPEGs (about 40 to 60 KB).
+
+To add a page you only need: the page title, description, address and a social image.
+1. Create `<address>/index.html` (for example `services/new-service/index.html`).
+2. Add one entry to `tools/pages.json` (route, title, description, image, imageAlt, type).
+3. Make its picture: `python tools/make_og_image.py --title "..." --sub "..." --kicker "SERVICE" --out images/og/new-service.jpg`
+4. Run `python tools/seo_stamp.py`. It writes the tags, adds basic structured data if the page has none, and rebuilds `sitemap.xml`.
+5. `python tools/seo_stamp.py --check` tells you if any page is out of date. Test a link in the Facebook Sharing Debugger and LinkedIn Post Inspector.
+
+Social profiles: none are listed yet because no official company profile addresses exist on the site.
+Add real ones to `sameAs` in `tools/pages.json` (and in the site code) when you have them.

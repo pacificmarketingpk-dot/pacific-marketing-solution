@@ -40,4 +40,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://www.pacificmarketingsolution.com/sitemap.xml
+Sitemap: https://pacificmarketingsolution.com/sitemap.xml
