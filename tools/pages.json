@@ -1,0 +1,371 @@
+{
+ "site": {
+  "url": "https://pacificmarketingsolution.com",
+  "name": "Pacific Marketing Solution",
+  "legalName": "Pacific Marketing Solution LLC",
+  "email": "info@pacificmarketingsolution.com",
+  "logo": "logo-512.png",
+  "addresses": [
+   {
+    "streetAddress": "535 W Airtex Blvd",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77090",
+    "addressCountry": "US"
+   },
+   {
+    "streetAddress": "669 Shadman Colony",
+    "addressLocality": "Lahore",
+    "addressCountry": "PK"
+   }
+  ],
+  "sameAs": []
+ },
+ "pages": [
+  {
+   "route": "",
+   "title": "Pacific Marketing Solution | SEO, Ads & AI Automation",
+   "description": "Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We combine SEO, ads, websites, AI and CRM automation.",
+   "image": "images/og/home.jpg",
+   "imageAlt": "Pacific Marketing Solution: SEO, ads, websites and AI automation",
+   "type": "website",
+   "og": {
+    "headline": "SEO, Ads & AI Automation",
+    "sub": "Marketing, AI and automation in one system",
+    "kicker": "Digital growth agency",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services",
+   "title": "Digital Marketing Services | Pacific Marketing Solution",
+   "description": "Explore our seven services: AI automation and CRM, chatbots, performance marketing, content, websites, SEO, AEO and GEO, and white-label support.",
+   "image": "images/og/services.jpg",
+   "imageAlt": "Pacific Marketing Solution digital marketing services",
+   "type": "website",
+   "og": {
+    "headline": "Digital Marketing Services",
+    "sub": "Seven services that work alone or together",
+    "kicker": "Services",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/ai-automation-crm",
+   "title": "AI Automation & CRM Setup | Pacific Marketing Solution",
+   "description": "We set up CRM pipelines, lead routing and automatic follow-ups so no enquiry is missed. Plain-English help for small and growing businesses.",
+   "image": "images/og/ai-automation-crm.jpg",
+   "imageAlt": "AI automation and CRM setup by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "AI Automation & CRM",
+    "sub": "Fewer missed enquiries, faster follow-up",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/ai-chatbots-voice-agents",
+   "title": "AI Chatbots & Voice Agents | Pacific Marketing Solution",
+   "description": "AI chatbots and voice agents that answer customer questions on your website, WhatsApp and phone, and book appointments around the clock.",
+   "image": "images/og/ai-chatbots-voice-agents.jpg",
+   "imageAlt": "AI chatbots and voice agents by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "AI Chatbots & Voice Agents",
+    "sub": "Answers and bookings around the clock",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/performance-marketing-funnels",
+   "title": "Performance Marketing & Ads | Pacific Marketing Solution",
+   "description": "Google Ads and Meta Ads campaigns built around cost per qualified lead, with landing pages, tracking and clear weekly reports.",
+   "image": "images/og/performance-marketing-funnels.jpg",
+   "imageAlt": "Performance marketing and paid ads by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Performance Marketing",
+    "sub": "Google Ads and Meta Ads judged by results",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/content-creative-video",
+   "title": "Content, Creative & Video | Pacific Marketing Solution",
+   "description": "Social posts, ad creatives and short videos made on a steady schedule, with AI to speed up drafts and people to keep it on brand.",
+   "image": "images/og/content-creative-video.jpg",
+   "imageAlt": "Content, creative and video production by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Content, Creative & Video",
+    "sub": "A steady stream of content that looks like you",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/websites-digital-products",
+   "title": "Website & App Development | Pacific Marketing Solution",
+   "description": "Fast, mobile-friendly websites and landing pages designed to turn visitors into enquiries, with forms, booking and analytics connected.",
+   "image": "images/og/websites-digital-products.jpg",
+   "imageAlt": "Website and app development by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Websites & Apps",
+    "sub": "Fast sites built to turn visitors into enquiries",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/seo-aeo-geo",
+   "title": "SEO, AEO & GEO Services | Pacific Marketing Solution",
+   "description": "SEO, AEO and GEO explained simply: rank in search, win direct answers and get mentioned by AI assistants such as ChatGPT, Gemini and Perplexity.",
+   "image": "images/og/seo-aeo-geo.jpg",
+   "imageAlt": "SEO, AEO and GEO services by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "SEO, AEO & GEO",
+    "sub": "Be found in search and in AI answers",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/white-label-services",
+   "title": "White-Label Marketing Services | Pacific Marketing Solution",
+   "description": "White-label SEO, website, content and ad management delivered under your brand, so your agency can take on more clients with confidence.",
+   "image": "images/og/white-label-services.jpg",
+   "imageAlt": "White-label marketing services by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "White-Label Services",
+    "sub": "Your delivery team, under your brand",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "work",
+   "title": "Case Studies & Results | Pacific Marketing Solution",
+   "description": "Real SEO, Google Ads and Meta Ads case studies with the numbers: clicks, impressions, click-through rate, cost per click and more.",
+   "image": "images/og/work.jpg",
+   "imageAlt": "Pacific Marketing Solution case studies and results",
+   "type": "website",
+   "og": {
+    "headline": "Case Studies & Results",
+    "sub": "Real SEO, Google Ads and Meta Ads numbers",
+    "kicker": "Our work",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "about",
+   "title": "About Us | Pacific Marketing Solution",
+   "description": "Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.",
+   "image": "images/og/about.jpg",
+   "imageAlt": "About Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "About Pacific Marketing Solution",
+    "sub": "A digital growth partner, not just a provider",
+    "kicker": "About us",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "insights",
+   "title": "Marketing Insights | Pacific Marketing Solution",
+   "description": "Plain-English lessons from our own SEO, Google Ads and Meta Ads campaigns: what the numbers show and what we would do next.",
+   "image": "images/og/insights.jpg",
+   "imageAlt": "Marketing insights from Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Marketing Insights",
+    "sub": "Lessons from our own campaigns",
+    "kicker": "Insights",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "glossary",
+   "title": "Marketing Terms Explained | Pacific Marketing Solution",
+   "description": "Plain-English meanings of common marketing words such as SEO, AEO, GEO, CRM, CTR, CPC, conversion, funnel and white-label.",
+   "image": "images/og/glossary.jpg",
+   "imageAlt": "Marketing glossary by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Marketing Terms Explained",
+    "sub": "Plain-English definitions",
+    "kicker": "Glossary",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "contact",
+   "title": "Contact Us | Houston, Texas and Lahore, Pakistan",
+   "description": "Contact Pacific Marketing Solution in Houston, Texas and Lahore, Pakistan. Send a message or book a meeting to talk about your marketing goals.",
+   "image": "images/og/contact.jpg",
+   "imageAlt": "Contact Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Let's Talk",
+    "sub": "Send a message or book a meeting",
+    "kicker": "Contact",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "privacy-policy",
+   "title": "Privacy Policy | Pacific Marketing Solution",
+   "description": "How Pacific Marketing Solution collects, uses, shares and protects personal information, and the choices and rights you have.",
+   "image": "images/og/privacy-policy.jpg",
+   "imageAlt": "Pacific Marketing Solution privacy policy",
+   "type": "website",
+   "og": {
+    "headline": "Privacy Policy",
+    "sub": "How we handle your information",
+    "kicker": "Legal",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "terms-of-service",
+   "title": "Terms of Service | Pacific Marketing Solution",
+   "description": "The terms for using the Pacific Marketing Solution website and services, including scope, payments, ownership, liability and your responsibilities.",
+   "image": "images/og/terms-of-service.jpg",
+   "imageAlt": "Pacific Marketing Solution terms of service",
+   "type": "website",
+   "og": {
+    "headline": "Terms of Service",
+    "sub": "The terms for our website and services",
+    "kicker": "Legal",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "insights/three-seo-reports-side-by-side",
+   "title": "How to Read an SEO Report: CTR vs Average Position",
+   "description": "See how three real SEO projects compare on clicks, impressions, click-through rate and average position, and what each number does and does not tell you.",
+   "image": "images/og/insight-three-seo-reports-side-by-side.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Reading SEO Reports",
+   "type": "article",
+   "og": {
+    "headline": "Reading SEO Reports",
+    "sub": "Click-through rate vs average position",
+    "kicker": "Insight - SEO",
+    "figure": "3% to 5.2%",
+    "figureLabel": "click-through rate across three SEO projects"
+   }
+  },
+  {
+   "route": "insights/fix-indexing-before-writing-more-content",
+   "title": "Fix Website Indexing First: A Law Firm SEO Case",
+   "description": "Why search engines must index your pages before new content helps, and how fixing indexing for a law firm led to qualified leads by month three.",
+   "image": "images/og/insight-fix-indexing-before-writing-more-content.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Fix Indexing First",
+   "type": "article",
+   "og": {
+    "headline": "Fix Indexing First",
+    "sub": "How a law firm's SEO began",
+    "kicker": "Insight - SEO",
+    "figure": "Month 3",
+    "figureLabel": "qualified organic leads after the fix"
+   }
+  },
+  {
+   "route": "insights/reading-a-google-ads-report-beyond-clicks",
+   "title": "How to Read a Google Ads Report: Clicks to Conversions",
+   "description": "Follow a $1,720 Google Ads campaign from impressions to cost per conversion, and learn why clicks alone do not show whether ads are working.",
+   "image": "images/og/insight-reading-a-google-ads-report-beyond-clicks.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Clicks Are Not Results",
+   "type": "article",
+   "og": {
+    "headline": "Clicks Are Not Results",
+    "sub": "Reading a Google Ads report",
+    "kicker": "Insight - Google Ads",
+    "figure": "~$191",
+    "figureLabel": "cost per conversion (calculated)"
+   }
+  },
+  {
+   "route": "insights/a-low-cost-per-click-needs-conversion-tracking",
+   "title": "Low Cost Per Click: Why Conversion Tracking Matters",
+   "description": "A $0.78 click sounds cheap, but is it working? Learn why cost per click needs conversion tracking, using a real Google Ads campaign.",
+   "image": "images/og/insight-a-low-cost-per-click-needs-conversion-tracking.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: A $0.78 Click",
+   "type": "article",
+   "og": {
+    "headline": "A $0.78 Click",
+    "sub": "Why conversion tracking matters",
+    "kicker": "Insight - Google Ads",
+    "figure": "$0.78",
+    "figureLabel": "average cost per click"
+   }
+  },
+  {
+   "route": "insights/meta-ads-cost-per-click-155000-link-clicks",
+   "title": "Meta Ads Cost Per Click: 155,000 Clicks Analysed",
+   "description": "Three Meta Ads campaigns produced over 155,000 link clicks at PKR 1.63 to 1.95 each. See what the numbers show about cost per click and scale.",
+   "image": "images/og/insight-meta-ads-cost-per-click-155000-link-clicks.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: 155,000 Link Clicks",
+   "type": "article",
+   "og": {
+    "headline": "155,000 Link Clicks",
+    "sub": "Three Meta Ads campaigns analysed",
+    "kicker": "Insight - Meta Ads",
+    "figure": "PKR 1.63-1.95",
+    "figureLabel": "cost per link click"
+   }
+  },
+  {
+   "route": "insights/clicks-or-conversations-meta-ads-objective",
+   "title": "Meta Ads Objectives: Clicks or Conversations?",
+   "description": "How to choose between link clicks and messaging conversations on Meta Ads, with real costs from three industrial-products campaigns.",
+   "image": "images/og/insight-clicks-or-conversations-meta-ads-objective.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Clicks or Conversations?",
+   "type": "article",
+   "og": {
+    "headline": "Clicks or Conversations?",
+    "sub": "Choosing a Meta Ads objective",
+    "kicker": "Insight - Meta Ads",
+    "figure": "151",
+    "figureLabel": "messaging conversations"
+   }
+  },
+  {
+   "route": "insights/what-clients-say-they-value-most",
+   "title": "What Clients Value in a Marketing Agency",
+   "description": "We read our client testimonials for patterns. SEO results, quick replies and shared know-how came up most. Here is what clients said.",
+   "image": "images/og/insight-what-clients-say-they-value-most.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: What Clients Value",
+   "type": "article",
+   "og": {
+    "headline": "What Clients Value",
+    "sub": "Themes from five testimonials",
+    "kicker": "Insight - Clients",
+    "figure": "3 of 5",
+    "figureLabel": "testimonials mention SEO"
+   }
+  }
+ ]
+}
