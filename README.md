@@ -141,3 +141,15 @@ The mailbox password is NOT in this repository and must never be added to it. Pu
 
 If the mailbox password is ever changed, edit `pms-secrets.php` on the server. Nothing else needs to change.
 Errors are written to the server's PHP error log (they are never shown to visitors).
+
+
+## Speed and SEO files added in the final optimisation
+| File | What it does |
+|---|---|
+| `assets/app.<fingerprint>.js` | The site's script, shared by every page, downloaded once and cached for a year. The file name changes when the code changes, so visitors always get the right version. |
+| `.htaccess` | Compression, caching, https and one host name (no "www"), the 404 page. Works on Hostinger/LiteSpeed and Apache; other hosts ignore it. Upload it with the other root files (it is a hidden file: make sure your file manager shows hidden files). |
+| `llms.txt`, `llms-full.txt` | A summary and the full text of every English page for AI assistants. Linked from the head of every page. |
+| `sitemap.xml` | 87 addresses with language alternates, dated by the build. Linked from every page head and robots.txt. |
+| `tools/seo-validate.py`, `tools/i18n-validate.py` | Checks for canonical, hreflang, sitemap, structured data and missing translations. |
+
+If you change the site source and rebuild, the fingerprinted file name changes automatically; always upload `assets/` together with the pages.

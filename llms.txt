@@ -2,6 +2,9 @@
 
 > Pacific Marketing Solution is a digital marketing agency with offices in Houston, Texas (USA) and Lahore, Pakistan. It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios Pvt Ltd.
 
+Full text of every page in one file: https://pacificmarketingsolution.com/llms-full.txt
+Sitemap: https://pacificmarketingsolution.com/sitemap.xml
+
 Contact: info@pacificmarketingsolution.com
 
 ## Services
@@ -32,3 +35,14 @@ Contact: info@pacificmarketingsolution.com
 ## Legal
 - [Privacy policy](https://pacificmarketingsolution.com/privacy-policy/): How Pacific Marketing Solution collects, uses, shares and protects personal information, and the choices and rights you have.
 - [Terms of service](https://pacificmarketingsolution.com/terms-of-service/): The terms for using the Pacific Marketing Solution website and services, including scope, payments, ownership, liability and your responsibilities.
+
+## Languages
+The same pages exist in other languages at their own addresses (every version links to all the others with hreflang):
+- [Français](https://pacificmarketingsolution.com/fr/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [Deutsch](https://pacificmarketingsolution.com/de/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [العربية](https://pacificmarketingsolution.com/ar/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [中文](https://pacificmarketingsolution.com/zh/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [日本語](https://pacificmarketingsolution.com/ja/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [Español (México)](https://pacificmarketingsolution.com/es-mx/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [Español (España)](https://pacificmarketingsolution.com/es-es/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+- [Português (Portugal)](https://pacificmarketingsolution.com/pt-pt/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
