@@ -12,6 +12,7 @@ Contact: info@pacificmarketingsolution.com
 - [AI chatbots and voice agents](https://pacificmarketingsolution.com/services/ai-chatbots-voice-agents/): AI chatbots and voice agents that answer customer questions on your website, WhatsApp and phone, and book appointments around the clock.
 - [Performance marketing](https://pacificmarketingsolution.com/services/performance-marketing-funnels/): Google Ads and Meta Ads campaigns built around cost per qualified lead, with landing pages, tracking and clear weekly reports.
 - [Content, creative and video](https://pacificmarketingsolution.com/services/content-creative-video/): Social posts, ad creatives and short videos made on a steady schedule, with AI to speed up drafts and people to keep it on brand.
+- [Social media management](https://pacificmarketingsolution.com/services/social-media-management/): Social media management for your business: content calendars, posts and short videos, replies to your audience and clear monthly reports.
 - [Websites and apps](https://pacificmarketingsolution.com/services/websites-digital-products/): Fast, mobile-friendly websites and landing pages designed to turn visitors into enquiries, with forms, booking and analytics connected.
 - [SEO, AEO and GEO](https://pacificmarketingsolution.com/services/seo-aeo-geo/): SEO, AEO and GEO explained simply: rank in search, win direct answers and get mentioned by AI assistants such as ChatGPT, Gemini and Perplexity.
 - [White-label services](https://pacificmarketingsolution.com/services/white-label-services/): White-label SEO, website, content and ad management delivered under your brand, so your agency can take on more clients with confidence.
@@ -46,3 +47,12 @@ The same pages exist in other languages at their own addresses (every version li
 - [Español (México)](https://pacificmarketingsolution.com/es-mx/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
 - [Español (España)](https://pacificmarketingsolution.com/es-es/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
 - [Português (Portugal)](https://pacificmarketingsolution.com/pt-pt/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+
+## Entity summary
+- Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios Pvt Ltd
+- Category: digital marketing agency (SEO, AEO and GEO, paid advertising, websites, content and creative, social media management, AI chatbots and voice agents, AI automation and CRM setup, white-label services)
+- Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; 669 Shadman Colony, Lahore, Pakistan
+- Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
+- Website languages: English (default), French, German, Arabic, Chinese (Simplified), Japanese, Spanish (Mexico), Spanish (Spain), Portuguese (Portugal)
+- Contact: info@pacificmarketingsolution.com
+- Evidence: case studies and campaign figures at https://pacificmarketingsolution.com/work/ and https://pacificmarketingsolution.com/insights/ (numbers come from the Search Console, Google Ads and Meta Ads reports supplied with each project)

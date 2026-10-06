@@ -2,7 +2,7 @@
 
 > The text of every English page of https://pacificmarketingsolution.com, in one file. Pacific Marketing Solution is a digital marketing agency with offices in Houston, Texas (USA) and Lahore, Pakistan, a startup by Unimind Studios Pvt Ltd. Contact: info@pacificmarketingsolution.com. The same pages exist in French, German, Arabic, Chinese, Japanese, Spanish (Mexico and Spain) and Portuguese (Portugal); see llms.txt.
 
-Generated: 2026-10-05
+Generated: 2026-10-06
 
 
 ---
@@ -226,9 +226,9 @@ A: No. Nobody honest can. We offer clean tracking, clear reporting and steady te
 <!-- https://pacificmarketingsolution.com/services/ -->
 Page title: Digital Marketing Services | Pacific Marketing Solution
 Address: https://pacificmarketingsolution.com/services/
-Summary: Explore our seven services: AI automation and CRM, chatbots, performance marketing, content, websites, SEO, AEO and GEO, and white-label support.
+Summary: Explore our eight services: AI automation and CRM, chatbots, performance marketing, content, social media, websites, SEO, AEO and GEO, and white-label support.
 
-# Seven services that work alone or together.
+# Eight services that work alone or together.
 Start with one, or combine them into a single growth system.
 
 ## All of our services
@@ -244,6 +244,9 @@ Paid campaigns and landing pages designed around one goal: qualified enquiries a
 
 ### Content, creative and video
 Consistent content is hard to keep up. We plan it, produce it and reuse it across channels, with people directing the work and AI speeding it up.
+
+### Social media management
+We plan, publish and manage your social channels on a steady schedule, reply to your audience and report what is working.
 
 ### Websites and apps
 Clear, quick sites and landing pages that make the next step obvious, plus web apps when a page is not enough.
@@ -264,7 +267,7 @@ Yes. Many projects start with a single website, campaign, assistant or CRM setup
 It depends on your biggest problem. Not enough enquiries points to performance marketing and a landing page, slow replies point to a chatbot, and messy follow-up points to CRM automation. A discovery call helps us pick.
 
 ### Do the services work together?
-Yes. The seven services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
+Yes. The eight services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
 
 ### How is the work priced?
 Projects are scoped after a discovery call, based on what you need and the tools involved. We agree the scope with you before work begins.
@@ -283,7 +286,7 @@ Q: Which service should I start with?
 A: It depends on your biggest problem. Not enough enquiries points to performance marketing and a landing page, slow replies point to a chatbot, and messy follow-up points to CRM automation. A discovery call helps us pick.
 
 Q: Do the services work together?
-A: Yes. The seven services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
+A: Yes. The eight services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
 
 Q: How is the work priced?
 A: Projects are scoped after a discovery call, based on what you need and the tools involved. We agree the scope with you before work begins.
@@ -364,6 +367,7 @@ Yes. We clean the data, remove duplicates and migrate it into the new setup. We 
 
 ### Do you train our team?
 Yes. We run training sessions and leave written guides so your team knows how each automation works and who owns each step.
+Learn more: About Us Marketing glossary Case studies White-label services
 
 ## Pairs well with.
 
@@ -477,6 +481,7 @@ Yes. Where a reliable connection exists, conversations and new contacts can be s
 
 ### How long does it take to launch an assistant?
 It depends on the channels, the amount of content and the tools involved. After a discovery call we give you an estimate based on your scope.
+Learn more: About Us Marketing glossary Case studies White-label services
 
 ## Pairs well with.
 
@@ -637,17 +642,19 @@ Early signals usually appear once enough data has been collected, but timing dep
 
 ### Do you guarantee leads or sales?
 No. Nobody can honestly promise a specific number of leads or sales. We promise clear tracking, honest reporting and steady testing so decisions are based on data.
+Learn more: About Us Marketing glossary Case studies White-label services
+Related reading: A $0.78 click is only good news if you can see what happens next Clicks are not results: reading a Google Ads report from click to conversion
 
 ## Pairs well with.
 
 ### AI automation and CRM
 Pipelines, lead routing and follow-ups that run without manual copying.
 
-### Chatbots and voice agents
-Assistants for your site, WhatsApp and phone that answer and book.
-
 ### Content, creative and video
 Social posts, ad creative and short video on a steady schedule.
+
+### Social media management
+Planned posts, replies and monthly reports for your social channels.
 
 ### Websites and apps
 Fast, clear sites and landing pages built to convert visitors.
@@ -745,17 +752,18 @@ Yes. We can turn existing material such as articles, talks and customer question
 
 ### Who owns the finished content?
 Ownership and usage rights are set out in your agreement, and we confirm them before work begins.
+Learn more: About Us Marketing glossary Case studies White-label services
 
 ## Pairs well with.
 
 ### AI automation and CRM
 Pipelines, lead routing and follow-ups that run without manual copying.
 
-### Chatbots and voice agents
-Assistants for your site, WhatsApp and phone that answer and book.
-
 ### Performance marketing and funnels
 Paid campaigns and funnels measured by cost per qualified lead.
+
+### Social media management
+Planned posts, replies and monthly reports for your social channels.
 
 ### Websites and apps
 Fast, clear sites and landing pages built to convert visitors.
@@ -781,6 +789,135 @@ A: Yes. We can turn existing material such as articles, talks and customer quest
 
 Q: Who owns the finished content?
 A: Ownership and usage rights are set out in your agreement, and we confirm them before work begins.
+
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/social-media-management/ -->
+Page title: Social Media Management | Pacific Marketing Solution
+Address: https://pacificmarketingsolution.com/services/social-media-management/
+Summary: Social media management for your business: content calendars, posts and short videos, replies to your audience and clear monthly reports.
+
+# A steady social presence, without the daily scramble.
+We plan, publish and manage your social media so your brand shows up regularly, answers its audience and builds trust, while your team gets on with running the business.
+Social media management means planning, creating, publishing and monitoring the posts on your business accounts, and replying to the people who engage with them. The aim is a steady, recognisable presence that builds trust and brings people to your website or door.
+
+## Posting only when there is time does not build an audience.
+Social channels go quiet when the team is busy. Posts go out late or not at all, comments wait days for an answer, and nobody can say which posts bring people in. A regular, planned presence is what keeps a brand visible and trusted.
+
+## One team that keeps your channels active and on brand.
+We manage your social media from planning to publishing and reporting. Posts follow a content calendar you approve, replies are written in your tone of voice, and a short monthly report shows what happened and what we will change next.
+- A planned posting schedule
+- Posts that match your brand voice
+- Faster replies to comments and messages
+- A consistent look across platforms
+- Content you approve before it goes out
+- A clear monthly report
+- Less time spent on daily posting
+- Social, ads and website working together
+
+## What we can handle for you.
+Choose the platforms and tasks you need. The scope is agreed for each project.
+
+### Planning and strategy
+
+### Content creation
+
+### Publishing and community
+
+### Social ads
+
+### Reporting and improvement
+
+## Where this service is used.
+
+## From first review to a social presence that runs on schedule.
+
+### Review
+We look at your channels, audience, competitors and what you already post.
+
+### Plan
+We agree goals, platforms, content themes and the posting rhythm.
+
+### Create
+We write captions and design posts, graphics and short videos in your brand style.
+
+### Approve
+You review the content calendar and posts before anything goes out.
+
+### Publish
+We publish on schedule and reply to comments and messages as agreed.
+
+### Report
+We share a simple monthly report and adjust the plan for the next month.
+
+## Works with the platforms and tools you already use.
+Names appear for compatibility only and do not suggest any partnership.
+
+## Common questions about social media management.
+Platforms, posting, replies and reporting.
+
+### Which platforms do you manage?
+We can manage Facebook, Instagram, LinkedIn and TikTok. We recommend where to focus based on where your customers spend their time and what you sell.
+
+### How often will you post?
+It depends on your goals, your budget and the platform. We agree a posting schedule in the content calendar before we start, and you can change it later.
+
+### Do I approve posts before they go live?
+Yes. You review the content calendar and the posts first. Nothing is published until you approve it, unless you ask us to publish on a schedule you have already agreed.
+
+### Will you reply to comments and messages?
+Where it is part of the agreed scope, yes. We reply in your tone of voice and pass sales questions or unusual requests to your team with the full context.
+
+### Do you create the graphics and videos?
+Yes. We design post graphics and short videos in your brand style. AI can speed up drafts, and a person reviews the final result.
+
+### How will I know it is working?
+You get a simple monthly report with reach, engagement and your best posts, and we agree at the start which numbers matter to you. We do not promise a set number of followers or sales.
+
+### Can you run social ads as well?
+Yes. We can plan and manage paid campaigns on platforms such as Meta, with tracking set up so you can see what each campaign brings in.
+Learn more: About Us Marketing glossary Case studies White-label services
+Related reading: Clicks or conversations? Choosing the right Meta Ads objective 155,000 link clicks: what three Meta campaigns show about cost per click
+
+## Pairs well with.
+
+### Content, creative and video
+Social posts, ad creative and short video on a steady schedule.
+
+### Performance marketing and funnels
+Paid campaigns and funnels measured by cost per qualified lead.
+
+### Websites and apps
+Fast, clear sites and landing pages built to convert visitors.
+
+### Chatbots and voice agents
+Assistants for your site, WhatsApp and phone that answer and book.
+
+## Keep your social channels active and on brand.
+Tell us which platforms you use and what you want from them. We will suggest a plan and a posting rhythm that fits.
+
+### Questions and answers on this page
+Q: Which platforms do you manage?
+A: We can manage Facebook, Instagram, LinkedIn and TikTok. We recommend where to focus based on where your customers spend their time and what you sell.
+
+Q: How often will you post?
+A: It depends on your goals, your budget and the platform. We agree a posting schedule in the content calendar before we start, and you can change it later.
+
+Q: Do I approve posts before they go live?
+A: Yes. You review the content calendar and the posts first. Nothing is published until you approve it, unless you ask us to publish on a schedule you have already agreed.
+
+Q: Will you reply to comments and messages?
+A: Where it is part of the agreed scope, yes. We reply in your tone of voice and pass sales questions or unusual requests to your team with the full context.
+
+Q: Do you create the graphics and videos?
+A: Yes. We design post graphics and short videos in your brand style. AI can speed up drafts, and a person reviews the final result.
+
+Q: How will I know it is working?
+A: You get a simple monthly report with reach, engagement and your best posts, and we agree at the start which numbers matter to you. We do not promise a set number of followers or sales.
+
+Q: Can you run social ads as well?
+A: Yes. We can plan and manage paid campaigns on platforms such as Meta, with tracking set up so you can see what each campaign brings in.
 
 
 ---
@@ -861,6 +998,7 @@ In most cases yes, depending on the platform. We set it up so your team can upda
 
 ### Do you handle hosting and ongoing support?
 We can advise on hosting or manage it for you, and offer ongoing support if you want it. The details are agreed for each project.
+Learn more: About Us Marketing glossary Case studies White-label services
 
 ## Pairs well with.
 
@@ -985,6 +1123,8 @@ Yes. We start with an audit of what you have, fix the biggest problems and impro
 
 ### How do you measure success?
 We track rankings, search impressions and clicks, enquiries from search, and regular checks of how AI tools answer questions about your business.
+Learn more: About Us Marketing glossary Case studies White-label services
+Related reading: Three SEO reports side by side: what the numbers show and what they hide Fix indexing first: how the SEO for Allen Jacobi Law began
 
 ## Pairs well with.
 
@@ -1112,6 +1252,7 @@ Yes. We can use the project tools, communication channels and review steps your 
 
 ### How do we get started?
 Send us a message or book a call. Tell us about your projects and where you need help, and we will outline how we could work together.
+Learn more: About Us Marketing glossary Case studies
 
 ## Pairs well with.
 
@@ -1192,6 +1333,8 @@ Three Meta campaigns generating messaging conversations and link clicks.
 17 pieces
 
 ## What people say about working with us.
+Related reading: What clients say they value most: themes from five testimonials
+Learn more: About Us Services Insights SEO, AEO & GEO Performance marketing and funnels
 “Working with Khan has been an absolute pleasure. He is incredibly dedicated, consistently going above and beyond to ensure our company’s marketing and SEO goals are met. His responsiveness, even outside of regular hours, speaks volumes about his commitment. On top of his work ethic, he’s also a genuinely pleasant and professional person to collaborate with. I highly recommend him.”
 “Khan has helped me with two of my businesses, and he only delivers quality work! My SEO has ranked for each business and he does everything it takes to improve the businesses’s visibility. Thank you for your work Khan, I highly recommend for any business owner!”
 “We have worked together to make videos. Khan is patient, effective, and attentive. I am glad to give him and his team more video assignments because we have made great work together.”
@@ -1254,7 +1397,7 @@ Pacific Marketing Solution is a startup by Unimind Studios Pvt Ltd.
 - eCommerce growth
 - White-label marketing services
 
-## Trusted by Businesses Worldwide
+## Businesses we have worked with
 Businesses we’ve had the opportunity to work with.
 Different industries. Different challenges. One focus: measurable digital growth.
 Our client experience spans technology, healthcare, legal services, eCommerce, solar and energy, automotive, education, real estate, professional services, and other business sectors.
@@ -1369,6 +1512,8 @@ Our portfolio demonstrates experience across multiple industries and digital cha
 ## Make Digital Growth More Practical, Measurable, and Accessible.
 Our mission is simple:
 Whether a business needs more organic visibility, better advertising performance, a stronger website, better creative, strategic guidance, or a reliable white-label partner, we aim to provide the expertise and execution needed to move forward.
+Learn more: Services Case studies White-label services Marketing glossary
+Related reading: What clients say they value most: themes from five testimonials
 
 ## Let’s Build Your Next Stage of Growth
 Have a business that needs better digital visibility?
@@ -1593,6 +1738,7 @@ A program that answers questions in everyday language, on a website, in WhatsApp
 
 ### White-label
 Work done by one company and delivered under another company's brand name.
+Related services: SEO, AEO & GEO Performance marketing and funnels AI automation and CRM White-label services
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1634,6 +1780,7 @@ Skin Body Health, Allen Jacobi Law and Pure Hope Weight Loss share a pattern, an
 
 ### Fix indexing first: how the SEO for Allen Jacobi Law began
 A strong reputation does not help if search engines cannot index the site. What we fixed first and what followed.
+Related service: Performance marketing and funnels Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1698,6 +1845,7 @@ Skin Body Health, Allen Jacobi Law and Pure Hope Weight Loss share a pattern, an
 
 ### Fix indexing first: how the SEO for Allen Jacobi Law began
 A strong reputation does not help if search engines cannot index the site. What we fixed first and what followed.
+Related service: Performance marketing and funnels Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1750,6 +1898,7 @@ A $1,720 campaign for Naples Dent Away, followed step by step from impressions t
 
 ### A $0.78 click is only good news if you can see what happens next
 Allen Jacobi Law's campaign delivered 717 clicks for $558. Why cost per click alone cannot judge it.
+Related service: SEO, AEO & GEO Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1808,6 +1957,7 @@ Skin Body Health, Allen Jacobi Law and Pure Hope Weight Loss share a pattern, an
 
 ### Fix indexing first: how the SEO for Allen Jacobi Law began
 A strong reputation does not help if search engines cannot index the site. What we fixed first and what followed.
+Related service: Performance marketing and funnels Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1856,6 +2006,7 @@ Skin Body Health, Allen Jacobi Law and Pure Hope Weight Loss share a pattern, an
 
 ### Fix indexing first: how the SEO for Allen Jacobi Law began
 A strong reputation does not help if search engines cannot index the site. What we fixed first and what followed.
+Related service: Performance marketing and funnels Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1920,6 +2071,7 @@ A $1,720 campaign for Naples Dent Away, followed step by step from impressions t
 
 ### A $0.78 click is only good news if you can see what happens next
 Allen Jacobi Law's campaign delivered 717 clicks for $558. Why cost per click alone cannot judge it.
+Related service: SEO, AEO & GEO Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.
@@ -1967,6 +2119,7 @@ A strong reputation does not help if search engines cannot index the site. What 
 
 ### Clicks are not results: reading a Google Ads report from click to conversion
 A $1,720 campaign for Naples Dent Away, followed step by step from impressions to cost per conversion.
+Learn more: About Us Case studies Marketing glossary
 
 ## Ready to talk it through?
 Tell us what you are trying to achieve and we will suggest where to begin.

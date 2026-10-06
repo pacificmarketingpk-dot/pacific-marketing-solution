@@ -40,13 +40,13 @@
   {
    "route": "services",
    "title": "Digital Marketing Services | Pacific Marketing Solution",
-   "description": "Explore our seven services: AI automation and CRM, chatbots, performance marketing, content, websites, SEO, AEO and GEO, and white-label support.",
+   "description": "Explore our eight services: AI automation and CRM, chatbots, performance marketing, content, social media, websites, SEO, AEO and GEO, and white-label support.",
    "image": "images/og/services.jpg",
    "imageAlt": "Pacific Marketing Solution digital marketing services",
    "type": "website",
    "og": {
     "headline": "Digital Marketing Services",
-    "sub": "Seven services that work alone or together",
+    "sub": "Eight services that work alone or together",
     "kicker": "Services",
     "figure": null,
     "figureLabel": null
@@ -107,6 +107,21 @@
    "og": {
     "headline": "Content, Creative & Video",
     "sub": "A steady stream of content that looks like you",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/social-media-management",
+   "title": "Social Media Management | Pacific Marketing Solution",
+   "description": "Social media management for your business: content calendars, posts and short videos, replies to your audience and clear monthly reports.",
+   "image": "images/og/social-media-management.jpg",
+   "imageAlt": "Social media management by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Social Media Management",
+    "sub": "Steady posting, real replies, clear reports",
     "kicker": "Service",
     "figure": null,
     "figureLabel": null

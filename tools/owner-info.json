@@ -1,0 +1,53 @@
+{
+  "_README": "OWNER INPUT. Fill in ONLY what is real and public. Leave a field empty ([] or null) and it is simply not published. Then run:  python3 tools/apply-owner-info.py   (from the site folder) and upload the changed files.",
+  "socialProfiles": [],
+  "_socialProfiles_help": "Official profile web addresses only, for example https://www.linkedin.com/company/your-page . No personal pages, no pages you do not control.",
+  "publicPhone": null,
+  "_publicPhone_help": "A phone number you want the public to call, with country code, for example +1 713 555 0100. Leave null to publish none.",
+  "officeHours": [],
+  "_officeHours_help": "Example: [{\"office\": \"Houston\", \"days\": [\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"], \"opens\": \"09:00\", \"closes\": \"17:00\"}]  (24-hour times, local time of that office).",
+  "primaryOffice": null,
+  "_primaryOffice_help": "\"Houston\" or \"Lahore\". The primary office is listed first in the structured data.",
+  "serviceAreas": [],
+  "_serviceAreas_help": "Countries or regions where you really serve clients, for example [\"United States\", \"Pakistan\"].",
+  "articles": {
+    "three-seo-reports-side-by-side": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "fix-indexing-before-writing-more-content": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "reading-a-google-ads-report-beyond-clicks": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "a-low-cost-per-click-needs-conversion-tracking": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "meta-ads-cost-per-click-155000-link-clicks": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "clicks-or-conversations-meta-ads-objective": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    "what-clients-say-they-value-most": {
+      "author": null,
+      "datePublished": null,
+      "dateModified": null
+    }
+  },
+  "_articles_help": "For each article: the real author's full name, the publication date and the last update date, as YYYY-MM-DD. Leave null if unknown. They are added to the article's structured data only.",
+  "aiTrainingCrawlers": null,
+  "_aiTrainingCrawlers_help": "null = leave as it is (all crawlers allowed). \"allow\" = same. \"block\" = also ask OpenAI, Anthropic, Google-Extended and Apple-Extended training crawlers not to use the site; normal search crawlers and AI answer/search crawlers stay allowed."
+}

@@ -1,44 +1,12 @@
-# Pacific Marketing Solution: search engines and AI answer tools are welcome.
-# To block a crawler later, change its "Allow: /" line to "Disallow: /".
-
+# Pacific Marketing Solution: all public pages are open to search engines and AI answer tools.
+# One rule set for every crawler. (A crawler that has its own named group ignores this one, so no named groups are used.)
 User-agent: *
 Allow: /
 Disallow: /api/
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Claude-User
-Allow: /
-
-User-agent: Claude-SearchBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Perplexity-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
+# Optional, for the owner: to stop AI TRAINING use while staying visible in search and AI answers, add groups such as
+#   User-agent: GPTBot            (OpenAI training)        User-agent: Google-Extended   (Google AI training)
+#   User-agent: ClaudeBot         (Anthropic training)     User-agent: Applebot-Extended (Apple AI training)
+# each followed by "Disallow: /" and also repeat "Disallow: /api/" inside any group you add.
 
 Sitemap: https://pacificmarketingsolution.com/sitemap.xml
