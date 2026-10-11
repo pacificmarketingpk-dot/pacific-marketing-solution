@@ -1,0 +1,3203 @@
+{
+ "generated": "2026-10-06",
+ "site": "https://pacificmarketingsolution.com",
+ "organization": {
+  "name": "Pacific Marketing Solution",
+  "legalName": "Pacific Marketing Solution LLC",
+  "email": "info@pacificmarketingsolution.com"
+ },
+ "languages": [
+  {
+   "code": "en",
+   "urlPrefix": "",
+   "dir": "ltr",
+   "ogLocale": "en_US",
+   "default": true
+  },
+  {
+   "code": "fr",
+   "urlPrefix": "/fr",
+   "dir": "ltr",
+   "ogLocale": "fr_FR",
+   "default": false
+  },
+  {
+   "code": "de",
+   "urlPrefix": "/de",
+   "dir": "ltr",
+   "ogLocale": "de_DE",
+   "default": false
+  },
+  {
+   "code": "ar",
+   "urlPrefix": "/ar",
+   "dir": "rtl",
+   "ogLocale": "ar_AR",
+   "default": false
+  },
+  {
+   "code": "zh-CN",
+   "urlPrefix": "/zh",
+   "dir": "ltr",
+   "ogLocale": "zh_CN",
+   "default": false
+  },
+  {
+   "code": "ja",
+   "urlPrefix": "/ja",
+   "dir": "ltr",
+   "ogLocale": "ja_JP",
+   "default": false
+  },
+  {
+   "code": "es-MX",
+   "urlPrefix": "/es-mx",
+   "dir": "ltr",
+   "ogLocale": "es_MX",
+   "default": false
+  },
+  {
+   "code": "es-ES",
+   "urlPrefix": "/es-es",
+   "dir": "ltr",
+   "ogLocale": "es_ES",
+   "default": false
+  },
+  {
+   "code": "pt-PT",
+   "urlPrefix": "/pt-pt",
+   "dir": "ltr",
+   "ogLocale": "pt_PT",
+   "default": false
+  }
+ ],
+ "defaultLanguage": "en",
+ "pages": {
+  "home": {
+   "robots": "noindex, follow",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/",
+     "title": "Pacific Marketing Solution | SEO, Ads & AI Automation",
+     "description": "Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We combine SEO, ads, websites, AI and CRM automation.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/",
+     "title": "وكالة تسويق رقمي | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution وكالة تسويق رقمي في هيوستن بولاية تكساس ولاهور في باكستان: تحسين محركات البحث والإعلانات والمواقع والذكاء الاصطناعي وأتمتة إدارة العملاء لجلب عملاء محتملين.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/",
+     "title": "Digitalmarketing-Agentur | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution ist eine Digitalmarketing-Agentur in Houston, Texas und Lahore, Pakistan: SEO, Werbung, Websites, KI und CRM-Automatisierung für mehr Anfragen.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/",
+     "title": "Agencia de marketing digital | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution es una agencia de marketing digital en Houston (Texas) y Lahore (Pakistán): SEO, publicidad, sitios web, IA y automatización del CRM para generar leads.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/",
+     "title": "Agencia de marketing digital | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution es una agencia de marketing digital en Houston (Texas) y Lahore (Pakistán): SEO, publicidad, sitios web, IA y automatización del CRM para generar leads.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/",
+     "title": "Agence de marketing digital | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution est une agence de marketing digital à Houston (Texas) et Lahore (Pakistan) : SEO, publicité, sites web, IA et automatisation du CRM pour générer des leads.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/",
+     "title": "デジタルマーケティング会社｜Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution は、米テキサス州ヒューストンとパキスタンのラホールを拠点とするデジタルマーケティング会社。SEO・広告運用・Web制作・AI・CRM自動化で集客を支援します。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/",
+     "title": "Agência de marketing digital | Pacific Marketing Solution",
+     "description": "A Pacific Marketing Solution é uma agência de marketing digital em Houston (Texas) e Lahore (Paquistão): SEO, publicidade, sites, IA e automação de CRM para gerar leads.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/",
+     "title": "数字营销公司：SEO、广告与 AI 自动化 | Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution 是位于美国休斯敦和巴基斯坦拉合尔的数字营销公司，提供 SEO、广告投放、网站、AI 与 CRM 自动化服务，助力获客增长。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/home.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "about": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/about/",
+     "title": "About Us | Pacific Marketing Solution",
+     "description": "Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/about/",
+     "title": "من نحن | Pacific Marketing Solution",
+     "description": "تعرّف على Pacific Marketing Solution: نهجنا في النمو الرقمي وخدماتنا وخبرتنا مع العملاء ودراسات الحالة والتزامنا بنتائج قابلة للقياس.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/about/",
+     "title": "Über uns | Pacific Marketing Solution",
+     "description": "Lernen Sie Pacific Marketing Solution kennen: unser Ansatz für digitales Wachstum, Leistungen, Kundenerfahrung, Fallstudien und unser Anspruch an messbare Ergebnisse.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/about/",
+     "title": "Quiénes somos | Pacific Marketing Solution",
+     "description": "Conoce Pacific Marketing Solution: nuestro enfoque de crecimiento digital, servicios, experiencia con clientes, casos de estudio y compromiso con resultados medibles.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/about/",
+     "title": "Quiénes somos | Pacific Marketing Solution",
+     "description": "Conoce Pacific Marketing Solution: nuestro enfoque de crecimiento digital, servicios, experiencia con clientes, casos de estudio y compromiso con resultados medibles.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/about/",
+     "title": "Qui sommes-nous | Pacific Marketing Solution",
+     "description": "Découvrez Pacific Marketing Solution : notre approche de la croissance digitale, nos services, notre expérience client, nos études de cas et notre engagement pour des résultats mesurables.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/about/",
+     "title": "会社概要｜Pacific Marketing Solution",
+     "description": "Pacific Marketing Solution について：デジタル成長への取り組み、サービス、お客様の声、事例、測定可能な成果へのコミットメント。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/about/",
+     "title": "Sobre nós | Pacific Marketing Solution",
+     "description": "Conheça a Pacific Marketing Solution: a nossa abordagem ao crescimento digital, serviços, experiência com clientes, casos de estudo e compromisso com resultados mensuráveis.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/about/",
+     "title": "关于我们 | Pacific Marketing Solution",
+     "description": "了解 Pacific Marketing Solution：我们的数字增长方法、服务、客户经验、案例，以及对可衡量成果的承诺。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/about.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "contact": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/contact/",
+     "title": "اتصل بنا | هيوستن، تكساس ولاهور، باكستان",
+     "description": "تواصل مع Pacific Marketing Solution في هيوستن، تكساس أو لاهور، باكستان. أرسل رسالة أو احجز اجتماعًا للحديث عن أهدافك التسويقية.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/contact/",
+     "title": "Contact Us | Houston, Texas and Lahore, Pakistan",
+     "description": "Contact Pacific Marketing Solution in Houston, Texas and Lahore, Pakistan. Send a message or book a meeting to talk about your marketing goals.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/contact/",
+     "title": "Kontakt | Houston, Texas und Lahore, Pakistan",
+     "description": "Kontaktieren Sie Pacific Marketing Solution in Houston, Texas und Lahore, Pakistan. Senden Sie eine Nachricht oder buchen Sie einen Termin, um über Ihre Marketingziele zu sprechen.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/contact/",
+     "title": "Contacto | Houston, Texas y Lahore, Pakistán",
+     "description": "Contacta con Pacific Marketing Solution en Houston, Texas o Lahore, Pakistán. Envía un mensaje o reserva una reunión para hablar de tus objetivos de marketing.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/contact/",
+     "title": "Contacto | Houston, Texas y Lahore, Pakistán",
+     "description": "Contacta con Pacific Marketing Solution en Houston, Texas o Lahore, Pakistán. Envía un mensaje o reserva una reunión para hablar de tus objetivos de marketing.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/contact/",
+     "title": "Contact | Houston (Texas) et Lahore (Pakistan)",
+     "description": "Contactez Pacific Marketing Solution à Houston (Texas) et Lahore (Pakistan). Envoyez un message ou réservez un rendez-vous pour parler de vos objectifs marketing.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/contact/",
+     "title": "お問い合わせ | ヒューストンとラホール",
+     "description": "テキサス州ヒューストンとパキスタンのラホールにある Pacific Marketing Solution へお問い合わせください。メッセージまたはミーティング予約で、マーケティング目標についてご相談いただけます。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/contact/",
+     "title": "Contacto | Houston, Texas, e Lahore, Paquistão",
+     "description": "Contacte a Pacific Marketing Solution em Houston, Texas, e Lahore, Paquistão. Envie uma mensagem ou marque uma reunião para falar dos seus objetivos de marketing.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/contact/",
+     "title": "联系我们 | 美国休斯敦与巴基斯坦拉合尔",
+     "description": "联系位于美国休斯敦和巴基斯坦拉合尔的 Pacific Marketing Solution。发送消息或预约会议，聊聊您的营销目标。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/contact.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "glossary": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/glossary/",
+     "title": "قاموس مصطلحات التسويق | Pacific Marketing Solution",
+     "description": "معاني مبسّطة لمصطلحات التسويق الشائعة: SEO وAEO وGEO وCRM وCTR وCPC والتحويل وقمع التحويل والعلامة البيضاء.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/glossary/",
+     "title": "Marketing-Glossar | Pacific Marketing Solution",
+     "description": "Marketing-Begriffe einfach erklärt: SEO, AEO, GEO, CRM, CTR, CPC, Conversion, Funnel und White-Label.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/glossary/",
+     "title": "Glosario de marketing digital | Pacific Marketing Solution",
+     "description": "Significados en lenguaje sencillo de términos de marketing habituales: SEO, AEO, GEO, CRM, CTR, CPC, conversión, embudo y marca blanca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/glossary/",
+     "title": "Glosario de marketing digital | Pacific Marketing Solution",
+     "description": "Significados en lenguaje sencillo de términos de marketing habituales: SEO, AEO, GEO, CRM, CTR, CPC, conversión, embudo y marca blanca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/glossary/",
+     "title": "Glossaire du marketing digital | Pacific Marketing Solution",
+     "description": "Le sens, en langage simple, des termes marketing courants : SEO, AEO, GEO, CRM, CTR, CPC, conversion, tunnel de conversion et marque blanche.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/glossary/",
+     "title": "Marketing Terms Explained | Pacific Marketing Solution",
+     "description": "Plain-English meanings of common marketing words such as SEO, AEO, GEO, CRM, CTR, CPC, conversion, funnel and white-label.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/glossary/",
+     "title": "マーケティング用語集｜Pacific Marketing Solution",
+     "description": "SEO・AEO・GEO・CRM・CTR・CPC・コンバージョン・ファネル・ホワイトラベルなど、マーケティング用語をやさしく解説。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/glossary/",
+     "title": "Glossário de marketing digital | Pacific Marketing Solution",
+     "description": "Significados em linguagem simples de termos de marketing comuns: SEO, AEO, GEO, CRM, CTR, CPC, conversão, funil e marca branca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/glossary/",
+     "title": "营销术语表 | Pacific Marketing Solution",
+     "description": "用通俗语言解释常见营销术语：SEO、AEO、GEO、CRM、CTR、CPC、转化、漏斗与白标。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/glossary.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/ai-analytics-data-intelligence": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/ai-analytics-data-intelligence/",
+     "title": "تحليلات الذكاء الاصطناعي والبيانات | Pacific Marketing Solution",
+     "description": "لوحات متابعة وخطوط بيانات وETL وتقارير بالذكاء الاصطناعي وتحليلات تنبؤية تحوّل بيانات العمل المبعثرة إلى قرارات.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/ai-analytics-data-intelligence/",
+     "title": "KI-Analytics und Data Intelligence | Pacific Marketing Solution",
+     "description": "Dashboards, Datenpipelines, ETL, KI-gestütztes Reporting und Predictive Analytics, die verstreute Unternehmensdaten in Entscheidungen verwandeln.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/ai-analytics-data-intelligence/",
+     "title": "Analítica con IA e inteligencia de datos | Pacific Marketing Solution",
+     "description": "Paneles, pipelines de datos, ETL, informes con IA y analítica predictiva que convierten datos de negocio dispersos en decisiones.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/ai-analytics-data-intelligence/",
+     "title": "Analítica con IA e inteligencia de datos | Pacific Marketing Solution",
+     "description": "Paneles, pipelines de datos, ETL, informes con IA y analítica predictiva que convierten datos de negocio dispersos en decisiones.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/ai-analytics-data-intelligence/",
+     "title": "Analytique IA et intelligence des données | Pacific Marketing Solution",
+     "description": "Tableaux de bord, pipelines de données, ETL, rapports assistés par IA et analytique prédictive qui transforment des données dispersées en décisions.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/ai-analytics-data-intelligence/",
+     "title": "AI分析・データインテリジェンス｜Pacific Marketing Solution",
+     "description": "ダッシュボード、データパイプライン、ETL、AI を活用したレポート、予測分析で、散らばった業務データを意思決定に変えます。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/ai-analytics-data-intelligence/",
+     "title": "Análise com IA e inteligência de dados | Pacific Marketing Solution",
+     "description": "Painéis, pipelines de dados, ETL, relatórios com IA e análise preditiva que transformam dados de negócio dispersos em decisões.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/ai-analytics-data-intelligence/",
+     "title": "AI Analytics & Data Intelligence | Pacific Marketing Solution",
+     "description": "Dashboards, data pipelines, ETL, AI-powered reporting and predictive analytics that turn scattered business data into decisions.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/ai-analytics-data-intelligence/",
+     "title": "AI 数据分析与数据智能 | Pacific Marketing Solution",
+     "description": "仪表板、数据管道、ETL、AI 辅助报告与预测分析，把分散的业务数据变成决策。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/ai-automation-crm": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/ai-automation-crm/",
+     "title": "أتمتة الذكاء الاصطناعي وإدارة العملاء | Pacific Marketing Solution",
+     "description": "إعداد مسارات نظام إدارة العملاء وتوجيه العملاء المحتملين والمتابعة التلقائية كي لا يضيع أي استفسار. دعم واضح للشركات الصغيرة والنامية.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/ai-automation-crm/",
+     "title": "KI-Automatisierung und CRM-Einrichtung | Pacific Marketing Solution",
+     "description": "Wir richten CRM-Pipelines, Lead-Routing und automatisches Nachfassen ein, damit keine Anfrage verloren geht. Verständliche Unterstützung für kleine und wachsende Unternehmen.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/ai-automation-crm/",
+     "title": "Automatización con IA y CRM | Pacific Marketing Solution",
+     "description": "Configuración de pipelines de CRM, asignación de leads y seguimientos automáticos para que no se pierda ninguna consulta. Ayuda clara para pymes y negocios en crecimiento.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/ai-automation-crm/",
+     "title": "Automatización con IA y CRM | Pacific Marketing Solution",
+     "description": "Configuración de pipelines de CRM, asignación de leads y seguimientos automáticos para que no se pierda ninguna consulta. Ayuda clara para pymes y negocios en crecimiento.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/ai-automation-crm/",
+     "title": "Automatisation IA et mise en place de CRM | Pacific Marketing Solution",
+     "description": "Pipelines CRM, routage des leads et relances automatiques pour ne perdre aucune demande. Un accompagnement clair pour les PME et les entreprises en croissance.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/ai-automation-crm/",
+     "title": "AI 自動化・CRM 導入支援｜Pacific Marketing Solution",
+     "description": "CRM のパイプライン、リード振り分け、自動フォローアップを設定し、問い合わせの取りこぼしを防ぎます。中小・成長企業向けにわかりやすくサポート。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/ai-automation-crm/",
+     "title": "Automação com IA e configuração de CRM | Pacific Marketing Solution",
+     "description": "Configuração de pipelines de CRM, encaminhamento de leads e acompanhamento automático para que nenhum pedido se perca. Apoio claro a PME e empresas em crescimento.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/ai-automation-crm/",
+     "title": "AI Automation & CRM Setup | Pacific Marketing Solution",
+     "description": "We set up CRM pipelines, lead routing and automatic follow-ups so no enquiry is missed. Plain-English help for small and growing businesses.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/ai-automation-crm/",
+     "title": "AI 自动化与 CRM 搭建 | Pacific Marketing Solution",
+     "description": "搭建 CRM 销售管道、线索分配与自动跟进，确保不漏掉任何咨询。以通俗易懂的方式支持中小企业和成长型企业。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-automation-crm.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/ai-chatbots-voice-agents": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/ai-chatbots-voice-agents/",
+     "title": "روبوتات الدردشة والمساعد الصوتي | Pacific Marketing Solution",
+     "description": "روبوتات دردشة ومساعدون صوتيون يجيبون عملاءك على موقعك وواتساب والهاتف ويحجزون المواعيد على مدار الساعة ويحيلون إلى فريقك عند الحاجة.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/ai-chatbots-voice-agents/",
+     "title": "KI-Chatbots und Sprachassistenten | Pacific Marketing Solution",
+     "description": "KI-Chatbots und Sprachassistenten beantworten Kundenfragen auf Website, WhatsApp und Telefon, buchen rund um die Uhr Termine und übergeben bei Bedarf an Ihr Team.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/ai-chatbots-voice-agents/",
+     "title": "Chatbots de IA y agentes de voz | Pacific Marketing Solution",
+     "description": "Chatbots de IA y agentes de voz que atienden a tus clientes en tu web, WhatsApp y teléfono, reservan citas a cualquier hora y pasan a tu equipo cuando hace falta.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/ai-chatbots-voice-agents/",
+     "title": "Chatbots de IA y agentes de voz | Pacific Marketing Solution",
+     "description": "Chatbots de IA y agentes de voz que atienden a tus clientes en tu web, WhatsApp y teléfono, reservan citas a cualquier hora y pasan a tu equipo cuando hace falta.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/ai-chatbots-voice-agents/",
+     "title": "Chatbots IA et agents vocaux | Pacific Marketing Solution",
+     "description": "Chatbots IA et agents vocaux qui répondent à vos clients sur votre site, WhatsApp et au téléphone, et prennent des rendez-vous 24 h/24, avec transfert vers votre équipe.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/ai-chatbots-voice-agents/",
+     "title": "AI チャットボット・音声エージェント｜Pacific Marketing Solution",
+     "description": "サイト・WhatsApp・電話で顧客の質問に答え、24時間予約を受け付け、必要に応じてチームへ引き継ぐ AI チャットボットと音声エージェント。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/ai-chatbots-voice-agents/",
+     "title": "Chatbots de IA e agentes de voz | Pacific Marketing Solution",
+     "description": "Chatbots de IA e agentes de voz que respondem a clientes no site, WhatsApp e telefone, marcam compromissos a qualquer hora e passam à sua equipa quando necessário.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/ai-chatbots-voice-agents/",
+     "title": "AI Chatbots & Voice Agents | Pacific Marketing Solution",
+     "description": "AI chatbots and voice agents that answer customer questions on your website, WhatsApp and phone, and book appointments around the clock.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/ai-chatbots-voice-agents/",
+     "title": "AI 聊天机器人与语音助手 | Pacific Marketing Solution",
+     "description": "在网站、WhatsApp 和电话上回答客户问题、全天候预约，并在需要时转交团队的 AI 聊天机器人与语音助手。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-chatbots-voice-agents.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/api-systems-integration": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/api-systems-integration/",
+     "title": "تكامل واجهات API والأنظمة | Pacific Marketing Solution",
+     "description": "واجهات REST API وتكاملات إدارة العملاء والدفع وWebhooks ومزامنة البيانات التي تربط أنظمتك لتنتقل البيانات دون نسخ يدوي.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/api-systems-integration/",
+     "title": "API- und Systemintegration | Pacific Marketing Solution",
+     "description": "REST-APIs, CRM- und Zahlungsintegrationen, Webhooks und Datensynchronisierung, die Ihre Systeme verbinden, damit Daten ohne manuelles Kopieren fließen.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/api-systems-integration/",
+     "title": "Integración de API y sistemas | Pacific Marketing Solution",
+     "description": "API REST, integraciones de CRM y pagos, webhooks y sincronización de datos que conectan tus sistemas para que los datos circulen sin copiar a mano.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/api-systems-integration/",
+     "title": "Integración de API y sistemas | Pacific Marketing Solution",
+     "description": "API REST, integraciones de CRM y pagos, webhooks y sincronización de datos que conectan tus sistemas para que los datos circulen sin copiar a mano.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/api-systems-integration/",
+     "title": "Intégration d'API et de systèmes | Pacific Marketing Solution",
+     "description": "API REST, intégrations CRM et paiement, webhooks et synchronisation de données qui relient vos systèmes pour que les données circulent sans recopie manuelle.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/api-systems-integration/",
+     "title": "API・システム連携｜Pacific Marketing Solution",
+     "description": "REST API、CRM・決済連携、Webhook、データ同期で、システムをつなぎ、手作業のコピーなしでデータが流れるようにします。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/api-systems-integration/",
+     "title": "Integração de APIs e sistemas | Pacific Marketing Solution",
+     "description": "APIs REST, integrações de CRM e pagamentos, webhooks e sincronização de dados que ligam os seus sistemas para que os dados circulem sem cópia manual.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/api-systems-integration/",
+     "title": "API & Systems Integration | Pacific Marketing Solution",
+     "description": "REST APIs, CRM and payment integrations, webhooks and data synchronization that connect your systems so data moves without manual copying.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/api-systems-integration/",
+     "title": "API 与系统集成 | Pacific Marketing Solution",
+     "description": "REST API、CRM 与支付集成、Webhook 和数据同步，连接您的系统，让数据无需手动复制即可流转。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/cloud-devops-infrastructure": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/cloud-devops-infrastructure/",
+     "title": "السحابة وDevOps والبنية التحتية | Pacific Marketing Solution",
+     "description": "نشر سحابي وإدارة VPS وخوادم Linux وDocker وCI/CD وSSL وDNS ومراقبة ونسخ احتياطي وأمان للمواقع والبرمجيات.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps und Infrastruktur | Pacific Marketing Solution",
+     "description": "Cloud-Deployment, VPS- und Linux-Server-Verwaltung, Docker, CI/CD, SSL und DNS, Monitoring, Backups und Sicherheit für Websites und Software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/cloud-devops-infrastructure/",
+     "title": "Nube, DevOps e infraestructura | Pacific Marketing Solution",
+     "description": "Despliegue en la nube, gestión de VPS y servidores Linux, Docker, CI/CD, SSL y DNS, monitorización, copias de seguridad y seguridad para webs y software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/cloud-devops-infrastructure/",
+     "title": "Nube, DevOps e infraestructura | Pacific Marketing Solution",
+     "description": "Despliegue en la nube, gestión de VPS y servidores Linux, Docker, CI/CD, SSL y DNS, monitorización, copias de seguridad y seguridad para webs y software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps et infrastructure | Pacific Marketing Solution",
+     "description": "Déploiement cloud, gestion de VPS et de serveurs Linux, Docker, CI/CD, SSL et DNS, surveillance, sauvegardes et sécurité pour sites et logiciels.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/cloud-devops-infrastructure/",
+     "title": "クラウド・DevOps・インフラ｜Pacific Marketing Solution",
+     "description": "クラウドデプロイ、VPS・Linux サーバー管理、Docker、CI/CD、SSL・DNS、監視、バックアップ、セキュリティを、Webサイトとソフトウェア向けに提供します。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps e infraestrutura | Pacific Marketing Solution",
+     "description": "Implementação em cloud, gestão de VPS e servidores Linux, Docker, CI/CD, SSL e DNS, monitorização, cópias de segurança e segurança para sites e software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps & Infrastructure | Pacific Marketing Solution",
+     "description": "Cloud deployment, VPS and Linux server management, Docker, CI/CD, SSL and DNS, monitoring, backups and security for websites and software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/cloud-devops-infrastructure/",
+     "title": "云、DevOps 与基础设施 | Pacific Marketing Solution",
+     "description": "云部署、VPS 与 Linux 服务器管理、Docker、CI/CD、SSL 与 DNS、监控、备份与安全，服务网站与软件。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/content-creative-video": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/content-creative-video/",
+     "title": "المحتوى والإبداع والفيديو | Pacific Marketing Solution",
+     "description": "منشورات وتصاميم إعلانية وفيديوهات قصيرة تُنتج بوتيرة منتظمة، مع الذكاء الاصطناعي لتسريع المسودات وأشخاص يحافظون على هوية علامتك.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/content-creative-video/",
+     "title": "Content, Kreation und Video | Pacific Marketing Solution",
+     "description": "Social Posts, Werbemittel und Kurzvideos in gleichmäßigem Rhythmus, mit KI für schnellere Entwürfe und Menschen, die Ihre Marke im Blick behalten.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/content-creative-video/",
+     "title": "Contenido, creatividad y vídeo | Pacific Marketing Solution",
+     "description": "Publicaciones, creatividades de anuncios y vídeos cortos producidos con ritmo constante, con IA para acelerar borradores y personas para mantener la fidelidad a tu marca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/content-creative-video/",
+     "title": "Contenido, creatividad y video | Pacific Marketing Solution",
+     "description": "Publicaciones, creatividades de anuncios y videos cortos producidos con ritmo constante, con IA para acelerar borradores y personas para mantener la fidelidad a tu marca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/content-creative-video/",
+     "title": "Contenu, création et vidéo | Pacific Marketing Solution",
+     "description": "Publications, visuels publicitaires et vidéos courtes produits à un rythme régulier, avec l'IA pour accélérer les brouillons et des personnes pour rester fidèle à votre marque.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/content-creative-video/",
+     "title": "コンテンツ制作・動画制作｜Pacific Marketing Solution",
+     "description": "SNS投稿・広告クリエイティブ・ショート動画を安定したスケジュールで制作。AI で下書きを速め、人がブランドらしさを守ります。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/content-creative-video/",
+     "title": "Conteúdo, criatividade e vídeo | Pacific Marketing Solution",
+     "description": "Publicações, criativos de anúncios e vídeos curtos produzidos num ritmo constante, com IA para acelerar rascunhos e pessoas para manter a fidelidade à marca.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/content-creative-video/",
+     "title": "Content, Creative & Video | Pacific Marketing Solution",
+     "description": "Social posts, ad creatives and short videos made on a steady schedule, with AI to speed up drafts and people to keep it on brand.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/content-creative-video/",
+     "title": "内容、创意与视频制作 | Pacific Marketing Solution",
+     "description": "按稳定节奏制作的社交帖子、广告创意和短视频，用 AI 加快初稿，由人确保贴合品牌。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/content-creative-video.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/",
+     "title": "خدمات التسويق الرقمي | Pacific Marketing Solution",
+     "description": "اثنتا عشرة خدمة في التسويق والتقنية: SEO والإعلانات وأتمتة الذكاء الاصطناعي وروبوتات الدردشة والمواقع والتحليلات وتطوير البرمجيات والتكامل والسحابة.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/",
+     "title": "Leistungen im Digitalmarketing | Pacific Marketing Solution",
+     "description": "Zwölf Leistungen in Marketing und Technologie: SEO, Werbung, KI-Automatisierung, Chatbots, Websites, Analytics, Softwareentwicklung, Integrationen und Cloud.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/",
+     "title": "Servicios de marketing digital | Pacific Marketing Solution",
+     "description": "Doce servicios de marketing y tecnología: SEO, publicidad, automatización con IA, chatbots, webs, analítica, desarrollo de software, integraciones y nube.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/",
+     "title": "Servicios de marketing digital | Pacific Marketing Solution",
+     "description": "Doce servicios de marketing y tecnología: SEO, publicidad, automatización con IA, chatbots, webs, analítica, desarrollo de software, integraciones y nube.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/",
+     "title": "Services de marketing digital | Pacific Marketing Solution",
+     "description": "Douze services en marketing et technologie : SEO, publicité, automatisation IA, chatbots, sites web, analytique, développement logiciel, intégrations et cloud.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/",
+     "title": "デジタルマーケティングサービス｜Pacific Marketing Solution",
+     "description": "マーケティングとテクノロジーの12のサービス：SEO、広告、AI 自動化、チャットボット、Web、分析、ソフトウェア開発、システム連携、クラウド。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/",
+     "title": "Serviços de marketing digital | Pacific Marketing Solution",
+     "description": "Doze serviços de marketing e tecnologia: SEO, publicidade, automação com IA, chatbots, sites, análise, desenvolvimento de software, integrações e cloud.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/",
+     "title": "Digital Marketing Services | Pacific Marketing Solution",
+     "description": "Explore our twelve services: marketing, SEO, AI automation, chatbots, websites, analytics, software development, integrations and cloud.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/",
+     "title": "数字营销服务 | Pacific Marketing Solution",
+     "description": "十二项营销与技术服务：SEO、广告、AI 自动化、聊天机器人、网站、数据分析、软件开发、系统集成与云服务。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/performance-marketing-funnels": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/performance-marketing-funnels/",
+     "title": "التسويق بالأداء والإعلانات المدفوعة | Pacific Marketing Solution",
+     "description": "حملات إعلانات جوجل وميتا موجّهة بتكلفة العميل المؤهل مع صفحات هبوط وتتبع التحويلات وتقارير أسبوعية واضحة.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/performance-marketing-funnels/",
+     "title": "Performance-Marketing und Online-Werbung | Pacific Marketing Solution",
+     "description": "Google-Ads- und Meta-Ads-Kampagnen, gesteuert nach Kosten pro qualifiziertem Lead, mit Landingpages, Conversion-Tracking und klaren Wochenberichten.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/performance-marketing-funnels/",
+     "title": "Marketing de rendimiento y publicidad | Pacific Marketing Solution",
+     "description": "Campañas de Google Ads y Meta Ads orientadas al coste por lead cualificado, con páginas de destino, seguimiento de conversiones e informes semanales claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/performance-marketing-funnels/",
+     "title": "Marketing de rendimiento y publicidad | Pacific Marketing Solution",
+     "description": "Campañas de Google Ads y Meta Ads orientadas al costo por lead cualificado, con páginas de destino, seguimiento de conversiones e informes semanales claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/performance-marketing-funnels/",
+     "title": "Marketing de performance et publicité | Pacific Marketing Solution",
+     "description": "Campagnes Google Ads et Meta Ads pilotées au coût par lead qualifié, avec pages d'atterrissage, suivi des conversions et rapports hebdomadaires clairs.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/performance-marketing-funnels/",
+     "title": "パフォーマンスマーケティング・広告運用｜Pacific Marketing Solution",
+     "description": "有効リード単価を軸にした Google 広告・Meta 広告の運用。ランディングページ、コンバージョン計測、わかりやすい週次レポート付き。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/performance-marketing-funnels/",
+     "title": "Marketing de desempenho e publicidade | Pacific Marketing Solution",
+     "description": "Campanhas de Google Ads e Meta Ads orientadas pelo custo por lead qualificado, com páginas de destino, monitorização de conversões e relatórios semanais claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/performance-marketing-funnels/",
+     "title": "Performance Marketing & Ads | Pacific Marketing Solution",
+     "description": "Google Ads and Meta Ads campaigns built around cost per qualified lead, with landing pages, tracking and clear weekly reports.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/performance-marketing-funnels/",
+     "title": "效果营销与广告投放 | Pacific Marketing Solution",
+     "description": "以单个合格线索成本为核心的 Google 广告与 Meta 广告投放，配套落地页、转化追踪和清晰的每周报告。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/saas-custom-software-development": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/saas-custom-software-development/",
+     "title": "SaaS والبرمجيات المخصصة | Pacific Marketing Solution",
+     "description": "منتجات SaaS أولية وتطبيقات ويب مخصصة ولوحات إدارة وبوابات عملاء مبنية بـ React وNext.js وTypeScript وPython وFastAPI وNode.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/saas-custom-software-development/",
+     "title": "SaaS- und Individualsoftware | Pacific Marketing Solution",
+     "description": "SaaS-MVPs, individuelle Webanwendungen, Admin-Dashboards und Kundenportale, gebaut mit React, Next.js, TypeScript, Python, FastAPI und Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/saas-custom-software-development/",
+     "title": "SaaS y software a medida | Pacific Marketing Solution",
+     "description": "MVP SaaS, aplicaciones web a medida, paneles de administración y portales de clientes creados con React, Next.js, TypeScript, Python, FastAPI y Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/saas-custom-software-development/",
+     "title": "SaaS y software a medida | Pacific Marketing Solution",
+     "description": "MVP SaaS, aplicaciones web a medida, paneles de administración y portales de clientes creados con React, Next.js, TypeScript, Python, FastAPI y Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/saas-custom-software-development/",
+     "title": "SaaS et développement logiciel sur mesure | Pacific Marketing Solution",
+     "description": "MVP SaaS, applications web sur mesure, tableaux de bord d'administration et portails clients développés avec React, Next.js, TypeScript, Python, FastAPI et Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/saas-custom-software-development/",
+     "title": "SaaS・受託ソフトウェア開発｜Pacific Marketing Solution",
+     "description": "React、Next.js、TypeScript、Python、FastAPI、Node.js で開発する SaaS の MVP、カスタム Web アプリ、管理ダッシュボード、顧客ポータル。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/saas-custom-software-development/",
+     "title": "SaaS e software à medida | Pacific Marketing Solution",
+     "description": "MVPs SaaS, aplicações web à medida, painéis de administração e portais de clientes construídos com React, Next.js, TypeScript, Python, FastAPI e Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/saas-custom-software-development/",
+     "title": "SaaS & Custom Software Development | Pacific Marketing Solution",
+     "description": "SaaS MVPs, custom web applications, admin dashboards and customer portals built with React, Next.js, TypeScript, Python, FastAPI and Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/saas-custom-software-development/",
+     "title": "SaaS 与定制软件开发 | Pacific Marketing Solution",
+     "description": "使用 React、Next.js、TypeScript、Python、FastAPI 与 Node.js 开发的 SaaS MVP、定制 Web 应用、管理后台和客户门户。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/seo-aeo-geo": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/seo-aeo-geo/",
+     "title": "تحسين محركات البحث والإجابة وSEO وGEO | Pacific Marketing Solution",
+     "description": "شرح مبسّط لـ SEO وAEO وGEO: الترتيب في البحث والفوز بالإجابات المباشرة والذكر في مساعدي الذكاء الاصطناعي مثل ChatGPT وGemini وPerplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/seo-aeo-geo/",
+     "title": "SEO, AEO und GEO | Pacific Marketing Solution",
+     "description": "SEO, AEO und GEO einfach erklärt: in der Suche ranken, direkte Antworten gewinnen und von KI-Assistenten wie ChatGPT, Gemini und Perplexity genannt werden.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/seo-aeo-geo/",
+     "title": "SEO, AEO y GEO | Pacific Marketing Solution",
+     "description": "SEO, AEO y GEO explicados de forma sencilla: posicionarse en la búsqueda, lograr respuestas directas y ser mencionado por asistentes de IA como ChatGPT, Gemini y Perplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/seo-aeo-geo/",
+     "title": "SEO, AEO y GEO | Pacific Marketing Solution",
+     "description": "SEO, AEO y GEO explicados de forma sencilla: posicionarse en la búsqueda, lograr respuestas directas y ser mencionado por asistentes de IA como ChatGPT, Gemini y Perplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/seo-aeo-geo/",
+     "title": "SEO, AEO et GEO | Pacific Marketing Solution",
+     "description": "Le SEO, l'AEO et le GEO expliqués simplement : se classer dans la recherche, obtenir des réponses directes et être cité par des assistants IA comme ChatGPT, Gemini ou Perplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/seo-aeo-geo/",
+     "title": "SEO・AEO・GEO対策｜Pacific Marketing Solution",
+     "description": "SEO・AEO・GEO をやさしく解説：検索で上位に表示され、直接の回答に選ばれ、ChatGPT・Gemini・Perplexity などの AI アシスタントに紹介されるために。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/seo-aeo-geo/",
+     "title": "SEO, AEO e GEO | Pacific Marketing Solution",
+     "description": "SEO, AEO e GEO explicados de forma simples: posicionar-se na pesquisa, conquistar respostas diretas e ser mencionado por assistentes de IA como o ChatGPT, o Gemini e o Perplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/seo-aeo-geo/",
+     "title": "SEO, AEO & GEO Services | Pacific Marketing Solution",
+     "description": "SEO, AEO and GEO explained simply: rank in search, win direct answers and get mentioned by AI assistants such as ChatGPT, Gemini and Perplexity.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/seo-aeo-geo/",
+     "title": "SEO、AEO 与 GEO 优化 | Pacific Marketing Solution",
+     "description": "通俗讲解 SEO、AEO 与 GEO：在搜索中获得排名、赢得直接答案，并被 ChatGPT、Gemini、Perplexity 等 AI 助手提及。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/seo-aeo-geo.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/social-media-management": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/social-media-management/",
+     "title": "إدارة وسائل التواصل الاجتماعي | Pacific Marketing Solution",
+     "description": "إدارة وسائل التواصل الاجتماعي لعملك: تقويم محتوى ومنشورات وفيديوهات قصيرة وردود على جمهورك وتقارير شهرية واضحة.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/social-media-management/",
+     "title": "Social-Media-Management | Pacific Marketing Solution",
+     "description": "Social-Media-Management für Ihr Unternehmen: Redaktionskalender, Beiträge und Kurzvideos, Antworten an Ihr Publikum und klare Monatsberichte.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/social-media-management/",
+     "title": "Gestión de redes sociales | Pacific Marketing Solution",
+     "description": "Gestión de redes sociales para tu negocio: calendario de contenido, publicaciones y vídeos cortos, respuestas a tu audiencia e informes mensuales claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/social-media-management/",
+     "title": "Gestión de redes sociales | Pacific Marketing Solution",
+     "description": "Gestión de redes sociales para tu negocio: calendario de contenido, publicaciones y videos cortos, respuestas a tu audiencia e informes mensuales claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/social-media-management/",
+     "title": "Gestion des réseaux sociaux | Pacific Marketing Solution",
+     "description": "Gestion de vos réseaux sociaux : calendrier éditorial, publications et vidéos courtes, réponses à votre public et rapports mensuels clairs.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/social-media-management/",
+     "title": "SNS運用代行｜Pacific Marketing Solution",
+     "description": "事業向けSNS運用：コンテンツカレンダー、投稿とショート動画、フォロワーへの返信、わかりやすい月次レポート。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/social-media-management/",
+     "title": "Gestão de redes sociais | Pacific Marketing Solution",
+     "description": "Gestão de redes sociais para o seu negócio: calendário de conteúdo, publicações e vídeos curtos, respostas ao público e relatórios mensais claros.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/social-media-management/",
+     "title": "Social Media Management | Pacific Marketing Solution",
+     "description": "Social media management for your business: content calendars, posts and short videos, replies to your audience and clear monthly reports.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/social-media-management/",
+     "title": "社交媒体管理与运营 | Pacific Marketing Solution",
+     "description": "为您的企业提供社交媒体管理：内容日历、帖子与短视频、回复受众，以及清晰的月度报告。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/social-media-management.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/websites-digital-products": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/websites-digital-products/",
+     "title": "تطوير المواقع والتطبيقات | Pacific Marketing Solution",
+     "description": "مواقع وصفحات هبوط سريعة ومتوافقة مع الجوال تحوّل الزوار إلى استفسارات، مع ربط النماذج والحجوزات والتحليلات.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/websites-digital-products/",
+     "title": "Website- und App-Entwicklung | Pacific Marketing Solution",
+     "description": "Schnelle, mobilfreundliche Websites und Landingpages, die Besucher zu Anfragen machen, mit angebundenen Formularen, Buchung und Analytics.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/websites-digital-products/",
+     "title": "Desarrollo de webs y aplicaciones | Pacific Marketing Solution",
+     "description": "Webs y páginas de destino rápidas y adaptadas al móvil, pensadas para convertir visitas en consultas, con formularios, reservas y analítica conectados.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/websites-digital-products/",
+     "title": "Desarrollo de webs y aplicaciones | Pacific Marketing Solution",
+     "description": "Webs y páginas de destino rápidas y adaptadas al celular, pensadas para convertir visitas en consultas, con formularios, reservas y analítica conectados.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/websites-digital-products/",
+     "title": "Création de sites web et d'applications | Pacific Marketing Solution",
+     "description": "Sites web et pages d'atterrissage rapides et adaptés au mobile, conçus pour transformer les visiteurs en demandes, avec formulaires, réservation et statistiques connectés.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/websites-digital-products/",
+     "title": "Webサイト・アプリ開発｜Pacific Marketing Solution",
+     "description": "速くてモバイル対応のWebサイトとランディングページで、訪問者を問い合わせにつなげます。フォーム・予約・解析も連携。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/websites-digital-products/",
+     "title": "Desenvolvimento de sites e aplicações | Pacific Marketing Solution",
+     "description": "Sites e páginas de destino rápidos e adaptados ao telemóvel, criados para transformar visitantes em pedidos, com formulários, marcações e análise ligados.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/websites-digital-products/",
+     "title": "Website & App Development | Pacific Marketing Solution",
+     "description": "Fast, mobile-friendly websites and landing pages designed to turn visitors into enquiries, with forms, booking and analytics connected.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/websites-digital-products/",
+     "title": "网站与应用开发 | Pacific Marketing Solution",
+     "description": "快速、适配手机的网站与落地页，把访客转化为咨询，并接入表单、预约与数据分析。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/websites-digital-products.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/white-label-services": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/white-label-services/",
+     "title": "التسويق بالعلامة البيضاء | Pacific Marketing Solution",
+     "description": "SEO ومواقع ومحتوى وإدارة إعلانات بالعلامة البيضاء تُسلَّم تحت علامتك لتقبل وكالتك مزيدًا من العملاء بثقة.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/white-label-services/",
+     "title": "White-Label-Marketing | Pacific Marketing Solution",
+     "description": "SEO, Websites, Content und Anzeigenmanagement als White-Label, unter Ihrer Marke geliefert, damit Ihre Agentur mit Zuversicht mehr Kunden annehmen kann.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/white-label-services/",
+     "title": "Marketing en marca blanca | Pacific Marketing Solution",
+     "description": "SEO, webs, contenido y gestión de anuncios en marca blanca, entregados bajo tu marca para que tu agencia asuma más clientes con confianza.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/white-label-services/",
+     "title": "Marketing en marca blanca | Pacific Marketing Solution",
+     "description": "SEO, webs, contenido y gestión de anuncios en marca blanca, entregados bajo tu marca para que tu agencia asuma más clientes con confianza.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/white-label-services/",
+     "title": "Marketing en marque blanche | Pacific Marketing Solution",
+     "description": "SEO, sites web, contenu et gestion publicitaire en marque blanche, livrés sous votre marque pour que votre agence prenne plus de clients en toute confiance.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/white-label-services/",
+     "title": "ホワイトラベル・マーケティング支援｜Pacific Marketing Solution",
+     "description": "御社ブランドで納品するホワイトラベルの SEO・Web 制作・コンテンツ・広告運用管理。代理店が安心してより多くの顧客を受けられます。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/white-label-services/",
+     "title": "Marketing em marca branca | Pacific Marketing Solution",
+     "description": "SEO, sites, conteúdo e gestão de anúncios em marca branca, entregues sob a sua marca, para que a sua agência aceite mais clientes com confiança.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/white-label-services/",
+     "title": "White-Label Marketing Services | Pacific Marketing Solution",
+     "description": "White-label SEO, website, content and ad management delivered under your brand, so your agency can take on more clients with confidence.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/white-label-services/",
+     "title": "白标营销服务 | Pacific Marketing Solution",
+     "description": "以您的品牌交付的白标 SEO、网站、内容与广告管理，让您的代理公司有底气承接更多客户。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/white-label-services.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "work": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/work/",
+     "title": "دراسات الحالة والنتائج | Pacific Marketing Solution",
+     "description": "دراسات حالة حقيقية في SEO وGoogle Ads وMeta Ads مع الأرقام: النقرات ومرات الظهور ومعدل النقر وتكلفة النقرة والمزيد.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/work/",
+     "title": "Fallstudien und Ergebnisse | Pacific Marketing Solution",
+     "description": "Echte SEO-, Google-Ads- und Meta-Ads-Fallstudien mit Zahlen: Klicks, Impressionen, Klickrate, Kosten pro Klick und mehr.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/work/",
+     "title": "Casos de estudio y resultados | Pacific Marketing Solution",
+     "description": "Casos de estudio reales de SEO, Google Ads y Meta Ads con las cifras: clics, impresiones, tasa de clics, coste por clic y más.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/work/",
+     "title": "Casos de estudio y resultados | Pacific Marketing Solution",
+     "description": "Casos de estudio reales de SEO, Google Ads y Meta Ads con las cifras: clics, impresiones, tasa de clics, costo por clic y más.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/work/",
+     "title": "Études de cas et résultats | Pacific Marketing Solution",
+     "description": "De vraies études de cas SEO, Google Ads et Meta Ads, chiffres à l'appui : clics, impressions, taux de clic, coût par clic et plus.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/work/",
+     "title": "事例と成果 | Pacific Marketing Solution",
+     "description": "SEO・Google 広告・Meta 広告の実際の事例を数値付きで：クリック数、インプレッション、クリック率、クリック単価など。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/work/",
+     "title": "Casos de estudo e resultados | Pacific Marketing Solution",
+     "description": "Casos de estudo reais de SEO, Google Ads e Meta Ads com números: cliques, impressões, taxa de cliques, custo por clique e mais.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/work/",
+     "title": "Case Studies & Results | Pacific Marketing Solution",
+     "description": "Real SEO, Google Ads and Meta Ads case studies with the numbers: clicks, impressions, click-through rate, cost per click and more.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/work/",
+     "title": "案例与成果 | Pacific Marketing Solution",
+     "description": "真实的 SEO、Google 广告和 Meta 广告案例，附数据：点击、展示、点击率、单次点击成本等。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/work.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "insights/a-low-cost-per-click-needs-conversion-tracking": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/a-low-cost-per-click-needs-conversion-tracking/",
+     "title": "Low Cost Per Click: Why Conversion Tracking Matters",
+     "description": "A $0.78 click sounds cheap, but is it working? Learn why cost per click needs conversion tracking, using a real Google Ads campaign.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-a-low-cost-per-click-needs-conversion-tracking.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/clicks-or-conversations-meta-ads-objective": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/clicks-or-conversations-meta-ads-objective/",
+     "title": "Meta Ads Objectives: Clicks or Conversations?",
+     "description": "How to choose between link clicks and messaging conversations on Meta Ads, with real costs from three industrial-products campaigns.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-clicks-or-conversations-meta-ads-objective.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/fix-indexing-before-writing-more-content": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/fix-indexing-before-writing-more-content/",
+     "title": "Fix Website Indexing First: A Law Firm SEO Case",
+     "description": "Why search engines must index your pages before new content helps, and how fixing indexing for a law firm led to qualified leads by month three.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-fix-indexing-before-writing-more-content.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/",
+     "title": "Marketing Insights | Pacific Marketing Solution",
+     "description": "Plain-English lessons from our own SEO, Google Ads and Meta Ads campaigns: what the numbers show and what we would do next.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insights.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/meta-ads-cost-per-click-155000-link-clicks": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/meta-ads-cost-per-click-155000-link-clicks/",
+     "title": "Meta Ads Cost Per Click: 155,000 Clicks Analysed",
+     "description": "Three Meta Ads campaigns produced over 155,000 link clicks at PKR 1.63 to 1.95 each. See what the numbers show about cost per click and scale.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-meta-ads-cost-per-click-155000-link-clicks.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/reading-a-google-ads-report-beyond-clicks": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/reading-a-google-ads-report-beyond-clicks/",
+     "title": "How to Read a Google Ads Report: Clicks to Conversions",
+     "description": "Follow a $1,720 Google Ads campaign from impressions to cost per conversion, and learn why clicks alone do not show whether ads are working.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-reading-a-google-ads-report-beyond-clicks.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/three-seo-reports-side-by-side": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/three-seo-reports-side-by-side/",
+     "title": "How to Read an SEO Report: CTR vs Average Position",
+     "description": "See how three real SEO projects compare on clicks, impressions, click-through rate and average position, and what each number does and does not tell you.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-three-seo-reports-side-by-side.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "insights/what-clients-say-they-value-most": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/",
+     "title": "What Clients Value in a Marketing Agency",
+     "description": "We read our client testimonials for patterns. SEO results, quick replies and shared know-how came up most. Here is what clients said.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/insight-what-clients-say-they-value-most.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "privacy-policy": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/privacy-policy/",
+     "title": "Privacy Policy | Pacific Marketing Solution",
+     "description": "How Pacific Marketing Solution collects, uses, shares and protects personal information, and the choices and rights you have.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/privacy-policy.jpg",
+     "hreflangGroup": []
+    }
+   }
+  },
+  "terms-of-service": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "en": {
+     "url": "https://pacificmarketingsolution.com/terms-of-service/",
+     "title": "Terms of Service | Pacific Marketing Solution",
+     "description": "The terms for using the Pacific Marketing Solution website and services, including scope, payments, ownership, liability and your responsibilities.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/terms-of-service.jpg",
+     "hreflangGroup": []
+    }
+   }
+  }
+ }
+}

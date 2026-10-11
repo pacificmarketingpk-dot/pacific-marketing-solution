@@ -1,0 +1,76 @@
+{
+  "_README": "OWNER INPUT REQUIRED. For each service below, write real answers. Nothing here is published until it is filled in and the site is rebuilt. Keep answers factual: no guarantees, no invented numbers. The site will show each answer as: question, then a direct one-or-two sentence answer, then the explanation.",
+  "_fields": {
+    "typicalTimeline": "How long does a typical project take from start to first results, and what changes it? Give a real range and what it depends on.",
+    "pricingModelOrFactors": "How is the work priced (fixed, monthly, per project) and which factors change the price? A price range is optional; the factors are enough.",
+    "realisticOutcomes": "What can a client realistically expect, and when? Only things you have seen in real projects. No guarantees.",
+    "importantLimitations": "What this service does not include, or what depends on the client (access, budget, approvals).",
+    "keyDeliverables": "The concrete things the client receives (documents, accounts set up, reports, assets)."
+  },
+  "services": {
+    "ai-automation-crm": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "ai-chatbots-voice-agents": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "performance-marketing-funnels": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "content-creative-video": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "social-media-management": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "websites-digital-products": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "seo-aeo-geo": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    },
+    "white-label-services": {
+      "typicalTimeline": null,
+      "pricingModelOrFactors": null,
+      "realisticOutcomes": null,
+      "importantLimitations": null,
+      "keyDeliverables": null
+    }
+  },
+  "socialMediaManagementScopeConfirmation": {
+    "_help": "The Social Media Management page was drafted by us. Please confirm or correct each point.",
+    "platformsManaged": null,
+    "repliesToCommentsAndMessages": null,
+    "paidSocialAdsIncluded": null,
+    "monthlyReportingIncluded": null,
+    "postingFrequencyOptions": null
+  }
+}
