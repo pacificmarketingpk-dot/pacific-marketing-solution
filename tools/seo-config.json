@@ -741,6 +741,173 @@
     }
    }
   },
+  "services/ai-analytics-data-intelligence": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/ai-analytics-data-intelligence/",
+     "title": "تحليلات الذكاء الاصطناعي والبيانات | Pacific Marketing Solution",
+     "description": "لوحات متابعة وخطوط بيانات وETL وتقارير بالذكاء الاصطناعي وتحليلات تنبؤية تحوّل بيانات العمل المبعثرة إلى قرارات.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/ai-analytics-data-intelligence/",
+     "title": "KI-Analytics und Data Intelligence | Pacific Marketing Solution",
+     "description": "Dashboards, Datenpipelines, ETL, KI-gestütztes Reporting und Predictive Analytics, die verstreute Unternehmensdaten in Entscheidungen verwandeln.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/ai-analytics-data-intelligence/",
+     "title": "Analítica con IA e inteligencia de datos | Pacific Marketing Solution",
+     "description": "Paneles, pipelines de datos, ETL, informes con IA y analítica predictiva que convierten datos de negocio dispersos en decisiones.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/ai-analytics-data-intelligence/",
+     "title": "Analítica con IA e inteligencia de datos | Pacific Marketing Solution",
+     "description": "Paneles, pipelines de datos, ETL, informes con IA y analítica predictiva que convierten datos de negocio dispersos en decisiones.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/ai-analytics-data-intelligence/",
+     "title": "Analytique IA et intelligence des données | Pacific Marketing Solution",
+     "description": "Tableaux de bord, pipelines de données, ETL, rapports assistés par IA et analytique prédictive qui transforment des données dispersées en décisions.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/ai-analytics-data-intelligence/",
+     "title": "AI分析・データインテリジェンス｜Pacific Marketing Solution",
+     "description": "ダッシュボード、データパイプライン、ETL、AI を活用したレポート、予測分析で、散らばった業務データを意思決定に変えます。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/ai-analytics-data-intelligence/",
+     "title": "Análise com IA e inteligência de dados | Pacific Marketing Solution",
+     "description": "Painéis, pipelines de dados, ETL, relatórios com IA e análise preditiva que transformam dados de negócio dispersos em decisões.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/ai-analytics-data-intelligence/",
+     "title": "AI Analytics & Data Intelligence | Pacific Marketing Solution",
+     "description": "Dashboards, data pipelines, ETL, AI-powered reporting and predictive analytics that turn scattered business data into decisions.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/ai-analytics-data-intelligence/",
+     "title": "AI 数据分析与数据智能 | Pacific Marketing Solution",
+     "description": "仪表板、数据管道、ETL、AI 辅助报告与预测分析，把分散的业务数据变成决策。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/ai-analytics-data-intelligence.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
   "services/ai-automation-crm": {
    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
    "versions": {
@@ -1075,6 +1242,340 @@
     }
    }
   },
+  "services/api-systems-integration": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/api-systems-integration/",
+     "title": "تكامل واجهات API والأنظمة | Pacific Marketing Solution",
+     "description": "واجهات REST API وتكاملات إدارة العملاء والدفع وWebhooks ومزامنة البيانات التي تربط أنظمتك لتنتقل البيانات دون نسخ يدوي.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/api-systems-integration/",
+     "title": "API- und Systemintegration | Pacific Marketing Solution",
+     "description": "REST-APIs, CRM- und Zahlungsintegrationen, Webhooks und Datensynchronisierung, die Ihre Systeme verbinden, damit Daten ohne manuelles Kopieren fließen.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/api-systems-integration/",
+     "title": "Integración de API y sistemas | Pacific Marketing Solution",
+     "description": "API REST, integraciones de CRM y pagos, webhooks y sincronización de datos que conectan tus sistemas para que los datos circulen sin copiar a mano.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/api-systems-integration/",
+     "title": "Integración de API y sistemas | Pacific Marketing Solution",
+     "description": "API REST, integraciones de CRM y pagos, webhooks y sincronización de datos que conectan tus sistemas para que los datos circulen sin copiar a mano.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/api-systems-integration/",
+     "title": "Intégration d'API et de systèmes | Pacific Marketing Solution",
+     "description": "API REST, intégrations CRM et paiement, webhooks et synchronisation de données qui relient vos systèmes pour que les données circulent sans recopie manuelle.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/api-systems-integration/",
+     "title": "API・システム連携｜Pacific Marketing Solution",
+     "description": "REST API、CRM・決済連携、Webhook、データ同期で、システムをつなぎ、手作業のコピーなしでデータが流れるようにします。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/api-systems-integration/",
+     "title": "Integração de APIs e sistemas | Pacific Marketing Solution",
+     "description": "APIs REST, integrações de CRM e pagamentos, webhooks e sincronização de dados que ligam os seus sistemas para que os dados circulem sem cópia manual.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/api-systems-integration/",
+     "title": "API & Systems Integration | Pacific Marketing Solution",
+     "description": "REST APIs, CRM and payment integrations, webhooks and data synchronization that connect your systems so data moves without manual copying.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/api-systems-integration/",
+     "title": "API 与系统集成 | Pacific Marketing Solution",
+     "description": "REST API、CRM 与支付集成、Webhook 和数据同步，连接您的系统，让数据无需手动复制即可流转。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/api-systems-integration.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/cloud-devops-infrastructure": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/cloud-devops-infrastructure/",
+     "title": "السحابة وDevOps والبنية التحتية | Pacific Marketing Solution",
+     "description": "نشر سحابي وإدارة VPS وخوادم Linux وDocker وCI/CD وSSL وDNS ومراقبة ونسخ احتياطي وأمان للمواقع والبرمجيات.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps und Infrastruktur | Pacific Marketing Solution",
+     "description": "Cloud-Deployment, VPS- und Linux-Server-Verwaltung, Docker, CI/CD, SSL und DNS, Monitoring, Backups und Sicherheit für Websites und Software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/cloud-devops-infrastructure/",
+     "title": "Nube, DevOps e infraestructura | Pacific Marketing Solution",
+     "description": "Despliegue en la nube, gestión de VPS y servidores Linux, Docker, CI/CD, SSL y DNS, monitorización, copias de seguridad y seguridad para webs y software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/cloud-devops-infrastructure/",
+     "title": "Nube, DevOps e infraestructura | Pacific Marketing Solution",
+     "description": "Despliegue en la nube, gestión de VPS y servidores Linux, Docker, CI/CD, SSL y DNS, monitorización, copias de seguridad y seguridad para webs y software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps et infrastructure | Pacific Marketing Solution",
+     "description": "Déploiement cloud, gestion de VPS et de serveurs Linux, Docker, CI/CD, SSL et DNS, surveillance, sauvegardes et sécurité pour sites et logiciels.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/cloud-devops-infrastructure/",
+     "title": "クラウド・DevOps・インフラ｜Pacific Marketing Solution",
+     "description": "クラウドデプロイ、VPS・Linux サーバー管理、Docker、CI/CD、SSL・DNS、監視、バックアップ、セキュリティを、Webサイトとソフトウェア向けに提供します。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps e infraestrutura | Pacific Marketing Solution",
+     "description": "Implementação em cloud, gestão de VPS e servidores Linux, Docker, CI/CD, SSL e DNS, monitorização, cópias de segurança e segurança para sites e software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/cloud-devops-infrastructure/",
+     "title": "Cloud, DevOps & Infrastructure | Pacific Marketing Solution",
+     "description": "Cloud deployment, VPS and Linux server management, Docker, CI/CD, SSL and DNS, monitoring, backups and security for websites and software.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/cloud-devops-infrastructure/",
+     "title": "云、DevOps 与基础设施 | Pacific Marketing Solution",
+     "description": "云部署、VPS 与 Linux 服务器管理、Docker、CI/CD、SSL 与 DNS、监控、备份与安全，服务网站与软件。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/cloud-devops-infrastructure.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
   "services/content-creative-video": {
    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
    "versions": {
@@ -1248,7 +1749,7 @@
     "ar": {
      "url": "https://pacificmarketingsolution.com/ar/services/",
      "title": "خدمات التسويق الرقمي | Pacific Marketing Solution",
-     "description": "ثماني خدمات في التسويق الرقمي: أتمتة الذكاء الاصطناعي وإدارة العملاء وروبوتات الدردشة والتسويق بالأداء والمحتوى ووسائل التواصل والمواقع وSEO وAEO وGEO والعلامة البيضاء.",
+     "description": "اثنتا عشرة خدمة في التسويق والتقنية: SEO والإعلانات وأتمتة الذكاء الاصطناعي وروبوتات الدردشة والمواقع والتحليلات وتطوير البرمجيات والتكامل والسحابة.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1266,7 +1767,7 @@
     "de": {
      "url": "https://pacificmarketingsolution.com/de/services/",
      "title": "Leistungen im Digitalmarketing | Pacific Marketing Solution",
-     "description": "Acht Leistungen im Digitalmarketing: KI-Automatisierung und CRM, Chatbots, Performance-Marketing, Content, Social Media, Websites, SEO/AEO/GEO und White-Label.",
+     "description": "Zwölf Leistungen in Marketing und Technologie: SEO, Werbung, KI-Automatisierung, Chatbots, Websites, Analytics, Softwareentwicklung, Integrationen und Cloud.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1284,7 +1785,7 @@
     "es-ES": {
      "url": "https://pacificmarketingsolution.com/es-es/services/",
      "title": "Servicios de marketing digital | Pacific Marketing Solution",
-     "description": "Ocho servicios de marketing digital: automatización con IA y CRM, chatbots, marketing de rendimiento, contenido, redes sociales, sitios web, SEO/AEO/GEO y marca blanca.",
+     "description": "Doce servicios de marketing y tecnología: SEO, publicidad, automatización con IA, chatbots, webs, analítica, desarrollo de software, integraciones y nube.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1302,7 +1803,7 @@
     "es-MX": {
      "url": "https://pacificmarketingsolution.com/es-mx/services/",
      "title": "Servicios de marketing digital | Pacific Marketing Solution",
-     "description": "Ocho servicios de marketing digital: automatización con IA y CRM, chatbots, marketing de rendimiento, contenido, redes sociales, sitios web, SEO/AEO/GEO y marca blanca.",
+     "description": "Doce servicios de marketing y tecnología: SEO, publicidad, automatización con IA, chatbots, webs, analítica, desarrollo de software, integraciones y nube.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1320,7 +1821,7 @@
     "fr": {
      "url": "https://pacificmarketingsolution.com/fr/services/",
      "title": "Services de marketing digital | Pacific Marketing Solution",
-     "description": "Huit services de marketing digital : automatisation IA et CRM, chatbots, marketing de performance, contenu, réseaux sociaux, sites web, SEO/AEO/GEO et marque blanche.",
+     "description": "Douze services en marketing et technologie : SEO, publicité, automatisation IA, chatbots, sites web, analytique, développement logiciel, intégrations et cloud.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1338,7 +1839,7 @@
     "ja": {
      "url": "https://pacificmarketingsolution.com/ja/services/",
      "title": "デジタルマーケティングサービス｜Pacific Marketing Solution",
-     "description": "デジタルマーケティングの8つのサービス：AI 自動化と CRM、チャットボット、パフォーマンスマーケティング、コンテンツ、SNS運用、Web、SEO・AEO・GEO、ホワイトラベル。",
+     "description": "マーケティングとテクノロジーの12のサービス：SEO、広告、AI 自動化、チャットボット、Web、分析、ソフトウェア開発、システム連携、クラウド。",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1356,7 +1857,7 @@
     "pt-PT": {
      "url": "https://pacificmarketingsolution.com/pt-pt/services/",
      "title": "Serviços de marketing digital | Pacific Marketing Solution",
-     "description": "Oito serviços de marketing digital: automação com IA e CRM, chatbots, marketing de desempenho, conteúdo, redes sociais, sites, SEO/AEO/GEO e marca branca.",
+     "description": "Doze serviços de marketing e tecnologia: SEO, publicidade, automação com IA, chatbots, sites, análise, desenvolvimento de software, integrações e cloud.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1374,7 +1875,7 @@
     "en": {
      "url": "https://pacificmarketingsolution.com/services/",
      "title": "Digital Marketing Services | Pacific Marketing Solution",
-     "description": "Explore our eight services: AI automation and CRM, chatbots, performance marketing, content, social media, websites, SEO, AEO and GEO, and white-label support.",
+     "description": "Explore our twelve services: marketing, SEO, AI automation, chatbots, websites, analytics, software development, integrations and cloud.",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1392,7 +1893,7 @@
     "zh-CN": {
      "url": "https://pacificmarketingsolution.com/zh/services/",
      "title": "数字营销服务 | Pacific Marketing Solution",
-     "description": "八项数字营销服务：AI 自动化与 CRM、聊天机器人、效果营销、内容、社交媒体、网站、SEO/AEO/GEO 与白标支持，可单独选择，也可组合使用。",
+     "description": "十二项营销与技术服务：SEO、广告、AI 自动化、聊天机器人、网站、数据分析、软件开发、系统集成与云服务。",
      "ogImage": "https://pacificmarketingsolution.com/images/og/services.jpg",
      "hreflangGroup": [
       "ar",
@@ -1561,6 +2062,173 @@
      "title": "效果营销与广告投放 | Pacific Marketing Solution",
      "description": "以单个合格线索成本为核心的 Google 广告与 Meta 广告投放，配套落地页、转化追踪和清晰的每周报告。",
      "ogImage": "https://pacificmarketingsolution.com/images/og/performance-marketing-funnels.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    }
+   }
+  },
+  "services/saas-custom-software-development": {
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "versions": {
+    "ar": {
+     "url": "https://pacificmarketingsolution.com/ar/services/saas-custom-software-development/",
+     "title": "SaaS والبرمجيات المخصصة | Pacific Marketing Solution",
+     "description": "منتجات SaaS أولية وتطبيقات ويب مخصصة ولوحات إدارة وبوابات عملاء مبنية بـ React وNext.js وTypeScript وPython وFastAPI وNode.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "de": {
+     "url": "https://pacificmarketingsolution.com/de/services/saas-custom-software-development/",
+     "title": "SaaS- und Individualsoftware | Pacific Marketing Solution",
+     "description": "SaaS-MVPs, individuelle Webanwendungen, Admin-Dashboards und Kundenportale, gebaut mit React, Next.js, TypeScript, Python, FastAPI und Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-ES": {
+     "url": "https://pacificmarketingsolution.com/es-es/services/saas-custom-software-development/",
+     "title": "SaaS y software a medida | Pacific Marketing Solution",
+     "description": "MVP SaaS, aplicaciones web a medida, paneles de administración y portales de clientes creados con React, Next.js, TypeScript, Python, FastAPI y Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "es-MX": {
+     "url": "https://pacificmarketingsolution.com/es-mx/services/saas-custom-software-development/",
+     "title": "SaaS y software a medida | Pacific Marketing Solution",
+     "description": "MVP SaaS, aplicaciones web a medida, paneles de administración y portales de clientes creados con React, Next.js, TypeScript, Python, FastAPI y Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "fr": {
+     "url": "https://pacificmarketingsolution.com/fr/services/saas-custom-software-development/",
+     "title": "SaaS et développement logiciel sur mesure | Pacific Marketing Solution",
+     "description": "MVP SaaS, applications web sur mesure, tableaux de bord d'administration et portails clients développés avec React, Next.js, TypeScript, Python, FastAPI et Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "ja": {
+     "url": "https://pacificmarketingsolution.com/ja/services/saas-custom-software-development/",
+     "title": "SaaS・受託ソフトウェア開発｜Pacific Marketing Solution",
+     "description": "React、Next.js、TypeScript、Python、FastAPI、Node.js で開発する SaaS の MVP、カスタム Web アプリ、管理ダッシュボード、顧客ポータル。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "pt-PT": {
+     "url": "https://pacificmarketingsolution.com/pt-pt/services/saas-custom-software-development/",
+     "title": "SaaS e software à medida | Pacific Marketing Solution",
+     "description": "MVPs SaaS, aplicações web à medida, painéis de administração e portais de clientes construídos com React, Next.js, TypeScript, Python, FastAPI e Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "en": {
+     "url": "https://pacificmarketingsolution.com/services/saas-custom-software-development/",
+     "title": "SaaS & Custom Software Development | Pacific Marketing Solution",
+     "description": "SaaS MVPs, custom web applications, admin dashboards and customer portals built with React, Next.js, TypeScript, Python, FastAPI and Node.js.",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
+     "hreflangGroup": [
+      "ar",
+      "de",
+      "en",
+      "es-ES",
+      "es-MX",
+      "fr",
+      "ja",
+      "pt-PT",
+      "x-default",
+      "zh-CN"
+     ]
+    },
+    "zh-CN": {
+     "url": "https://pacificmarketingsolution.com/zh/services/saas-custom-software-development/",
+     "title": "SaaS 与定制软件开发 | Pacific Marketing Solution",
+     "description": "使用 React、Next.js、TypeScript、Python、FastAPI 与 Node.js 开发的 SaaS MVP、定制 Web 应用、管理后台和客户门户。",
+     "ogImage": "https://pacificmarketingsolution.com/images/og/saas-custom-software-development.jpg",
      "hreflangGroup": [
       "ar",
       "de",

@@ -40,13 +40,13 @@
   {
    "route": "services",
    "title": "Digital Marketing Services | Pacific Marketing Solution",
-   "description": "Explore our eight services: AI automation and CRM, chatbots, performance marketing, content, social media, websites, SEO, AEO and GEO, and white-label support.",
+   "description": "Explore our twelve services: marketing, SEO, AI automation, chatbots, websites, analytics, software development, integrations and cloud.",
    "image": "images/og/services.jpg",
    "imageAlt": "Pacific Marketing Solution digital marketing services",
    "type": "website",
    "og": {
     "headline": "Digital Marketing Services",
-    "sub": "Eight services that work alone or together",
+    "sub": "Twelve services that work alone or together",
     "kicker": "Services",
     "figure": null,
     "figureLabel": null
@@ -167,6 +167,66 @@
    "og": {
     "headline": "White-Label Services",
     "sub": "Your delivery team, under your brand",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/ai-analytics-data-intelligence",
+   "title": "AI Analytics & Data Intelligence | Pacific Marketing Solution",
+   "description": "Dashboards, data pipelines, ETL, AI-powered reporting and predictive analytics that turn scattered business data into decisions.",
+   "image": "images/og/ai-analytics-data-intelligence.jpg",
+   "imageAlt": "AI analytics and data intelligence by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "AI Analytics & Data Intelligence",
+    "sub": "Dashboards, pipelines and reporting built around your questions",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/saas-custom-software-development",
+   "title": "SaaS & Custom Software Development | Pacific Marketing Solution",
+   "description": "SaaS MVPs, custom web applications, admin dashboards and customer portals built with React, Next.js, TypeScript, Python, FastAPI and Node.js.",
+   "image": "images/og/saas-custom-software-development.jpg",
+   "imageAlt": "SaaS and custom software development by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "SaaS & Custom Software Development",
+    "sub": "Web applications, portals and dashboards built around your process",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/api-systems-integration",
+   "title": "API & Systems Integration | Pacific Marketing Solution",
+   "description": "REST APIs, CRM and payment integrations, webhooks and data synchronization that connect your systems so data moves without manual copying.",
+   "image": "images/og/api-systems-integration.jpg",
+   "imageAlt": "API and systems integration by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "API & Systems Integration",
+    "sub": "Connect your CRM, payments, AI tools and systems",
+    "kicker": "Service",
+    "figure": null,
+    "figureLabel": null
+   }
+  },
+  {
+   "route": "services/cloud-devops-infrastructure",
+   "title": "Cloud, DevOps & Infrastructure | Pacific Marketing Solution",
+   "description": "Cloud deployment, VPS and Linux server management, Docker, CI/CD, SSL and DNS, monitoring, backups and security for websites and software.",
+   "image": "images/og/cloud-devops-infrastructure.jpg",
+   "imageAlt": "Cloud, DevOps and infrastructure by Pacific Marketing Solution",
+   "type": "website",
+   "og": {
+    "headline": "Cloud, DevOps & Infrastructure",
+    "sub": "Deployment, monitoring and backups that keep your software online",
     "kicker": "Service",
     "figure": null,
     "figureLabel": null

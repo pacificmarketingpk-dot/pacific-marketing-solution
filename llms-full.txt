@@ -226,9 +226,9 @@ A: No. Nobody honest can. We offer clean tracking, clear reporting and steady te
 <!-- https://pacificmarketingsolution.com/services/ -->
 Page title: Digital Marketing Services | Pacific Marketing Solution
 Address: https://pacificmarketingsolution.com/services/
-Summary: Explore our eight services: AI automation and CRM, chatbots, performance marketing, content, social media, websites, SEO, AEO and GEO, and white-label support.
+Summary: Explore our twelve services: marketing, SEO, AI automation, chatbots, websites, analytics, software development, integrations and cloud.
 
-# Eight services that work alone or together.
+# Twelve services that work alone or together.
 Start with one, or combine them into a single growth system.
 
 ## All of our services
@@ -257,6 +257,18 @@ We improve how your website ranks in search and how AI answer tools find, unders
 ### White-label services
 We deliver SEO, websites, content and advertising behind the scenes, under your brand name, as part of your team.
 
+### AI analytics and data intelligence
+We turn scattered business data into dashboards, reports and forecasts your team can trust and act on.
+
+### SaaS and custom software development
+We design and build SaaS products, web applications, dashboards and customer portals to fit how your business works.
+
+### API and systems integration
+We connect your CRM, payments, AI tools and business systems so data moves between them reliably, without manual copying.
+
+### Cloud, DevOps and infrastructure
+We deploy, secure and monitor your applications and servers so your website and software stay fast, available and recoverable.
+
 ## Questions before you choose a service.
 Short answers on where to start and how the services fit together.
 
@@ -267,7 +279,7 @@ Yes. Many projects start with a single website, campaign, assistant or CRM setup
 It depends on your biggest problem. Not enough enquiries points to performance marketing and a landing page, slow replies point to a chatbot, and messy follow-up points to CRM automation. A discovery call helps us pick.
 
 ### Do the services work together?
-Yes. The eight services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
+Yes. The twelve services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
 
 ### How is the work priced?
 Projects are scoped after a discovery call, based on what you need and the tools involved. We agree the scope with you before work begins.
@@ -286,7 +298,7 @@ Q: Which service should I start with?
 A: It depends on your biggest problem. Not enough enquiries points to performance marketing and a landing page, slow replies point to a chatbot, and messy follow-up points to CRM automation. A discovery call helps us pick.
 
 Q: Do the services work together?
-A: Yes. The eight services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
+A: Yes. The twelve services are designed to connect, for example ads feed a landing page, an assistant answers questions and the CRM keeps the follow-up going.
 
 Q: How is the work priced?
 A: Projects are scoped after a discovery call, based on what you need and the tools involved. We agree the scope with you before work begins.
@@ -1292,6 +1304,518 @@ A: Yes. We can use the project tools, communication channels and review steps yo
 
 Q: How do we get started?
 A: Send us a message or book a call. Tell us about your projects and where you need help, and we will outline how we could work together.
+
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/ai-analytics-data-intelligence/ -->
+Page title: AI Analytics & Data Intelligence | Pacific Marketing Solution
+Address: https://pacificmarketingsolution.com/services/ai-analytics-data-intelligence/
+Summary: Dashboards, data pipelines, ETL, AI-powered reporting and predictive analytics that turn scattered business data into decisions.
+
+# Turn your data into decisions your team can act on.
+We build the analytics, reporting and data systems that bring scattered numbers into one clear view, from dashboards and pipelines to AI-assisted reports and forecasts.
+AI analytics and data intelligence means collecting your business data from different tools, preparing it, and presenting it as dashboards, reports, forecasts and search tools that support decisions. AI is used where it helps, for example to summarize results, search documents or spot trends.
+
+## Data spread across tools does not help anyone decide.
+Numbers sit in spreadsheets, ad accounts, CRMs and databases, and each report tells a slightly different story. Reports take days to prepare, nobody is sure which figure is right, and the questions that matter most go unanswered.
+
+## One reliable view of your business, built around your questions.
+We connect your data sources, clean the data, and build pipelines, dashboards and reports around the decisions you actually make. Where it helps, we add AI to summarize results, search your documents or forecast trends, and we explain how each figure is calculated.
+- One agreed version of each key figure
+- Reports that update on their own
+- Dashboards matched to real decisions
+- Faster answers to business questions
+- Forecasts to plan around, with their limits explained
+- Search across documents and records
+- Less time spent preparing reports
+- Data connected to your CRM, ads and website
+
+## What we can build for you.
+Choose the parts you need. The scope is agreed for each project.
+
+### Analytics and reporting
+
+### Dashboards
+
+### Data pipelines
+
+### Data stores
+
+### Data intelligence systems
+
+## Where this service is used.
+
+## From scattered data to dashboards and insight your team uses.
+
+### Discover
+We list your data sources, the decisions you make and the questions you cannot answer today.
+
+### Prepare
+We clean, check and connect the data so the numbers can be trusted.
+
+### Build
+We create the pipelines, models and dashboards around your questions.
+
+### Explain
+We document how each figure is calculated so your team can verify it.
+
+### Launch
+We switch on the reports and walk your team through them.
+
+### Improve
+We monitor data quality and extend the system as your questions change.
+
+## Works with the platforms and tools you already use.
+Names appear for compatibility only and do not suggest any partnership.
+
+## Common questions about AI analytics and data intelligence.
+Data sources, dashboards, forecasts and security.
+
+### What is AI analytics and data intelligence?
+It means connecting your data sources, preparing the data, and turning it into dashboards, reports, forecasts and search tools that help you make decisions. AI is used where it helps, for example to summarize results or search documents.
+
+### Which data sources can you connect?
+Common business sources such as CRMs, ad platforms, websites, spreadsheets, databases and other systems with an API or export. We confirm what is possible after reviewing your tools.
+
+### Do you build dashboards or only reports?
+Both. We build live dashboards for day-to-day decisions and scheduled reports for regular reviews, depending on how your team works.
+
+### How accurate are the predictions?
+Predictions depend on the quality and amount of your data. We explain what a forecast is based on, show how far it can be trusted and do not promise exact outcomes.
+
+### What are vector and graph databases used for?
+Vector databases help AI tools find similar documents or answers by meaning. Graph databases store how people, products or records connect. We recommend them only when your use case needs them.
+
+### Who owns the data and the dashboards?
+Your data remains yours. Ownership and access to the dashboards, code and accounts are agreed in your contract and confirmed before work starts.
+
+### How do you keep the data secure?
+We limit access to the people who need it, agree where the data is stored and follow the security requirements you tell us about. Details are agreed for each project.
+Learn more: About Us Marketing glossary Case studies White-label services
+
+## Pairs well with.
+
+### AI automation and CRM
+Pipelines, lead routing and follow-ups that run without manual copying.
+
+### Chatbots and voice agents
+Assistants for your site, WhatsApp and phone that answer and book.
+
+### Websites and apps
+Fast, clear sites and landing pages built to convert visitors.
+
+### API and systems integration
+APIs, webhooks and integrations that connect your CRM, payments, AI tools and systems.
+
+## Make your data work for your decisions.
+Tell us where your data lives today and which questions you cannot answer yet. We will suggest a practical first step.
+
+### Questions and answers on this page
+Q: What is AI analytics and data intelligence?
+A: It means connecting your data sources, preparing the data, and turning it into dashboards, reports, forecasts and search tools that help you make decisions. AI is used where it helps, for example to summarize results or search documents.
+
+Q: Which data sources can you connect?
+A: Common business sources such as CRMs, ad platforms, websites, spreadsheets, databases and other systems with an API or export. We confirm what is possible after reviewing your tools.
+
+Q: Do you build dashboards or only reports?
+A: Both. We build live dashboards for day-to-day decisions and scheduled reports for regular reviews, depending on how your team works.
+
+Q: How accurate are the predictions?
+A: Predictions depend on the quality and amount of your data. We explain what a forecast is based on, show how far it can be trusted and do not promise exact outcomes.
+
+Q: What are vector and graph databases used for?
+A: Vector databases help AI tools find similar documents or answers by meaning. Graph databases store how people, products or records connect. We recommend them only when your use case needs them.
+
+Q: Who owns the data and the dashboards?
+A: Your data remains yours. Ownership and access to the dashboards, code and accounts are agreed in your contract and confirmed before work starts.
+
+Q: How do you keep the data secure?
+A: We limit access to the people who need it, agree where the data is stored and follow the security requirements you tell us about. Details are agreed for each project.
+
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/saas-custom-software-development/ -->
+Page title: SaaS & Custom Software Development | Pacific Marketing Solution
+Address: https://pacificmarketingsolution.com/services/saas-custom-software-development/
+Summary: SaaS MVPs, custom web applications, admin dashboards and customer portals built with React, Next.js, TypeScript, Python, FastAPI and Node.js.
+
+# Software built around how your business works.
+We build SaaS products and custom web software, from a first working version to customer portals and internal tools, with clean code your team can keep growing.
+SaaS and custom software development means designing and building web software for your own product or process, for example a subscription product, a customer portal, an admin dashboard or an internal tool, instead of adapting a generic tool.
+
+## Off-the-shelf tools stop fitting as the business grows.
+Spreadsheets, add-on plug-ins and generic software work until they do not. Processes get forced into tools that were not built for them, customers cannot help themselves, and every new idea turns into a workaround.
+
+## Custom software that fits your process and is built to be extended.
+We start with a small, working first version so you can test the idea early, then extend it in clear steps. We build full-stack web applications with modern tools, document how they work and hand over code and accounts your team can use.
+- A first version to test early
+- Software shaped around your process
+- Customer portals that cut repeat questions
+- Admin dashboards for your team
+- Clean, documented code
+- Room to add features later
+- Fewer manual steps and spreadsheets
+- Integrations with the tools you already use
+
+## What we can build for you.
+Choose the parts you need. The scope is agreed for each project.
+
+### Products
+
+### Applications
+
+### Front end
+
+### Back end
+
+### Quality and launch
+
+## Where this service is used.
+
+## From idea to working software your team can keep growing.
+
+### Define
+We agree the problem, the users and what the first release must do.
+
+### Plan
+We break the work into small steps and agree priorities and timing.
+
+### Design
+We design the screens and flows and review them with you.
+
+### Build
+We build in short steps and show working software along the way.
+
+### Test and launch
+We test with real scenarios, then release and hand over.
+
+### Support
+We fix issues and add features as you learn from real use.
+
+## Works with the platforms and tools you already use.
+Names appear for compatibility only and do not suggest any partnership.
+
+## Common questions about SaaS and custom software development.
+MVPs, technologies, ownership and support.
+
+### What is SaaS and custom software development?
+SaaS is software that customers use online, usually by subscription. Custom software development means building applications designed for your own process, product or customers rather than using a generic tool.
+
+### What is an MVP?
+An MVP, or minimum viable product, is the smallest working version of your product that real users can try. It lets you test the idea and learn before investing in every feature.
+
+### Which technologies do you use?
+We commonly build with React, Next.js, TypeScript and JavaScript on the front end, and Python with FastAPI or Node.js on the back end. We recommend the stack that fits your project and your team.
+
+### Can you extend an application we already have?
+Often yes. We start by reviewing the code and how it is deployed, then agree what to keep, improve or rebuild.
+
+### Who owns the code?
+Ownership and licensing of the code, designs and accounts are confirmed in your contract before work starts.
+
+### How do you handle changes while building?
+We work in short steps and show working software regularly, so changes can be discussed early. The effect of a change on scope and timing is agreed before we make it.
+
+### Do you provide support after launch?
+Yes, if you want it. We can fix issues and add features after launch, and the support arrangement is agreed for each project.
+Learn more: About Us Marketing glossary Case studies White-label services
+
+## Pairs well with.
+
+### Websites and apps
+Fast, clear sites and landing pages built to convert visitors.
+
+### AI automation and CRM
+Pipelines, lead routing and follow-ups that run without manual copying.
+
+### White-label services
+Behind-the-scenes SEO, websites, content and ads, delivered under your brand.
+
+### API and systems integration
+APIs, webhooks and integrations that connect your CRM, payments, AI tools and systems.
+
+## Turn your idea into working software.
+Tell us what you want the software to do and who will use it. We will suggest a practical first release.
+
+### Questions and answers on this page
+Q: What is SaaS and custom software development?
+A: SaaS is software that customers use online, usually by subscription. Custom software development means building applications designed for your own process, product or customers rather than using a generic tool.
+
+Q: What is an MVP?
+A: An MVP, or minimum viable product, is the smallest working version of your product that real users can try. It lets you test the idea and learn before investing in every feature.
+
+Q: Which technologies do you use?
+A: We commonly build with React, Next.js, TypeScript and JavaScript on the front end, and Python with FastAPI or Node.js on the back end. We recommend the stack that fits your project and your team.
+
+Q: Can you extend an application we already have?
+A: Often yes. We start by reviewing the code and how it is deployed, then agree what to keep, improve or rebuild.
+
+Q: Who owns the code?
+A: Ownership and licensing of the code, designs and accounts are confirmed in your contract before work starts.
+
+Q: How do you handle changes while building?
+A: We work in short steps and show working software regularly, so changes can be discussed early. The effect of a change on scope and timing is agreed before we make it.
+
+Q: Do you provide support after launch?
+A: Yes, if you want it. We can fix issues and add features after launch, and the support arrangement is agreed for each project.
+
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/api-systems-integration/ -->
+Page title: API & Systems Integration | Pacific Marketing Solution
+Address: https://pacificmarketingsolution.com/services/api-systems-integration/
+Summary: REST APIs, CRM and payment integrations, webhooks and data synchronization that connect your systems so data moves without manual copying.
+
+# Systems that talk to each other, so your team stops copying data.
+We build APIs and integrations that connect your CRM, payment gateway, website, AI tools and internal systems, so information flows automatically and stays consistent.
+API and systems integration means connecting separate software systems, such as your CRM, website, payment gateway and AI tools, so data moves between them automatically and consistently instead of being copied by hand.
+
+## Disconnected systems create manual work and mistakes.
+When your website, CRM, payment tool and back-office systems do not talk to each other, people copy and paste data between them. Records go out of date, orders and leads are missed, and nobody is sure which system is right.
+
+## Reliable connections between your tools, with clear error handling.
+We map how data should flow, build the API connections, webhooks and synchronization, and test them with real data. We add logging and alerts so failures are noticed, and we document the integration so it can be maintained.
+- Less manual copying and re-entry
+- One consistent record across systems
+- Faster follow-up on leads and orders
+- Payments connected to customer data
+- AI features added to your existing tools
+- Failures logged and flagged
+- Documented integrations your team can maintain
+- Room to connect more systems later
+
+## What we can build for you.
+Choose the parts you need. The scope is agreed for each project.
+
+### APIs
+
+### Integrations
+
+### Data movement
+
+### AI connections
+
+### Reliability
+
+## Where this service is used.
+
+## From a list of systems to connections that run on their own.
+
+### Map
+We list your systems, the data in them and how it should move.
+
+### Design
+We design the connections, the data mapping and the error handling.
+
+### Build
+We build the API connections, webhooks and synchronization.
+
+### Test
+We test with real data and edge cases before anything goes live.
+
+### Launch
+We switch it on and watch the first runs closely.
+
+### Maintain
+We monitor, fix and update integrations as your tools change.
+
+## Works with the platforms and tools you already use.
+Names appear for compatibility only and do not suggest any partnership.
+
+## Common questions about API and systems integration.
+APIs, webhooks, AI connections and reliability.
+
+### What is an API integration?
+An API integration connects two systems so they exchange data automatically. For example, a website form can create a contact in your CRM, or a payment can update a customer record.
+
+### What is a webhook?
+A webhook is a message one system sends to another when something happens, such as a new order or form submission. It lets systems react straight away instead of checking over and over.
+
+### Which systems can you connect?
+Systems that offer an API, webhooks or data export, such as CRMs, payment gateways, websites, AI services and many business tools. We confirm what is possible after reviewing your tools.
+
+### Can you build an API for our own product?
+Yes. We design and build REST APIs with authentication, documentation and error handling, so other systems or apps can use your product safely.
+
+### Can you add AI to our existing tools?
+Often yes, by connecting AI services through their APIs to your CRM, website or workflow. We explain what the AI will do, what data it uses and where a person should review the result.
+
+### What happens if an integration fails?
+We build in logging, alerts and retries where appropriate, so failures are noticed and handled. The monitoring and support arrangement is agreed for each project.
+
+### Is our data kept secure during integration?
+We use secure connections and limit access to the data each connection needs. We follow the security requirements you tell us about, and details are agreed for each project.
+Learn more: About Us Marketing glossary Case studies White-label services
+
+## Pairs well with.
+
+### AI automation and CRM
+Pipelines, lead routing and follow-ups that run without manual copying.
+
+### Websites and apps
+Fast, clear sites and landing pages built to convert visitors.
+
+### Chatbots and voice agents
+Assistants for your site, WhatsApp and phone that answer and book.
+
+### Cloud, DevOps and infrastructure
+Cloud deployment, servers, CI/CD, monitoring and backups that keep your software online.
+
+## Connect your systems and stop copying data.
+Tell us which tools you use and what has to move between them. We will suggest a practical way to connect them.
+
+### Questions and answers on this page
+Q: What is an API integration?
+A: An API integration connects two systems so they exchange data automatically. For example, a website form can create a contact in your CRM, or a payment can update a customer record.
+
+Q: What is a webhook?
+A: A webhook is a message one system sends to another when something happens, such as a new order or form submission. It lets systems react straight away instead of checking over and over.
+
+Q: Which systems can you connect?
+A: Systems that offer an API, webhooks or data export, such as CRMs, payment gateways, websites, AI services and many business tools. We confirm what is possible after reviewing your tools.
+
+Q: Can you build an API for our own product?
+A: Yes. We design and build REST APIs with authentication, documentation and error handling, so other systems or apps can use your product safely.
+
+Q: Can you add AI to our existing tools?
+A: Often yes, by connecting AI services through their APIs to your CRM, website or workflow. We explain what the AI will do, what data it uses and where a person should review the result.
+
+Q: What happens if an integration fails?
+A: We build in logging, alerts and retries where appropriate, so failures are noticed and handled. The monitoring and support arrangement is agreed for each project.
+
+Q: Is our data kept secure during integration?
+A: We use secure connections and limit access to the data each connection needs. We follow the security requirements you tell us about, and details are agreed for each project.
+
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/cloud-devops-infrastructure/ -->
+Page title: Cloud, DevOps & Infrastructure | Pacific Marketing Solution
+Address: https://pacificmarketingsolution.com/services/cloud-devops-infrastructure/
+Summary: Cloud deployment, VPS and Linux server management, Docker, CI/CD, SSL and DNS, monitoring, backups and security for websites and software.
+
+# Reliable hosting and deployment for your websites and software.
+We set up and look after the servers, deployment pipelines, monitoring and backups behind your websites and applications, so they stay available, secure and easy to update.
+Cloud, DevOps and infrastructure means setting up and looking after the servers, deployment processes, monitoring and backups that keep websites and applications running, secure and easy to update.
+
+## A site that goes down or cannot be updated safely costs you customers.
+Servers set up by hand, updates made directly on live sites and no backups mean small problems become outages. Nobody is alerted when something fails, and recovering from a mistake or an attack takes far longer than it should.
+
+## Infrastructure that is set up properly, monitored and recoverable.
+We set up your servers or cloud environment, containerize applications where useful, automate testing and deployment, and add monitoring and backups. We configure SSL, domains and DNS, manage secrets and access, and document how everything works.
+- Fewer outages and faster fixes
+- Safer, repeatable deployments
+- Alerts before customers notice problems
+- Backups and a recovery plan
+- Faster, more stable performance
+- Secrets and access under control
+- Room to scale as traffic grows
+- Clear documentation of your setup
+
+## What we can build for you.
+Choose the parts you need. The scope is agreed for each project.
+
+### Deployment
+
+### Domains and security
+
+### Monitoring
+
+### Performance and scale
+
+### Resilience
+
+## Where this service is used.
+
+## From a first review to infrastructure you can rely on.
+
+### Review
+We look at how your applications and servers run today and where the risks are.
+
+### Plan
+We agree the environment, hosting, security and backup approach.
+
+### Set up
+We configure servers or cloud, domains, SSL and access.
+
+### Automate
+We set up deployment pipelines and staging so updates are safe and repeatable.
+
+### Protect
+We add monitoring, alerts, backups and recovery tests.
+
+### Maintain
+We update, monitor and tune the setup as your needs grow.
+
+## Works with the platforms and tools you already use.
+Names appear for compatibility only and do not suggest any partnership.
+
+## Common questions about cloud, DevOps and infrastructure.
+Deployment, servers, backups, security and scaling.
+
+### What is DevOps?
+DevOps is a way of building and running software that automates testing, deployment and monitoring, so updates are safer, faster and repeatable.
+
+### What does cloud deployment mean?
+It means running your website or application on cloud or virtual servers instead of a single machine managed by hand, so it can be set up, updated and scaled in a controlled way.
+
+### Can you manage our existing server?
+Often yes. We start by reviewing how it is set up, secured and backed up, then agree what to fix and what ongoing management you want.
+
+### What is CI/CD?
+CI/CD is an automated process that tests your code and deploys it to your servers when it is ready, replacing risky manual updates.
+
+### What happens if the site goes down?
+With uptime monitoring, you or we are alerted quickly, and with backups and a recovery plan service can be restored. The response arrangements are agreed for each project.
+
+### How do you keep servers secure?
+We limit access, keep software updated, protect secrets and passwords, and configure firewalls and SSL. We follow the security requirements you tell us about, and details are agreed for each project.
+
+### Can you help us handle more traffic?
+Yes. We review performance, add caching and optimization, and plan scaling options so the site can handle growth without paying for capacity it does not need.
+Learn more: About Us Marketing glossary Case studies White-label services
+
+## Pairs well with.
+
+### Websites and apps
+Fast, clear sites and landing pages built to convert visitors.
+
+### SaaS and custom software development
+SaaS products, web applications, dashboards and customer portals built to fit your process.
+
+### API and systems integration
+APIs, webhooks and integrations that connect your CRM, payments, AI tools and systems.
+
+### AI analytics and data intelligence
+Dashboards, data pipelines and AI-powered reporting built around your questions.
+
+## Keep your websites and software online and safe.
+Tell us where your sites and applications run today and what worries you. We will suggest a practical plan.
+
+### Questions and answers on this page
+Q: What is DevOps?
+A: DevOps is a way of building and running software that automates testing, deployment and monitoring, so updates are safer, faster and repeatable.
+
+Q: What does cloud deployment mean?
+A: It means running your website or application on cloud or virtual servers instead of a single machine managed by hand, so it can be set up, updated and scaled in a controlled way.
+
+Q: Can you manage our existing server?
+A: Often yes. We start by reviewing how it is set up, secured and backed up, then agree what to fix and what ongoing management you want.
+
+Q: What is CI/CD?
+A: CI/CD is an automated process that tests your code and deploys it to your servers when it is ready, replacing risky manual updates.
+
+Q: What happens if the site goes down?
+A: With uptime monitoring, you or we are alerted quickly, and with backups and a recovery plan service can be restored. The response arrangements are agreed for each project.
+
+Q: How do you keep servers secure?
+A: We limit access, keep software updated, protect secrets and passwords, and configure firewalls and SSL. We follow the security requirements you tell us about, and details are agreed for each project.
+
+Q: Can you help us handle more traffic?
+A: Yes. We review performance, add caching and optimization, and plan scaling options so the site can handle growth without paying for capacity it does not need.
 
 
 ---

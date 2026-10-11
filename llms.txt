@@ -16,6 +16,10 @@ Contact: info@pacificmarketingsolution.com
 - [Websites and apps](https://pacificmarketingsolution.com/services/websites-digital-products/): Fast, mobile-friendly websites and landing pages designed to turn visitors into enquiries, with forms, booking and analytics connected.
 - [SEO, AEO and GEO](https://pacificmarketingsolution.com/services/seo-aeo-geo/): SEO, AEO and GEO explained simply: rank in search, win direct answers and get mentioned by AI assistants such as ChatGPT, Gemini and Perplexity.
 - [White-label services](https://pacificmarketingsolution.com/services/white-label-services/): White-label SEO, website, content and ad management delivered under your brand, so your agency can take on more clients with confidence.
+- [AI analytics and data intelligence](https://pacificmarketingsolution.com/services/ai-analytics-data-intelligence/): Dashboards, data pipelines, ETL, AI-powered reporting and predictive analytics that turn scattered business data into decisions.
+- [SaaS and custom software development](https://pacificmarketingsolution.com/services/saas-custom-software-development/): SaaS MVPs, custom web applications, admin dashboards and customer portals built with React, Next.js, TypeScript, Python, FastAPI and Node.js.
+- [API and systems integration](https://pacificmarketingsolution.com/services/api-systems-integration/): REST APIs, CRM and payment integrations, webhooks and data synchronization that connect your systems so data moves without manual copying.
+- [Cloud, DevOps and infrastructure](https://pacificmarketingsolution.com/services/cloud-devops-infrastructure/): Cloud deployment, VPS and Linux server management, Docker, CI/CD, SSL and DNS, monitoring, backups and security for websites and software.
 
 ## Company
 - [About us](https://pacificmarketingsolution.com/about/): Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.
