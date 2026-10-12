@@ -441,6 +441,51 @@
     "figure": "3 of 5",
     "figureLabel": "testimonials mention SEO"
    }
+  },
+  {
+   "route": "insights/what-upwork-clients-say-about-our-ai-engineer",
+   "title": "What Upwork Clients Say About Our AI Engineer",
+   "description": "41 Upwork reviews, a 5.0 rating and 100% Job Success. What clients say about Nauman N., who leads our AI and SaaS builds.",
+   "image": "images/og/insight-what-upwork-clients-say-about-our-ai-engineer.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: What Upwork clients say",
+   "type": "article",
+   "og": {
+    "headline": "What Upwork Clients Say",
+    "sub": "About our AI engineer",
+    "kicker": "Insight - AI",
+    "figure": "5.0",
+    "figureLabel": "rating from 41 Upwork reviews"
+   }
+  },
+  {
+   "route": "insights/voice-ai-agents-three-builds",
+   "title": "Voice AI Agents in Practice: Three Builds",
+   "description": "A voice coaching platform, an AI phone receptionist and lead re-engagement calls: what our voice agent builds share, and what to plan first.",
+   "image": "images/og/insight-voice-ai-agents-three-builds.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Voice AI agents in practice",
+   "type": "article",
+   "og": {
+    "headline": "Voice AI Agents in Practice",
+    "sub": "Three builds and what they share",
+    "kicker": "Insight - AI",
+    "figure": "3",
+    "figureLabel": "voice AI builds compared"
+   }
+  },
+  {
+   "route": "insights/tech-stack-behind-our-ai-and-saas-builds",
+   "title": "The Tech Stack Behind Our AI and SaaS Builds",
+   "description": "The tools we use to build AI agents, voice agents and SaaS products, from Next.js and FastAPI to Claude, LangGraph, RAG and n8n.",
+   "image": "images/og/insight-tech-stack-behind-our-ai-and-saas-builds.jpg",
+   "imageAlt": "Pacific Marketing Solution insight: Our AI and SaaS tech stack",
+   "type": "article",
+   "og": {
+    "headline": "Our AI and SaaS Tech Stack",
+    "sub": "What we build with, and why",
+    "kicker": "Insight - AI",
+    "figure": "50+",
+    "figureLabel": "platforms shipped by our AI engineer"
+   }
   }
  ]
 }
