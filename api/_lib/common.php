@@ -85,6 +85,39 @@ function pms_valid_email(string $e): bool
     return $e !== '' && strlen($e) <= 254 && !preg_match('/[\s,;<>"\\\\]/', $e) && filter_var($e, FILTER_VALIDATE_EMAIL) !== false;
 }
 
+/** Spam protection: true means "a bot sent this" (the message is quietly dropped, the bot still sees success). */
+function pms_is_bot(array $in): bool
+{
+    if (pms_line($in['website'] ?? '', 200) !== '') { return true; }               // hidden trap field was filled in
+    $el = $in['el'] ?? null;                                                          // time on the page, sent by the site's own script
+    if (!is_int($el) && !(is_string($el) && ctype_digit($el))) { return true; }        // posted without the website (scripts, bots)
+    if ((int)$el < 3000) { return true; }                                             // filled in faster than a person can (under 3 seconds)
+    return false;
+}
+
+/** Count web links in a text. */
+function pms_link_count(string $s): int
+{
+    return (int)preg_match_all('~(https?://|www\.|\[url|<a\s|href=)~i', $s);
+}
+
+/** Obvious junk: links in a name/company, HTML/BBCode links, many links, or classic spam words. */
+function pms_is_junk(string $name, string $company, string $message): bool
+{
+    if (pms_link_count($name) > 0 || pms_link_count($company) > 0) { return true; }
+    if (preg_match('~(\[url|<a\s|href=)~i', $message)) { return true; }
+    if (pms_link_count($message) > 3) { return true; }
+    if (preg_match('~\b(viagra|cialis|casino|porn|xxx|escort|payday loan|forex signals?|crypto (?:investment|giveaway)|bitcoin (?:investment|doubler))\b~i', $name . ' ' . $company . ' ' . $message)) { return true; }
+    return false;
+}
+
+/** Looks like a sales pitch or link spam, but might be real: still delivered, with "[Possible spam]" in the subject. */
+function pms_maybe_spam(string $message): bool
+{
+    if (pms_link_count($message) >= 2) { return true; }
+    return (bool)preg_match('~\b(backlinks?|guest post(?:ing)?|link building|rank (?:your|you on) (?:the )?first page|seo (?:package|proposal) for your|we (?:noticed|found) (?:some )?(?:errors|issues) on your (?:web)?site|increase your (?:website )?traffic|outsourc(?:e|ing) (?:your|our)|lead list|email list for sale|unsubscribe)\b~i', $message);
+}
+
 /** Read the request: POST only, same-origin only, small JSON body. */
 function pms_request(): array
 {

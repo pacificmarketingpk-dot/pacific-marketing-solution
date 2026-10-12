@@ -5,7 +5,7 @@ require __DIR__ . '/_lib/common.php';
 
 $in = pms_request();
 
-if (pms_line($in['website'] ?? '', 200) !== '') { pms_respond(true); }                // hidden trap field
+if (pms_is_bot($in)) { pms_respond(true); }                                       // spam traps: hidden field, too fast, or no website script
 
 $email = pms_line($in['email'] ?? '', 254);
 $id    = pms_line($in['id'] ?? '', 80);

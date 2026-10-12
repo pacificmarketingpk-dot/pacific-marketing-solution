@@ -5,8 +5,8 @@ require __DIR__ . '/_lib/common.php';
 
 $in = pms_request();
 
-// hidden trap field: real visitors leave it empty. A bot gets a normal-looking answer and nothing is sent.
-if (pms_line($in['website'] ?? '', 200) !== '') { pms_respond(true); }
+// spam traps: hidden field filled in, sent too fast, or sent without the website. A bot gets a normal-looking answer and nothing is sent.
+if (pms_is_bot($in)) { pms_respond(true); }
 
 $name     = pms_line($in['name'] ?? '', 100);
 $email    = pms_line($in['email'] ?? '', 254);
@@ -16,13 +16,16 @@ $interest = pms_line($in['interest'] ?? '', 120);
 $message  = pms_text($in['message'] ?? '', 4000);
 $id       = pms_line($in['id'] ?? '', 80);
 
+if (pms_is_junk($name, $company, $message)) { pms_respond(true); }               // obvious junk is dropped quietly
+
 $digits = strlen((string)preg_replace('/\D/', '', $phone));
 if (mb_strlen($name, 'UTF-8') < 2 || !pms_valid_email($email) || !preg_match('/^[0-9+()\-.\s]{6,40}$/', $phone) || $digits < 6 || $digits > 20) {
     pms_respond(false, 422);
 }
 
-// limits: 5 messages per visitor address per 10 minutes, 100 per hour for the whole site, and each request id is accepted once
-if (!pms_limit('contact-ip', pms_client_ip(), 5, 600) || !pms_limit('contact-all', 'site', 100, 3600)) { pms_respond(false, 429); }
+// limits: 3 messages per sender email per day, 3 per visitor address per 10 minutes, 100 per hour for the whole site, and each request id is accepted once
+if (!pms_limit('contact-email', strtolower($email), 3, 86400)) { pms_respond(true); }   // max 3 messages per sender address per day
+if (!pms_limit('contact-ip', pms_client_ip(), 3, 600) || !pms_limit('contact-all', 'site', 100, 3600)) { pms_respond(false, 429); }
 if ($id !== '' && !pms_limit('contact-id', $id, 1, 3600)) { pms_respond(true); }      // a repeated send of the same message
 
 $body = "New Website Contact Form Submission\n\n"
@@ -33,5 +36,6 @@ $body = "New Website Contact Form Submission\n\n"
       . "Interested in: {$interest}\n\n"
       . "Message:\n{$message}\n";
 
-if (pms_send_mail('New Website Contact Form Submission', $body, $email, $name)) { pms_respond(true); }
+$subject = (pms_maybe_spam($message) ? '[Possible spam] ' : '') . 'New Website Contact Form Submission';
+if (pms_send_mail($subject, $body, $email, $name)) { pms_respond(true); }
 pms_respond(false, 500);
