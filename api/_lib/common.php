@@ -51,6 +51,7 @@ function pms_secret(string $name): ?string
         $docroot = isset($_SERVER['DOCUMENT_ROOT']) ? rtrim((string)$_SERVER['DOCUMENT_ROOT'], '/\\') : '';
         if ($docroot !== '') { $candidates[] = $docroot . '/pms-secrets.php'; }   // also accepted inside the web folder (blocked from the web by .htaccess)
         foreach ($candidates as $c) {
+            if (is_dir($c) && is_file($c . '/pms-secrets.php')) { $c .= '/pms-secrets.php'; }   // also accept a folder of that name holding the file
             if (is_file($c) && is_readable($c)) {
                 $data = include $c;                      // the file returns an array and prints nothing
                 if (is_array($data)) { $file = $data; break; }
