@@ -12,3 +12,6 @@ pms-secrets.php
 
 # ElevenLabs welcome audio lives only on the server (uploaded directly); keep it through deploys
 /audio/
+
+# Server-only images copied from the Upwork profile (not in git; survive deploys)
+/media/
