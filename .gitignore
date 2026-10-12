@@ -9,3 +9,6 @@ pms-secrets.php
 .env
 .env.*
 *.secret.php
+
+# ElevenLabs welcome audio lives only on the server (uploaded directly); keep it through deploys
+/audio/
