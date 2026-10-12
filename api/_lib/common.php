@@ -21,7 +21,6 @@ function pms_respond(bool $ok, int $status = 200): void
     header('Cache-Control: no-store');
     header('X-Content-Type-Options: nosniff');
     header('X-Robots-Tag: noindex');
-    if (!$ok && ($_GET['why'] ?? '') === '6430760dec85c097172dd201' && isset($GLOBALS['PMS_WHY'])) { echo json_encode(['ok'=>false,'reason'=>$GLOBALS['PMS_WHY']]); exit; } // TEMP
     echo $ok ? '{"ok":true}' : '{"ok":false,"message":"Unable to send your message."}';
     exit;
 }
@@ -147,7 +146,7 @@ function pms_send_mail(string $subject, string $body, ?string $replyEmail = null
     $port = (int)(pms_secret('SMTP_PORT') ?? '465');
     $user = pms_secret('SMTP_USERNAME') ?? PMS_MAIL_ADDRESS;
     $pass = pms_secret('SMTP_PASSWORD');
-    if ($pass === null) { $GLOBALS['PMS_WHY']='settings_file_not_found_or_no_password'; error_log('[pms-forms] SMTP_PASSWORD is not configured on the server'); return false; }
+    if ($pass === null) { error_log('[pms-forms] SMTP_PASSWORD is not configured on the server'); return false; }
 
     $mail = new PHPMailer\PHPMailer\PHPMailer(true);
     try {
@@ -177,8 +176,6 @@ function pms_send_mail(string $subject, string $body, ?string $replyEmail = null
         $mail->Body    = $body;
         return $mail->send();
     } catch (Throwable $e) {
-        $m = strtolower(isset($mail) ? (string)$mail->ErrorInfo : '') . ' ' . strtolower($e->getMessage());
-        $GLOBALS['PMS_WHY'] = strpos($m,'authenticate')!==false ? 'mailbox_login_refused' : (strpos($m,'connect')!==false ? 'cannot_reach_mail_server' : (strpos($m,'recipient')!==false||strpos($m,'sender')!==false||strpos($m,'from')!==false ? 'address_rejected' : 'other_mail_error')); // TEMP
         error_log('[pms-forms] mail failed: ' . get_class($e) . ' (details are not shown to visitors)');
         return false;
     }
