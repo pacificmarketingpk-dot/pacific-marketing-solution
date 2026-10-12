@@ -72,3 +72,8 @@ Require all denied
 <IfModule mod_alias.c>
 RedirectMatch 404 ^/tools/
 </IfModule>
+
+# Never serve the private settings file, wherever it is placed
+<Files "pms-secrets.php">
+    Require all denied
+</Files>

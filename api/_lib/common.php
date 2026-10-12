@@ -47,6 +47,8 @@ function pms_secret(string $name): ?string
         $explicit = getenv('PMS_SECRETS_FILE');
         if (is_string($explicit) && $explicit !== '') { $candidates[] = $explicit; }
         if (($d = pms_private_dir()) !== null) { $candidates[] = $d . '/pms-secrets.php'; $candidates[] = dirname($d) . '/pms-secrets.php'; }
+        $docroot = isset($_SERVER['DOCUMENT_ROOT']) ? rtrim((string)$_SERVER['DOCUMENT_ROOT'], '/\\') : '';
+        if ($docroot !== '') { $candidates[] = $docroot . '/pms-secrets.php'; }   // also accepted inside the web folder (blocked from the web by .htaccess)
         foreach ($candidates as $c) {
             if (is_file($c) && is_readable($c)) {
                 $data = include $c;                      // the file returns an array and prints nothing
