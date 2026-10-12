@@ -1,10 +1,10 @@
 <?php
-// TEMPORARY one-off receiver for 3 Upwork portfolio images. Removed right after use.
+// TEMPORARY one-off receiver for Upwork portfolio images. Removed right after use.
 declare(strict_types=1);
 header('Access-Control-Allow-Origin: https://www.upwork.com');
 header('Content-Type: application/json; charset=utf-8'); header('Cache-Control: no-store');
 if (($_GET['t'] ?? '') !== '1d34600b5c3a9d0bbb085dc1ca4a2c80' || ($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') { http_response_code(404); exit; }
-$ok = ['upwork-voice-coaching.jpg','upwork-legal-rag.jpg','upwork-phone-receptionist.jpg'];
+$ok = []; for ($i = 1; $i <= 14; $i++) { $ok[] = sprintf('upwork-pf-%02d.jpg', $i); }
 $name = (string)($_GET['name'] ?? '');
 if (!in_array($name, $ok, true)) { http_response_code(400); echo '{"ok":false,"e":"name"}'; exit; }
 $data = (string)file_get_contents('php://input', false, null, 0, 400001);
