@@ -53,7 +53,7 @@ function pms_secret(string $name): ?string
         foreach ($candidates as $c) {
             if (is_dir($c) && is_file($c . '/pms-secrets.php')) { $c .= '/pms-secrets.php'; }   // also accept a folder of that name holding the file
             if (is_file($c) && is_readable($c)) {
-                $data = include $c;                      // the file returns an array and prints nothing
+                ob_start(); $data = include $c; ob_end_clean();   // the file returns an array; stray spaces before <?php are discarded
                 if (is_array($data)) { $file = $data; break; }
             }
         }
