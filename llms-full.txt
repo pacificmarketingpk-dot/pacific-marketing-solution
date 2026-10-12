@@ -2650,6 +2650,127 @@ Tell us what you are trying to achieve and we will suggest where to begin.
 
 ---
 
+<!-- https://pacificmarketingsolution.com/insights/what-upwork-clients-say-about-our-ai-engineer/ -->
+Page title: What Upwork Clients Say About Our AI Engineer
+Address: https://pacificmarketingsolution.com/insights/what-upwork-clients-say-about-our-ai-engineer/
+Summary: 41 Upwork reviews, a 5.0 rating and 100% Job Success. What clients say about Nauman N., who leads our AI and SaaS builds.
+
+# What Upwork clients say about our AI engineer
+41 reviews, a 5.0 rating and 100% Job Success. We read the reviews and the tags clients chose to see what they value.
+2 min read · Based on: Nauman N.'s public Upwork profile (October 2026)
+
+## At a glance
+- 100% Job Success on Upwork
+- 5.0 average rating from 41 reviews
+- 51 jobs on Upwork
+- 1,899 hours worked
+Nauman N. leads our AI and SaaS builds. His public Upwork profile is a useful outside check on that work, because the ratings and comments come from the clients who paid for it, not from us. Here is what they show.
+
+## 1. The qualities clients tag most
+After a job ends, Upwork lets clients pick words that describe the freelancer. Across his completed jobs, these are the counts:
+- Committed to Quality: 16
+- Clear Communicator: 15
+- Professional: 12
+- Collaborative: 10
+- Reliable: 10
+- Accountable for Outcomes: 7
+- Detail Oriented: 6
+- Solution Oriented: 5
+Quality and communication lead the list and sit almost level. The written reviews tell the same story.
+
+## 2. Communication comes up again and again
+Hasmik V. wrote that communication was smooth and that he explains to the client what he is doing and why, so everyone is on board. Rabey A. said they were kept updated at every stage. Vanessa E. said he was prompt on all communication.
+
+## 3. Complex AI work, delivered
+Saeed A. hired him for a multi-agent AI system built with n8n and the Claude API, where the agents needed a high level of coordination. Mike S. described a platform built from the ground up, with multiple AI engines, user sign-in, payments and a training module system, delivered on time.
+
+## 4. Results that can be measured
+Haff A. reported 40% faster model inference and 60% less memory use after his work on their machine learning pipelines and APIs.
+
+## What this means for your project
+- You hear from the person building your product, including what is being done and why.
+- AI features arrive as part of a working product, with sign-in, payments and data included.
+- Where a result can be measured, such as speed or memory use, it is measured.
+Based on Nauman N.'s public Upwork profile as of October 2026. The full reviews are on his profile and on our About page.
+
+---
+
+<!-- https://pacificmarketingsolution.com/insights/voice-ai-agents-three-builds/ -->
+Page title: Voice AI Agents in Practice: Three Builds
+Address: https://pacificmarketingsolution.com/insights/voice-ai-agents-three-builds/
+Summary: A voice coaching platform, an AI phone receptionist and lead re-engagement calls: what our voice agent builds share, and what to plan first.
+
+# Voice AI agents in practice: three builds and what they share
+A coaching platform, a phone receptionist and lead re-engagement calls. What our AI engineer's voice agent projects have in common.
+2 min read · Based on: Our AI engineer's Upwork portfolio
+
+## At a glance
+- 5 specialist voice coaches behind one manager agent
+- 1 call to answer and book an appointment
+- 243 automated tests on the Airtime Media agents
+Voice agents are among the AI builds businesses ask us about most. Here are three that our AI engineer, Nauman N., has shipped, and the patterns they share.
+
+## The three builds
+- Voice coaching platform (FastAPI, React, ElevenLabs, Claude): a manager agent routes each user to one of 5 specialist voice coaches.
+- AI phone receptionist (Twilio, FastAPI, Next.js, Claude): answers calls and books appointments during the call.
+- Airtime Media voice agents (Twilio, Python): re-engage leads on inbound and outbound calls.
+
+## 1. One job per agent
+The coaching platform does not ask one agent to do everything. A manager agent decides which coach the user should talk to, and each of the five coaches covers one area. Smaller jobs are easier to test and to improve one at a time.
+
+## 2. Every call should end in an action
+The receptionist does more than answer questions: it books the appointment while the caller is still on the line. The lead re-engagement agents work the same way. The aim of each call is a next step, not just a conversation.
+
+## 3. Automated tests before launch
+Phone calls are slow to check by hand, so these builds lean on automated tests. The Airtime Media project is covered by 243 of them.
+
+## Before you build a voice agent
+- Write down the one action each call should end with, such as a booking.
+- List the systems the agent must read from or write to, such as your calendar or CRM.
+- Decide when a call should be handed to a person.
+- Plan how you will test it before real customers call.
+Based on our AI engineer's Upwork portfolio and project notes. See the full project list on our Work page.
+
+---
+
+<!-- https://pacificmarketingsolution.com/insights/tech-stack-behind-our-ai-and-saas-builds/ -->
+Page title: The Tech Stack Behind Our AI and SaaS Builds
+Address: https://pacificmarketingsolution.com/insights/tech-stack-behind-our-ai-and-saas-builds/
+Summary: The tools we use to build AI agents, voice agents and SaaS products, from Next.js and FastAPI to Claude, LangGraph, RAG and n8n.
+
+# The tech stack behind our AI and SaaS builds
+What we build AI agents, voice agents and SaaS products with, and why each part is there.
+2 min read · Based on: Our AI engineer's Upwork profile and portfolio
+
+## At a glance
+- 9+ years building software
+- 50+ platforms shipped
+- 33 projects in his Upwork portfolio
+Clients often ask what we build with. This is the stack our AI engineer, Nauman N., uses across the AI and SaaS projects on our Work page, grouped by the job each part does.
+
+## The app people use
+Next.js, React and TypeScript for the web app, with FastAPI (Python) or Node.js behind it. PostgreSQL or Supabase store the data. Stripe handles payments and subscriptions, as in the pet care booking marketplace and the custom GPT community platform.
+
+## The AI layer
+The Claude API and the OpenAI API handle language tasks, with LangChain and LangGraph running the agents. Retrieval-augmented generation (RAG) with a vector database lets an AI answer from your own documents. In the legal research platform it runs on a self-hosted model, so client documents never reach a third-party API. MCP gives agents a standard way to use tools.
+
+## Voice
+ElevenLabs, Vapi, Retell AI and Twilio power voice agents and phone calls, such as the AI phone receptionist that books appointments during the call.
+
+## Automation and CRM
+n8n, Make and Zapier connect apps. GoHighLevel, HubSpot and Airtable hold leads and customer records. The Shipbling project, for example, uses n8n workflows to automate a Shopify store.
+
+## Hosting and quality
+Docker and AWS for hosting, with automated tests on the larger builds: 93 on the OrbitOS profit dashboard and 243 on the Airtime Media voice agents.
+
+## What we look at when choosing
+- The tools your team already uses.
+- Keeping your data in systems you own.
+- The simplest setup that does the job, with agents only where they save real work.
+Based on our AI engineer's Upwork profile and portfolio, October 2026.
+
+---
+
 <!-- https://pacificmarketingsolution.com/privacy-policy/ -->
 Page title: Privacy Policy | Pacific Marketing Solution
 Address: https://pacificmarketingsolution.com/privacy-policy/

@@ -41,7 +41,7 @@ Header set Cache-Control "public, max-age=31536000, immutable"
 <FilesMatch "\.woff2$">
 Header set Cache-Control "public, max-age=31536000, immutable"
 </FilesMatch>
-<FilesMatch "\.(webp|jpg|jpeg|png|ico|svg|mp4)$">
+<FilesMatch "\.(webp|jpg|jpeg|png|ico|svg|mp4|mp3)$">
 Header set Cache-Control "public, max-age=2592000"
 </FilesMatch>
 <FilesMatch "\.(json|txt|xml|webmanifest)$">
