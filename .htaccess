@@ -1,0 +1,74 @@
+# Pacific Marketing Solution: speed, caching and tidy addresses.  Safe to keep; every block is skipped if the server lacks that module.
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+# one address for the site: https and no "www" (only for the real domain, so a temporary preview address keeps working)
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.pacificmarketingsolution\.com$ [NC]
+RewriteRule ^ https://pacificmarketingsolution.com%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTP_HOST} ^pacificmarketingsolution\.com$ [NC]
+RewriteRule ^ https://pacificmarketingsolution.com%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# smaller downloads
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript text/javascript application/json application/manifest+json image/svg+xml
+</IfModule>
+<IfModule mod_brotli.c>
+AddOutputFilterByType BROTLI_COMPRESS text/html text/css text/plain text/xml application/xml application/javascript text/javascript application/json application/manifest+json image/svg+xml
+</IfModule>
+
+<IfModule mod_mime.c>
+AddType application/manifest+json .webmanifest
+AddType font/woff2 .woff2
+AddType video/mp4 .mp4
+AddType image/webp .webp
+AddType application/javascript .js
+</IfModule>
+
+# repeat visits: files whose name contains a fingerprint never change; pages are always checked for a fresh copy
+<IfModule mod_headers.c>
+<FilesMatch "\.html$">
+Header set Cache-Control "public, max-age=0, must-revalidate"
+</FilesMatch>
+<FilesMatch "^app\.[0-9a-f]{10}\.(js|css)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+<FilesMatch "\.woff2$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+<FilesMatch "\.(webp|jpg|jpeg|png|ico|svg|mp4)$">
+Header set Cache-Control "public, max-age=2592000"
+</FilesMatch>
+<FilesMatch "\.(json|txt|xml|webmanifest)$">
+Header set Cache-Control "public, max-age=3600"
+</FilesMatch>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
+# the sitemap is always sent as XML (a server that sends .xml as text/html makes browsers show only the text and Search Console say "Sitemap is HTML")
+<IfModule mod_mime.c>
+AddType application/xml .xml
+</IfModule>
+<Files "sitemap.xml">
+ForceType application/xml
+</Files>
+<IfModule mod_headers.c>
+<Files "sitemap.xml">
+Header set Content-Type "application/xml; charset=UTF-8"
+</Files>
+</IfModule>
+
+# never serve hidden files; the maintenance scripts are not public
+<FilesMatch "^\.(?!well-known)">
+Require all denied
+</FilesMatch>
+<IfModule mod_alias.c>
+RedirectMatch 404 ^/tools/
+</IfModule>

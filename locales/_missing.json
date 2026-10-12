@@ -1,0 +1,292 @@
+{
+ "about": {
+  "fr": 8,
+  "de": 8,
+  "ar": 0,
+  "zh-CN": 8,
+  "ja": 8,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 8
+ },
+ "art-a-low-cost-per-click-needs-conversion-tracking": {
+  "fr": 13,
+  "de": 13,
+  "ar": 13,
+  "zh-CN": 13,
+  "ja": 13,
+  "es-MX": 13,
+  "es-ES": 13,
+  "pt-PT": 13
+ },
+ "art-clicks-or-conversations-meta-ads-objective": {
+  "fr": 27,
+  "de": 27,
+  "ar": 27,
+  "zh-CN": 27,
+  "ja": 27,
+  "es-MX": 27,
+  "es-ES": 27,
+  "pt-PT": 27
+ },
+ "art-fix-indexing-before-writing-more-content": {
+  "fr": 23,
+  "de": 23,
+  "ar": 23,
+  "zh-CN": 23,
+  "ja": 23,
+  "es-MX": 23,
+  "es-ES": 23,
+  "pt-PT": 23
+ },
+ "art-meta-ads-cost-per-click-155000-link-clicks": {
+  "fr": 13,
+  "de": 13,
+  "ar": 13,
+  "zh-CN": 13,
+  "ja": 13,
+  "es-MX": 13,
+  "es-ES": 13,
+  "pt-PT": 13
+ },
+ "art-reading-a-google-ads-report-beyond-clicks": {
+  "fr": 17,
+  "de": 17,
+  "ar": 17,
+  "zh-CN": 17,
+  "ja": 17,
+  "es-MX": 17,
+  "es-ES": 17,
+  "pt-PT": 17
+ },
+ "art-three-seo-reports-side-by-side": {
+  "fr": 16,
+  "de": 16,
+  "ar": 16,
+  "zh-CN": 16,
+  "ja": 16,
+  "es-MX": 16,
+  "es-ES": 16,
+  "pt-PT": 16
+ },
+ "art-what-clients-say-they-value-most": {
+  "fr": 21,
+  "de": 21,
+  "ar": 21,
+  "zh-CN": 21,
+  "ja": 21,
+  "es-MX": 21,
+  "es-ES": 21,
+  "pt-PT": 21
+ },
+ "common": {
+  "fr": 79,
+  "de": 79,
+  "ar": 56,
+  "zh-CN": 79,
+  "ja": 79,
+  "es-MX": 56,
+  "es-ES": 56,
+  "pt-PT": 79
+ },
+ "contact": {
+  "fr": 4,
+  "de": 4,
+  "ar": 2,
+  "zh-CN": 4,
+  "ja": 4,
+  "es-MX": 2,
+  "es-ES": 2,
+  "pt-PT": 4
+ },
+ "glossary": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "home": {
+  "fr": 10,
+  "de": 10,
+  "ar": 0,
+  "zh-CN": 10,
+  "ja": 10,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 10
+ },
+ "insights": {
+  "fr": 3,
+  "de": 3,
+  "ar": 3,
+  "zh-CN": 3,
+  "ja": 3,
+  "es-MX": 3,
+  "es-ES": 3,
+  "pt-PT": 3
+ },
+ "privacy": {
+  "fr": 213,
+  "de": 213,
+  "ar": 213,
+  "zh-CN": 213,
+  "ja": 213,
+  "es-MX": 213,
+  "es-ES": 213,
+  "pt-PT": 213
+ },
+ "services": {
+  "fr": 12,
+  "de": 12,
+  "ar": 5,
+  "zh-CN": 12,
+  "ja": 12,
+  "es-MX": 5,
+  "es-ES": 5,
+  "pt-PT": 12
+ },
+ "svc-ai-analytics-data-intelligence": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-ai-automation-crm": {
+  "fr": 2,
+  "de": 2,
+  "ar": 2,
+  "zh-CN": 2,
+  "ja": 2,
+  "es-MX": 2,
+  "es-ES": 2,
+  "pt-PT": 2
+ },
+ "svc-ai-chatbots-voice-agents": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-api-systems-integration": {
+  "fr": 1,
+  "de": 1,
+  "ar": 1,
+  "zh-CN": 1,
+  "ja": 1,
+  "es-MX": 1,
+  "es-ES": 1,
+  "pt-PT": 1
+ },
+ "svc-cloud-devops-infrastructure": {
+  "fr": 2,
+  "de": 2,
+  "ar": 2,
+  "zh-CN": 2,
+  "ja": 2,
+  "es-MX": 2,
+  "es-ES": 2,
+  "pt-PT": 2
+ },
+ "svc-content-creative-video": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-performance-marketing-funnels": {
+  "fr": 1,
+  "de": 1,
+  "ar": 1,
+  "zh-CN": 1,
+  "ja": 1,
+  "es-MX": 1,
+  "es-ES": 1,
+  "pt-PT": 1
+ },
+ "svc-saas-custom-software-development": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-seo-aeo-geo": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-social-media-management": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-websites-digital-products": {
+  "fr": 0,
+  "de": 0,
+  "ar": 0,
+  "zh-CN": 0,
+  "ja": 0,
+  "es-MX": 0,
+  "es-ES": 0,
+  "pt-PT": 0
+ },
+ "svc-white-label-services": {
+  "fr": 1,
+  "de": 1,
+  "ar": 1,
+  "zh-CN": 1,
+  "ja": 1,
+  "es-MX": 1,
+  "es-ES": 1,
+  "pt-PT": 1
+ },
+ "terms": {
+  "fr": 220,
+  "de": 220,
+  "ar": 220,
+  "zh-CN": 220,
+  "ja": 220,
+  "es-MX": 220,
+  "es-ES": 220,
+  "pt-PT": 220
+ },
+ "work": {
+  "fr": 36,
+  "de": 36,
+  "ar": 12,
+  "zh-CN": 36,
+  "ja": 36,
+  "es-MX": 12,
+  "es-ES": 12,
+  "pt-PT": 36
+ }
+}

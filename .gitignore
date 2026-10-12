@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+
+# never commit passwords or keys
+pms-secrets.php
+.env
+.env.*
+*.secret.php

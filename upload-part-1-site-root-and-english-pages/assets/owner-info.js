@@ -1,1 +1,0 @@
-window.PMS_OWNER={};

@@ -1,0 +1,5 @@
+# Only contact.php and newsletter.php are meant to be opened from the internet.
+Options -Indexes
+<FilesMatch "\.(md|json|log|lock|example\.php|txt)$">
+    Require all denied
+</FilesMatch>
