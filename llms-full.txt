@@ -15,10 +15,27 @@ Summary: Pacific Marketing Solution is a digital marketing agency in Houston, Te
 # Marketing that answers, follows up and books the sale.
 Get leads. Reply in minutes. Grow steadily.
 Pacific Marketing Solution is a digital marketing agency in Houston, Texas. We connect ads, AI assistants and CRM automation so every enquiry gets a fast answer and a clear next step.
+- ★ 5.0 rating: 41 Upwork reviews of our AI engineer
+- 155,000+: ad clicks for one client in three campaigns
+- 50+: web and AI platforms shipped by our engineering lead
 
-## Platforms we build on
+## Pick your goal. We build the system around it.
+Nine services in three groups. Start with one, or combine them into one growth system.
 
-## One team for strategy, build and follow-through.
+### Grow: Get more customers
+- Performance marketing: Ads measured by cost per lead.
+- SEO Services: Be found on Google and AI assistants.
+- Social and AI Content: Posts, video and channel management.
+
+### Automate: Save time with AI
+- AI automation and CRM: Workflows that connect all your tools.
+- Chatbots and voice agents: Answer and book on web, WhatsApp, phone.
+- AI analytics and data: Dashboards that answer your questions.
+
+### Build: Launch your product
+- Websites and landing pages: Fast sites built to convert.
+- SaaS and custom software: Web apps, portals and dashboards.
+- Cloud and DevOps: Hosting, monitoring and backups.
 
 ## Marketing breaks down when every part works alone.
 Ads from one vendor, a website from another, contacts in a spreadsheet. Replies come late, messages get lost and nobody can say what is working. We join the pieces into one system.
@@ -41,36 +58,31 @@ Ads from one vendor, a website from another, contacts in a spreadsheet. Replies 
 - Reporting
 One plan, one team and one way of measuring results, so fewer leads go unanswered and replies come faster.
 
-## Five services that work as one.
-Pick a single service, or combine them into a full growth system.
+### Fewer handoffs. Clearer results.
 
-### AI automation and CRM
-Set up pipelines, route new leads to the right person and send follow-ups without copying data between tools.
-Less admin, a tidier sales process.
-- CRM setup
-- Lead pipelines
-- Workflow automation
-- Auto follow-up
+### Plans that link everything
+Ads, pages, chat and follow-up are planned together so each step leads into the next.
 
-### Chatbots and voice agents
-Assistants on your site, WhatsApp and phone line that answer questions and book visits.
-Reply sooner and catch more enquiries.
-- Website chat
-- WhatsApp
-- Voice agent
-- Bookings
+### AI with a reason
+We add AI where it saves time or improves replies, and skip it where it doesn't.
 
-### Performance marketing
-Paid campaigns and funnels built around cost per qualified lead, not clicks.
-Know what each pound of ad spend brings back.
+### Creative backed by data
+Good ideas get tested, measured and refined against real results.
 
-### Content and video
-Social posts, ad creative and short video, produced on a steady schedule.
-A steady stream of content that looks like you.
+### Built around the buyer's path
+We map each stage from first look to final decision and fix the weak spots.
 
-### Websites and apps
-Fast, clear sites and landing pages designed to get visitors to act.
-Turn visits into enquiries.
+### Automation with people in charge
+Routine tasks run themselves while your team keeps control of key decisions.
+
+### One team, one plan
+Strategy, design, content and engineering share the same goals and timeline.
+
+## Numbers from real client campaigns.
+Figures come from the ad and search dashboards supplied with each project.
+- 155,000+ link clicks across three Meta Ads campaigns (Primax Solar Energy)
+- 151 messaging conversations from two Meta Ads campaigns (Shahid Enterprizes)
+- Month 3 qualified organic leads after we fixed indexing (Allen Jacobi Law)
 
 ## Separate services help. Connected ones compound.
 
@@ -107,26 +119,6 @@ For brands that need to publish more, more often.
 - Reusing content across channels
 - Monthly publishing calendar
 
-## Fewer handoffs. Clearer results.
-
-### Plans that link everything
-Ads, pages, chat and follow-up are planned together so each step leads into the next.
-
-### AI with a reason
-We add AI where it saves time or improves replies, and skip it where it doesn't.
-
-### Creative backed by data
-Good ideas get tested, measured and refined against real results.
-
-### Built around the buyer's path
-We map each stage from first look to final decision and fix the weak spots.
-
-### Automation with people in charge
-Routine tasks run themselves while your team keeps control of key decisions.
-
-### One team, one plan
-Strategy, design, content and engineering share the same goals and timeline.
-
 ## From a business problem to a working growth system.
 
 ### Learn
@@ -144,61 +136,17 @@ We create and connect the campaigns, pages, content and automations, then test t
 ### Improve
 We watch the numbers, repair weak spots and put more effort behind what works.
 
+## What our clients say.
+
 ## Made to fit growing businesses in many fields.
 We adapt each system to how your sector sells and serves customers.
 
-## We plug into the software you already run.
-Below are platforms we regularly work with. If another tool offers a dependable connection, we can usually include it too.
-
-### CRM
-
-### Email and marketing
-
-### Advertising
-
-### AI models
-
-### Automation
-
-### Messaging
-
-### Website platforms
-
-### Analytics
-
-### Data storage
-
-### Scheduling
-Names shown for compatibility only. No partnership with these companies is implied.
+### Tools we work with
+The full list for each service is on its service page. Names shown for compatibility only. No partnership with these companies is implied.
 
 ## Answers before you ask.
 Straight replies on scope, working together and what we can honestly deliver.
 
-### What kind of company are you?
-We are a growth studio that joins advertising, AI assistants, CRM automation, content and web development into one working system.
-
-### Can I hire you for just one service?
-Yes. A single website, campaign, chatbot or CRM setup is a common starting point, and you can add more later.
-
-### Do you take on small businesses?
-Yes. We size the work to your goals, budget and team, and start with the change that matters most.
-
-### Can you improve what we already have?
-Yes. We review your current site, ads, CRM and automations first, then fix or extend them instead of starting over.
-
-### What does the first step look like?
-A discovery call. We talk through your goals and tools, then suggest where to begin.
-
-### Do you offer ongoing help?
-Yes. Many clients keep us on for campaign tuning, automation upkeep, content, site updates and reporting.
-
-### Can you promise results?
-No. Nobody honest can. We offer clean tracking, clear reporting and steady testing so decisions rest on data.
-
-## Let's talk.
-Tell us where the business stands, what you want to change and what is holding you back. We'll point to the best next step.
-
-### Questions and answers on this page
 Q: What kind of company are you?
 A: We are a growth studio that joins advertising, AI assistants, CRM automation, content and web development into one working system.
 
@@ -219,6 +167,9 @@ A: Yes. Many clients keep us on for campaign tuning, automation upkeep, content,
 
 Q: Can you promise results?
 A: No. Nobody honest can. We offer clean tracking, clear reporting and steady testing so decisions rest on data.
+
+## Let's talk.
+Tell us where the business stands, what you want to change and what is holding you back. We'll point to the best next step.
 
 
 ---
