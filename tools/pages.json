@@ -12,11 +12,6 @@
     "addressRegion": "TX",
     "postalCode": "77090",
     "addressCountry": "US"
-   },
-   {
-    "streetAddress": "669 Shadman Colony",
-    "addressLocality": "Lahore",
-    "addressCountry": "PK"
    }
   ],
   "sameAs": []
@@ -25,7 +20,7 @@
   {
    "route": "",
    "title": "Pacific Marketing Solution | SEO, Ads & AI Automation",
-   "description": "Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We combine SEO, ads, websites, AI and CRM automation.",
+   "description": "Pacific Marketing Solution is a digital marketing agency in Houston, Texas. We combine SEO, ads, websites, AI and CRM automation.",
    "image": "images/og/home.jpg",
    "imageAlt": "Pacific Marketing Solution: SEO, ads, websites and AI automation",
    "type": "website",
@@ -294,8 +289,8 @@
   },
   {
    "route": "contact",
-   "title": "Contact Us | Houston, Texas and Lahore, Pakistan",
-   "description": "Contact Pacific Marketing Solution in Houston, Texas and Lahore, Pakistan. Send a message or book a meeting to talk about your marketing goals.",
+   "title": "Contact Us | Houston, Texas",
+   "description": "Contact Pacific Marketing Solution in Houston, Texas. Send a message or book a meeting to talk about your marketing goals.",
    "image": "images/og/contact.jpg",
    "imageAlt": "Contact Pacific Marketing Solution",
    "type": "website",

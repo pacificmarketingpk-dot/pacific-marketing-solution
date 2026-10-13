@@ -1,6 +1,6 @@
 # Pacific Marketing Solution
 
-> Pacific Marketing Solution is a digital marketing agency with offices in Houston, Texas (USA) and Lahore, Pakistan. It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios Pvt Ltd.
+> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios Pvt Ltd.
 
 Full text of every page in one file: https://pacificmarketingsolution.com/llms-full.txt
 Sitemap: https://pacificmarketingsolution.com/sitemap.xml
@@ -24,7 +24,7 @@ Contact: info@pacificmarketingsolution.com
 ## Company
 - [About us](https://pacificmarketingsolution.com/about/): Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.
 - [Case studies and results](https://pacificmarketingsolution.com/work/): Real SEO, Google Ads and Meta Ads case studies with the numbers: clicks, impressions, click-through rate, cost per click and more.
-- [Contact](https://pacificmarketingsolution.com/contact/): Contact Pacific Marketing Solution in Houston, Texas and Lahore, Pakistan. Send a message or book a meeting to talk about your marketing goals.
+- [Contact](https://pacificmarketingsolution.com/contact/): Contact Pacific Marketing Solution in Houston, Texas. Send a message or book a meeting to talk about your marketing goals.
 
 ## Learn
 - [Marketing insights](https://pacificmarketingsolution.com/insights/): Plain-English lessons from our own SEO, Google Ads and Meta Ads campaigns: what the numbers show and what we would do next.
@@ -58,8 +58,7 @@ The same pages exist in other languages at their own addresses (every version li
 ## Entity summary
 - Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios Pvt Ltd
 - Category: digital marketing agency (SEO, AEO and GEO, paid advertising, websites, content and creative, social media management, AI chatbots and voice agents, AI automation and CRM setup, white-label services)
-- Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; 669 Shadman Colony, Lahore, Pakistan
-- Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
+- Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; - Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
 - Website languages: English (default), French, German, Arabic, Chinese (Simplified), Japanese, Spanish (Mexico), Spanish (Spain), Portuguese (Portugal)
 - Contact: info@pacificmarketingsolution.com
 - Evidence: case studies and campaign figures at https://pacificmarketingsolution.com/work/ and https://pacificmarketingsolution.com/insights/ (numbers come from the Search Console, Google Ads and Meta Ads reports supplied with each project)

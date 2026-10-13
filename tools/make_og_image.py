@@ -72,7 +72,7 @@ def make(title, sub, kicker, out, figure=None, figure_label=None, logo=None):
         img.paste(card, (826, 190), card)
     # footer
     d.text((72, 566), 'pacificmarketingsolution.com', font=font(500, 25), fill=MUTED)
-    pf = font(700, 23); pt = 'Houston, Texas and Lahore, Pakistan'; pw = d.textlength(pt, font=pf) + 48
+    pf = font(700, 23); pt = 'Houston, Texas'; pw = d.textlength(pt, font=pf) + 48
     d.rounded_rectangle((W - 72 - pw, 552, W - 72, 598), radius=23, fill=ACCENT); d.text((W - 72 - pw + 24, 562), pt, font=pf, fill=NAVY)
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     img.save(out, 'JPEG', quality=84, optimize=True, progressive=True)

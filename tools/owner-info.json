@@ -7,9 +7,9 @@
   "officeHours": [],
   "_officeHours_help": "Example: [{\"office\": \"Houston\", \"days\": [\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"], \"opens\": \"09:00\", \"closes\": \"17:00\"}]  (24-hour times, local time of that office).",
   "primaryOffice": null,
-  "_primaryOffice_help": "\"Houston\" or \"Lahore\". The primary office is listed first in the structured data.",
+  "_primaryOffice_help": "\"Houston\". The primary office is listed first in the structured data.",
   "serviceAreas": [],
-  "_serviceAreas_help": "Countries or regions where you really serve clients, for example [\"United States\", \"Pakistan\"].",
+  "_serviceAreas_help": "Countries or regions where you really serve clients, for example [\"United States\"].",
   "articles": {
     "three-seo-reports-side-by-side": {
       "author": null,

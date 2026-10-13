@@ -1,6 +1,6 @@
 # Pacific Marketing Solution: full text for AI assistants
 
-> The text of every English page of https://pacificmarketingsolution.com, in one file. Pacific Marketing Solution is a digital marketing agency with offices in Houston, Texas (USA) and Lahore, Pakistan, a startup by Unimind Studios Pvt Ltd. Contact: info@pacificmarketingsolution.com. The same pages exist in French, German, Arabic, Chinese, Japanese, Spanish (Mexico and Spain) and Portuguese (Portugal); see llms.txt.
+> The text of every English page of https://pacificmarketingsolution.com, in one file. Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA), a startup by Unimind Studios Pvt Ltd. Contact: info@pacificmarketingsolution.com. The same pages exist in French, German, Arabic, Chinese, Japanese, Spanish (Mexico and Spain) and Portuguese (Portugal); see llms.txt.
 
 Generated: 2026-10-06
 
@@ -10,11 +10,11 @@ Generated: 2026-10-06
 <!-- https://pacificmarketingsolution.com/ -->
 Page title: Pacific Marketing Solution | SEO, Ads & AI Automation
 Address: https://pacificmarketingsolution.com/
-Summary: Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We combine SEO, ads, websites, AI and CRM automation.
+Summary: Pacific Marketing Solution is a digital marketing agency in Houston, Texas. We combine SEO, ads, websites, AI and CRM automation.
 
 # Marketing that answers, follows up and books the sale.
 Get leads. Reply in minutes. Grow steadily.
-Pacific Marketing Solution is a digital marketing agency in Houston, Texas and Lahore, Pakistan. We connect ads, AI assistants and CRM automation so every enquiry gets a fast answer and a clear next step.
+Pacific Marketing Solution is a digital marketing agency in Houston, Texas. We connect ads, AI assistants and CRM automation so every enquiry gets a fast answer and a clear next step.
 
 ## Platforms we build on
 
@@ -2046,9 +2046,9 @@ Let’s talk about your goals, identify the opportunities, and build a digital s
 ---
 
 <!-- https://pacificmarketingsolution.com/contact/ -->
-Page title: Contact Us | Houston, Texas and Lahore, Pakistan
+Page title: Contact Us | Houston, Texas
 Address: https://pacificmarketingsolution.com/contact/
-Summary: Contact Pacific Marketing Solution in Houston, Texas and Lahore, Pakistan. Send a message or book a meeting to talk about your marketing goals.
+Summary: Contact Pacific Marketing Solution in Houston, Texas. Send a message or book a meeting to talk about your marketing goals.
 
 # Tell us what is slowing your growth.
 Fill in the form and we will reply to you by email.
@@ -2058,13 +2058,9 @@ Fields marked * are required.
 
 ### Other ways to reach us
 Email: info@pacificmarketingsolution.com
-Lahore, Pakistan 669 Shadman Colony, Lahore, Pakistan
 Houston, Texas 535 W Airtex Blvd, Houston, TX 77090, USA
 
-## Our offices.
-
-### Lahore office
-669 Shadman Colony, Lahore, Pakistan
+## Our office.
 
 ### Houston office
 535 W Airtex Blvd, Houston, TX 77090, USA

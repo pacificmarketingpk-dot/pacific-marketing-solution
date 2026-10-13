@@ -22,7 +22,7 @@ for h in d.get('officeHours') or []:
     else: hours.append({'days':days,'opens':h['opens'],'closes':h['closes'],'office':h.get('office')})
 prim=(d.get('primaryOffice') or '').strip() or None
 areas=[a.strip() for a in d.get('serviceAreas') or [] if str(a).strip()]
-if prim and prim.lower() not in ('houston','lahore'): errs.append('primaryOffice must be "Houston" or "Lahore"')
+if prim and prim.lower() not in ('houston',): errs.append('primaryOffice must be "Houston"')
 arts={}
 for slug,a in (d.get('articles') or {}).items():
     if not isinstance(a,dict): continue

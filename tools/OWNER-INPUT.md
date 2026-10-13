@@ -6,7 +6,7 @@ Nothing below has been invented or published. Every item stays unpublished until
 - [ ] **Official social profile URLs**: full https addresses of profiles you control (LinkedIn, Facebook, Instagram, X, YouTube, TikTok). Goes into `sameAs` in the Organization data.
 - [ ] **Public phone number**: with country code, only if you want it public.
 - [ ] **Opening hours**: per office, days and times, local time.
-- [ ] **Primary office**: Houston or Lahore (listed first in the structured data).
+- [ ] **Primary office**: Houston (listed first in the structured data).
 - [ ] **Service areas**: the countries or regions where you really serve clients.
 - [ ] **Article authors**: the real author's full name for each of the 7 articles.
 - [ ] **Article publication dates**: `YYYY-MM-DD` for each article.
