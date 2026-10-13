@@ -1,6 +1,6 @@
 # Pacific Marketing Solution
 
-> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios Pvt Ltd.
+> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios.
 
 Full text of every page in one file: https://pacificmarketingsolution.com/llms-full.txt
 Sitemap: https://pacificmarketingsolution.com/sitemap.xml
@@ -36,7 +36,7 @@ Contact: info@pacificmarketingsolution.com
 - [Fix indexing first: how the SEO for Allen Jacobi Law began](https://pacificmarketingsolution.com/insights/fix-indexing-before-writing-more-content/): Why search engines must index your pages before new content helps, and how fixing indexing for a law firm led to qualified leads by month three.
 - [Clicks are not results: reading a Google Ads report from click to conversion](https://pacificmarketingsolution.com/insights/reading-a-google-ads-report-beyond-clicks/): Follow a $1,720 Google Ads campaign from impressions to cost per conversion, and learn why clicks alone do not show whether ads are working.
 - [A $0.78 click is only good news if you can see what happens next](https://pacificmarketingsolution.com/insights/a-low-cost-per-click-needs-conversion-tracking/): A $0.78 click sounds cheap, but is it working? Learn why cost per click needs conversion tracking, using a real Google Ads campaign.
-- [155,000 link clicks: what three Meta campaigns show about cost per click](https://pacificmarketingsolution.com/insights/meta-ads-cost-per-click-155000-link-clicks/): Three Meta Ads campaigns produced over 155,000 link clicks at PKR 1.63 to 1.95 each. See what the numbers show about cost per click and scale.
+- [155,000 link clicks: what three Meta campaigns show about cost per click](https://pacificmarketingsolution.com/insights/meta-ads-cost-per-click-155000-link-clicks/): Three Meta Ads campaigns produced over 155,000 link clicks at ≈ USD 0.0059 to 0.0070 each. See what the numbers show about cost per click and scale.
 - [Clicks or conversations? Choosing the right Meta Ads objective](https://pacificmarketingsolution.com/insights/clicks-or-conversations-meta-ads-objective/): How to choose between link clicks and messaging conversations on Meta Ads, with real costs from three industrial-products campaigns.
 - [What clients say they value most: themes from five testimonials](https://pacificmarketingsolution.com/insights/what-clients-say-they-value-most/): We read our client testimonials for patterns. SEO results, quick replies and shared know-how came up most. Here is what clients said.
 
@@ -56,7 +56,7 @@ The same pages exist in other languages at their own addresses (every version li
 - [Português (Portugal)](https://pacificmarketingsolution.com/pt-pt/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
 
 ## Entity summary
-- Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios Pvt Ltd
+- Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios
 - Category: digital marketing agency (SEO, AEO and GEO, paid advertising, websites, content and creative, social media management, AI chatbots and voice agents, AI automation and CRM setup, white-label services)
 - Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; - Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
 - Website languages: English (default), French, German, Arabic, Chinese (Simplified), Japanese, Spanish (Mexico), Spanish (Spain), Portuguese (Portugal)

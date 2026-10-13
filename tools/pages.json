@@ -395,7 +395,7 @@
   {
    "route": "insights/meta-ads-cost-per-click-155000-link-clicks",
    "title": "Meta Ads Cost Per Click: 155,000 Clicks Analysed",
-   "description": "Three Meta Ads campaigns produced over 155,000 link clicks at PKR 1.63 to 1.95 each. See what the numbers show about cost per click and scale.",
+   "description": "Three Meta Ads campaigns produced over 155,000 link clicks at ≈ USD 0.0059 to 0.0070 each. See what the numbers show about cost per click and scale.",
    "image": "images/og/insight-meta-ads-cost-per-click-155000-link-clicks.jpg",
    "imageAlt": "Pacific Marketing Solution insight: 155,000 Link Clicks",
    "type": "article",
@@ -403,7 +403,7 @@
     "headline": "155,000 Link Clicks",
     "sub": "Three Meta Ads campaigns analysed",
     "kicker": "Insight - Meta Ads",
-    "figure": "PKR 1.63-1.95",
+    "figure": "≈ USD 0.0059-0.0070",
     "figureLabel": "cost per link click"
    }
   },
