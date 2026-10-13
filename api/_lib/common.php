@@ -12,6 +12,7 @@ error_reporting(E_ALL);
 
 const PMS_MAIL_ADDRESS = 'info@pacificmarketingsolution.com';
 const PMS_MAIL_NAME    = 'Pacific Marketing Solution';
+const PMS_MAIL_COPY    = 'muhammadkhan669@gmail.com';   // every form email is also sent here (owner's request)
 
 /** Send the JSON answer and stop. Only {"ok":true} or {"ok":false,"message":"..."} ever leave this file. */
 function pms_respond(bool $ok, int $status = 200): void
@@ -201,6 +202,7 @@ function pms_send_mail(string $subject, string $body, ?string $replyEmail = null
         $mail->Encoding   = 'quoted-printable';
         $mail->setFrom(PMS_MAIL_ADDRESS, PMS_MAIL_NAME, true);                  // From is always the company mailbox
         $mail->addAddress(PMS_MAIL_ADDRESS);
+        if (PMS_MAIL_COPY !== '') { $mail->addCC(PMS_MAIL_COPY); }
         if ($replyEmail !== null && pms_valid_email($replyEmail)) {
             $mail->addReplyTo($replyEmail, $replyName !== null ? pms_line($replyName, 100) : '');
         }
