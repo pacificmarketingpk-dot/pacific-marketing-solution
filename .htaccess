@@ -17,15 +17,15 @@ RewriteRule ^ https://pacificmarketingsolution.com%{REQUEST_URI} [L,R=301]
 # old English service addresses -> the new service pages (permanent)
 <IfModule mod_alias.c>
 RedirectMatch 301 ^/services/websites-digital-products/?$ /services/website-development/
-RedirectMatch 301 ^/services/saas-custom-software-development/?$ /services/custom-business-software/
+RedirectMatch 301 ^/services/saas-custom-software-development/?$ /services/saas-development/
 RedirectMatch 301 ^/services/seo-aeo-geo/?$ /services/seo/
 RedirectMatch 301 ^/services/performance-marketing-funnels/?$ /services/paid-ads/
 RedirectMatch 301 ^/services/content-creative-video/?$ /services/video-production/
 RedirectMatch 301 ^/services/ai-chatbots-voice-agents/?$ /services/ai-chatbots/
 RedirectMatch 301 ^/services/ai-automation-crm/?$ /services/business-automation/
-RedirectMatch 301 ^/services/ai-analytics-data-intelligence/?$ /services/business-automation/
-RedirectMatch 301 ^/services/api-systems-integration/?$ /services/custom-websites/
-RedirectMatch 301 ^/services/cloud-devops-infrastructure/?$ /services/custom-websites/
+RedirectMatch 301 ^/services/ai-analytics-data-intelligence/?$ /services/ai-analytics-dashboards/
+RedirectMatch 301 ^/services/api-systems-integration/?$ /services/saas-development/
+RedirectMatch 301 ^/services/cloud-devops-infrastructure/?$ /services/saas-development/
 RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/ai-analytics-data-intelligence/?$ /$1/services/ai-automation-crm/
 RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/api-systems-integration/?$ /$1/services/saas-custom-software-development/
 RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/cloud-devops-infrastructure/?$ /$1/services/saas-custom-software-development/

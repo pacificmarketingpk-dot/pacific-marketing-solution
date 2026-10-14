@@ -49,7 +49,7 @@ Most agencies do either the tech or the marketing. We do both, so your website, 
 Michelle TuleyMarket-Ai
 Petika Tavebayabooks.com
 
-## Build, create, grow and automate: 19 services, one team
+## Build, create, grow and automate: 22 services, one team
 Start with one service or combine several. Houston businesses usually begin with a fast website and local SEO and Google Maps, then add content, ads and automation such as an AI chatbot that books appointments.
 
 ### Build
@@ -59,6 +59,7 @@ Get your business online
 - WordPress Websites
 - AI Websites
 - Custom Websites
+- SaaS & MVP Development
 
 ### Create
 Content that stops the scroll
@@ -79,10 +80,12 @@ Get more customers
 ### Automate
 Save time with AI
 - AI Chatbots
+- AI Agents & Voice Receptionists
 - Business Automation
+- AI Analytics Dashboards
 - Email & WhatsApp Marketing
 - Custom Business Software
-Compare all 19 services ↗
+Compare all 22 services ↗
 
 ## Built for the businesses that keep Houston running
 We adapt the same proven system to how each type of business sells and serves customers.
@@ -184,7 +187,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -217,7 +220,7 @@ Tell us a little about your business and we will prepare a plan you can use, whe
 <!-- https://pacificmarketingsolution.com/services/ -->
 Page title: Small Business Marketing & Web Services | Houston
 Address: https://pacificmarketingsolution.com/services/
-Summary: Small business marketing and web services in Houston: 19 services to build, create, grow and automate, from one team. Get a free growth plan.
+Summary: Small business marketing and web services in Houston: 22 services to build, create, grow and automate, from one team. Get a free growth plan.
 
 # One team to build, create, grow and automate: small business marketing and web services in Houston
 Pick one service or combine several. Every plan comes with one point of contact and clear monthly numbers.
@@ -225,7 +228,7 @@ Our small business marketing and web services cover everything from your first w
 Free · No contract · Reply within 24 hours
 
 ## Build: get your business online
-Websites, stores and web apps that load fast, look professional and turn visitors into customers.
+Websites, stores, web apps and SaaS products that load fast, look professional and turn visitors into customers.
 
 ### Website Development
 Fast business websites that turn visitors into calls.
@@ -256,6 +259,12 @@ Web apps, portals and booking systems coded for you.
 - Custom design & coding
 - Web apps
 - Client portals & dashboards
+
+### SaaS & MVP Development
+Products and MVPs built in weekly, testable releases.
+- MVP development
+- Full-stack SaaS (Next.js, FastAPI)
+- Stripe billing & subscriptions
 
 ## Create: content that stops the scroll
 Videos, reels, AI commercials, graphics and branding that make people stop scrolling and remember you.
@@ -324,7 +333,7 @@ Get mentioned by ChatGPT, Perplexity and Google AI.
 - Google AI Overviews
 
 ## Automate: save time with ai
-Chatbots, automations, email and WhatsApp marketing and custom software that save hours every week.
+Chatbots, AI and voice agents, automations, analytics dashboards, email and WhatsApp marketing and custom software that save hours every week.
 
 ### AI Chatbots
 Answer questions and book appointments 24/7.
@@ -332,11 +341,23 @@ Answer questions and book appointments 24/7.
 - WhatsApp chatbot
 - Instagram & Facebook DM bots
 
+### AI Agents & Voice Receptionists
+Phone agents and AI teams that answer, book and do the work.
+- Voice AI receptionists
+- Multi-agent systems
+- RAG document assistants
+
 ### Business Automation
 Connect your tools so follow-ups happen by themselves.
 - Workflow automation
 - CRM setup (HubSpot, GoHighLevel)
 - Zapier, Make & n8n
+
+### AI Analytics Dashboards
+True profit, ad spend and AI summaries in one live view.
+- Profit dashboards (EBIT, COGS)
+- Meta & Google Ads analytics
+- Shopify & Stripe data sync
 
 ### Email & WhatsApp Marketing
 Messages that bring customers back to buy again.
@@ -377,6 +398,11 @@ Find your goal below. The first service is where most businesses like yours star
 - Business Automation
 - AI Chatbots
 - Custom Business Software
+
+### I want an app, SaaS product or AI agent built
+- SaaS & MVP Development
+- AI Agents & Voice Receptionists
+- AI Analytics Dashboards
 
 ### I want customers to come back and buy again
 - Email & WhatsApp Marketing
@@ -425,6 +451,416 @@ Tell us about your business and we will recommend the one or two services that w
 
 ---
 
+<!-- https://pacificmarketingsolution.com/services/ai-agents-voice/ -->
+Page title: AI Agent and Voice Receptionist Development
+Address: https://pacificmarketingsolution.com/services/ai-agents-voice/
+Summary: AI agent and voice receptionist development: phone agents that answer and book, multi-agent systems and private AI on your documents. Free plan.
+
+# Never miss a call or a task again: AI agent and voice receptionist development
+Voice AI receptionists that answer and book on the phone, multi-agent systems that do real work, and private AI that knows your documents.
+Our AI agent and voice receptionist development goes beyond a chat box. We build phone agents with Vapi, Retell AI, ElevenLabs and Twilio, multi-agent systems on Claude and OpenAI, and RAG assistants that answer from your own files. For a website or WhatsApp bot only, see AI chatbots.
+Free · No contract · Reply within 24 hours
+Free 30-minute call on Google Meet · or call +1 (832) 240-0846
+Our track record
+AI phone receptionist that answers and books during the call
+Businesses we have worked with
+Based in Houston, working with small businesses across the US and worldwide.
+
+## Missed calls and manual work cost you every day
+These are the problems AI agents are built to remove.
+
+### Calls go to voicemail
+After hours, at lunch or when the team is busy, callers hang up and phone the next business.
+
+### Staff repeat the same work
+Reading documents, writing summaries and moving data between tools eats whole days.
+
+### Your knowledge is locked in files
+Answers sit in PDFs, policies and old emails that nobody has time to search.
+
+### AI agents built, tested and kept under your control
+We pick the right model for each job, give every agent clear rules and limits, connect it to your calendar, CRM and phone line, and log every conversation so you can review it. Sensitive data can stay on your own servers. Repetitive hand-offs between tools are handled with n8n and Make automation.
+
+#### What we do
+- Map the calls and tasks to hand over
+- Build and train the agents on your data
+- Connect phone, calendar and CRM
+- Test, monitor and improve every week
+
+#### What you get
+- Every call answered, day or night
+- Hours of manual work taken off your team
+- Fast answers from your own documents
+- Full logs and code you own
+
+### Real client video testimonials
+Michelle TuleyMarket-Ai
+Petika Tavebayabooks.com
+
+## AI agent services we build
+Each agent is designed around one clear job, then connected to the tools you already use.
+
+### Voice AI receptionists
+Phone agents on Vapi, Retell AI, ElevenLabs and Twilio that answer, qualify callers and book during the call.
+Best for: Clinics, home services, law firms and salons.
+
+### Multi-agent systems
+Teams of AI agents on Claude, OpenAI, LangChain and MCP that research, write, check and hand work to each other.
+Best for: Businesses with multi-step work.
+
+### RAG knowledge assistants
+Assistants that search your documents in a vector database and answer with sources.
+Best for: Teams with manuals, policies and case files.
+
+### Private, self-hosted AI
+Models run on your own cloud GPUs so client data is never sent to an outside AI company.
+Best for: Legal, medical and finance firms.
+
+### AI inside your app
+Claude, OpenAI or Gemini features added to your existing software, with prompt controls for your admins.
+Best for: SaaS products and internal tools.
+
+### Speech and voice features
+Speech-to-text with Whisper, natural AI voices and call summaries sent to your CRM.
+Best for: Coaching, wellness and support teams.
+
+### Works well with
+See every Automate service ↗
+
+## AI agents for the way your industry works
+We build agents for businesses where calls, documents or repeat tasks take up the day.
+
+### Clinics and healthcare
+Phone booking, intake questions and visit summaries.
+
+### Law firms
+Private document search, discovery drafts and medical summaries.
+
+### Home services
+After-hours call answering, quotes and job booking.
+
+### AI agents for Houston businesses
+We build voice and AI agents for businesses across Greater Houston, including:
+- Downtown
+- Midtown
+- The Heights
+- Montrose
+- Katy
+- Sugar Land
+- The Woodlands
+- Pearland
+- Cypress
+- Spring
+- Pasadena
+Most of our AI agent clients are across the US and abroad, with weekly online demos.
+
+## AI platforms our engineers have shipped
+From the public Upwork profile and portfolio of our engineering lead.
+Browse our case studies and portfolio ↗
+
+### What clients say about our AI agent builds
+“Nauman has been a God-sent for me. My project involved complex interactions with AI agents and needed high levels of coordination and communication between agents and Nauman did everything magnificently. I am extremely satisfied and consider him and long term part of our organization's valuable resources. HIGHLY recommended.”
+Saeed A.Multi-Agent AI System with Firebase & Stripe (n8n + Claude API)View on Upwork ↗
+“Nauman was an outstanding development partner from start to finish. He built a complex AI-powered platform from the ground up, including multiple AI engines, user authentication, payment integration, and a full training module system, and delivered on time with high quality work throughout.”
+Mike S.Custom GPT Integration with Circle.soView on Upwork ↗
+“Nauman is an exceptional ML infrastructure developer who masterfully combines Python and Node.js expertise. His work resulted in 40% faster model inference times and 60% reduced memory usage through skilled optimization. Highly recommended for any ML infrastructure or API development project.”
+Haff A.AI/ML Python & Node.js DeveloperView on Upwork ↗
+
+## From free call to AI agents that work for you
+
+### Book a free call
+A 30-minute Google Meet call about your goals, customers and current setup. You leave with clear next steps.
+
+### Custom plan
+A written plan with scope, timeline and a fixed price in US dollars. No long-term contract.
+
+### We build, create & market
+We do the work and share progress in weekly updates you can review online.
+
+### You grow
+Weekly updates and a monthly report on leads, calls and sales, with more effort behind what works.
+
+### A typical AI agent project
+- Week 1Scope, milestones and success measures agreed before any code.
+- Weeks 2–3First agent built and tested on real examples.
+- Weeks 3–6Phone, calendar and CRM connected, with weekly builds you can try.
+- Launch +Live monitoring, call reviews and improvements.
+
+## Ways to start with AI agents
+Every business is different, so we confirm a fixed price after your free call. Prices are in US dollars, and we can quote in other currencies on request.
+
+### Starter
+One AI agent
+Custom quote
+- One voice or task agent
+- Trained on your information
+- Calendar or CRM connection
+- 30 days of tuning
+
+### Growth
+Agents across the business
+Custom quote
+- Voice and task agents together
+- RAG search over your documents
+- Several tool connections
+- Weekly testable builds
+- 3 months of support
+
+### Pro
+Custom multi-agent system
+Custom quote
+- Multi-agent workflows
+- Private or self-hosted models
+- Admin prompt controls
+- Monitoring and usage reports
+- Priority support
+
+## The engineers behind your AI agents
+
+### Muhammad Ali Khan
+Founder & Marketing Lead
+Has run SEO, paid ads and lead generation for small businesses in the US and abroad, and leads every client plan from first call to monthly report.
+LinkedIn ↗
+
+### Nauman N.
+Director of Engineering
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
+Upwork profile ↗
+Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
+
+## AI agent and voice AI questions, answered
+Q: What is the difference between an AI chatbot and an AI agent?
+A chatbot answers messages. An AI agent can also take actions: book an appointment, update your CRM, read a document or pass work to another agent.
+Q: Can an AI receptionist answer my business phone?
+Yes. We connect a voice agent to your number with Twilio, Vapi or Retell AI. It answers, asks your questions, books into your calendar and sends a summary.
+Q: Will callers know they are talking to AI?
+We recommend the agent says so at the start. Modern voices sound natural, and the agent can transfer to a person at any time.
+Q: Is my data safe with AI agents?
+We set strict rules on what each agent can see and do, log every action, and can run models on your own servers so client data never leaves your control.
+Q: Which AI models and tools do you use?
+Claude, OpenAI and Gemini models, LangChain and MCP for agents, Vapi, Retell AI, ElevenLabs and Twilio for voice, and vector databases for document search.
+Q: How much does a custom AI agent cost?
+It depends on the number of agents, channels and integrations. After a discovery call we send a fixed-scope quote in US dollars, paid in milestones.
+Q: Who owns the AI agent when it is finished?
+You do. You get the source code, prompts, documentation and access to the cloud accounts it runs on.
+
+## Get your free AI agent plan
+Tell us which calls or tasks you want off your plate. We will reply with a technical breakdown and a first milestone, whether or not you hire us.
+- Call+1 (832) 240-0846
+- WhatsAppMessage us ↗
+- Emailinfo@pacificmarketingsolution.com
+- Book a callPick a time in our calendar ↗
+535 W Airtex Blvd, Houston, TX 77090
+
+---
+
+<!-- https://pacificmarketingsolution.com/services/ai-analytics-dashboards/ -->
+Page title: AI Analytics Dashboard Development for Small Brands
+Address: https://pacificmarketingsolution.com/services/ai-analytics-dashboards/
+Summary: AI analytics dashboard development: Shopify, Stripe, Meta and Google Ads in one live view with true profit, CAC, MER and AI summaries. Free plan.
+
+# See your real profit every morning: AI analytics dashboard development
+One live dashboard for sales, ad spend and costs, with true profit, CAC, MER and a plain-English AI summary.
+Our AI analytics dashboard development pulls Shopify, Stripe, Meta Ads and Google Ads into one place and calculates the numbers that matter: revenue, COGS, EBIT, CAC and MER. Each morning an AI summary tells you what changed and why. To act on those numbers, pair it with paid ads management.
+Free · No contract · Reply within 24 hours
+Free 30-minute call on Google Meet · or call +1 (832) 240-0846
+What your dashboard shows
+- Revenue, costs and true profit
+- Ad spend, CAC and MER by channel
+- Daily AI summary in plain English
+- Alerts when a number moves
+Most dashboards are live in 3–6 weeks.
+Businesses we have worked with
+Based in Houston, working with small businesses across the US and worldwide.
+
+## You are spending money without seeing profit
+These are the reporting problems we fix most often.
+
+### Numbers live in five tabs
+Shopify, Stripe, Meta, Google and a spreadsheet each tell a different story.
+
+### Revenue looks good, profit does not
+Without COGS, fees and ad spend in one place, you cannot see what you really keep.
+
+### Reports take hours each week
+Someone copies numbers by hand, and decisions wait for the report.
+
+### One source of truth, checked by tests
+We connect each data source through its official API, write a tested calculation library for your metrics, and build a simple dashboard your whole team can read. The AI layer turns the numbers into a short summary with the actions worth taking. Store data comes cleanly from Shopify.
+
+#### What we do
+- Agree the metrics and definitions
+- Connect your data sources by API
+- Build and test the calculations
+- Design the dashboard and AI summaries
+
+#### What you get
+- True profit, not just revenue
+- Every channel in one live view
+- Faster, better spending decisions
+- Code and data you own
+
+### Real client video testimonials
+Michelle TuleyMarket-Ai
+Petika Tavebayabooks.com
+
+## Analytics services we build
+Each dashboard is built around the metrics your business actually runs on.
+
+### Profit dashboards
+Revenue, COGS, fees, shipping and ad spend combined into daily EBIT and margin.
+Best for: Shopify and DTC brands.
+
+### Marketing analytics
+Meta Ads and Google Ads spend synced with sales to show CAC, MER and ROAS by channel.
+Best for: Brands spending on paid ads.
+
+### Multi-source data pipelines
+Reliable syncs from Shopify, Stripe, ad platforms and your own database.
+Best for: Teams with data in many tools.
+
+### Custom metric libraries
+Your formulas for EBIT, CAC, MER and COGS written once and covered by unit tests.
+Best for: Owners who need numbers they can trust.
+
+### AI executive summaries
+Daily or weekly summaries written by AI from your numbers, sent by email or Slack.
+Best for: Busy owners and managers.
+
+### Alerts and reports
+Alerts when spend, margin or sales move, plus scheduled PDF or email reports.
+Best for: Teams that want to act fast.
+
+### Works well with
+See every Automate service ↗
+
+## Dashboards for the way your industry works
+We build analytics for businesses that sell online or spend on ads.
+
+### Ecommerce and DTC brands
+Shopify profit, ad spend and product margins.
+
+### Subscription businesses
+Stripe revenue, churn and lifetime value.
+
+### Clinics and service businesses
+Bookings, lead sources and cost per patient or job.
+
+### Analytics dashboards for Houston businesses
+We build dashboards for businesses across Greater Houston, including:
+- Downtown
+- Midtown
+- The Heights
+- Montrose
+- Katy
+- Sugar Land
+- The Woodlands
+- Pearland
+- Cypress
+- Spring
+- Pasadena
+Most of our analytics clients are across the US and abroad, with weekly online demos.
+
+## Analytics platforms our engineers have shipped
+From the public Upwork profile and portfolio of our engineering lead.
+Browse our case studies and portfolio ↗
+
+### What clients say about our data builds
+“Nauman is an exceptional ML infrastructure developer who masterfully combines Python and Node.js expertise. His work resulted in 40% faster model inference times and 60% reduced memory usage through skilled optimization. Highly recommended for any ML infrastructure or API development project.”
+Haff A.AI/ML Python & Node.js DeveloperView on Upwork ↗
+“Nauman was a pleasure to work with. He held my hand through the process and was prompt on all communication. Highly recommend.”
+Vanessa E.Shopify Store Modification for Wholesale and Inventory SyncView on Upwork ↗
+“Great work overall, communication was smooth, delivery was on time, and the quality met expectations. Really appreciated the professionalism and attention to detail. Nauman took this project and devoted a lot of time and care, listened to our needs, and responded as needed. Would be happy to work together again!”
+Hasmik V.AI Model BuilderView on Upwork ↗
+
+## From free call to a dashboard you check every morning
+
+### Book a free call
+A 30-minute Google Meet call about your goals, customers and current setup. You leave with clear next steps.
+
+### Custom plan
+A written plan with scope, timeline and a fixed price in US dollars. No long-term contract.
+
+### We build, create & market
+We do the work and share progress in weekly updates you can review online.
+
+### You grow
+Weekly updates and a monthly report on leads, calls and sales, with more effort behind what works.
+
+### A typical dashboard project
+- Week 1Metrics, data sources and milestones agreed.
+- Weeks 2–3Data connections and tested calculations.
+- Weeks 3–5Dashboard and AI summaries, with weekly builds you can click through.
+- Launch +Training, alerts and new metrics as you grow.
+
+## Ways to build your dashboard
+Every business is different, so we confirm a fixed price after your free call. Prices are in US dollars, and we can quote in other currencies on request.
+
+### Starter
+One clear view
+Custom quote
+- Up to 3 data sources
+- Core profit and ad metrics
+- One dashboard
+- 30 days of support
+
+### Growth
+Full profit and marketing analytics
+Custom quote
+- Shopify, Stripe and ad platforms
+- Tested metric library
+- Daily AI summaries
+- Alerts and scheduled reports
+- 3 months of support
+
+### Pro
+Custom analytics platform
+Custom quote
+- Many sources and brands
+- Team logins and roles
+- Custom AI insights
+- Hosting and monitoring
+- Priority support
+
+## The engineers behind your dashboard
+
+### Muhammad Ali Khan
+Founder & Marketing Lead
+Has run SEO, paid ads and lead generation for small businesses in the US and abroad, and leads every client plan from first call to monthly report.
+LinkedIn ↗
+
+### Nauman N.
+Director of Engineering
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
+Upwork profile ↗
+Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
+
+## Analytics dashboard questions, answered
+Q: What is an AI analytics dashboard?
+It is a live dashboard that combines data from your store, payments and ad accounts, calculates your key numbers and adds a short AI-written summary of what changed.
+Q: Which tools can you connect?
+Shopify, Stripe, Meta Ads, Google Ads and most tools with an API, plus your own database or spreadsheets.
+Q: What are MER and CAC?
+MER is total revenue divided by total ad spend. CAC is what you spend to win one new customer. Together they show if your marketing is paying off.
+Q: How do I know the numbers are right?
+We write your formulas as a tested calculation library and check them against your own records before launch.
+Q: Why not just use Shopify or Google Analytics reports?
+Those show one source each. A custom dashboard combines costs, fees and ad spend from every source to show true profit.
+Q: How much does a custom dashboard cost?
+It depends on the data sources and metrics. After a discovery call we send a fixed-scope quote in US dollars, paid in milestones.
+Q: Who owns the dashboard and data?
+You do. You get the source code, documentation and access to the cloud accounts it runs on.
+
+## Get your free dashboard plan
+Tell us which tools you use and which numbers you want to see. We will reply with a technical breakdown and a first milestone, whether or not you hire us.
+- Call+1 (832) 240-0846
+- WhatsAppMessage us ↗
+- Emailinfo@pacificmarketingsolution.com
+- Book a callPick a time in our calendar ↗
+535 W Airtex Blvd, Houston, TX 77090
+
+---
+
 <!-- https://pacificmarketingsolution.com/services/ai-chatbots/ -->
 Page title: AI Chatbot Development for Small Businesses
 Address: https://pacificmarketingsolution.com/services/ai-chatbots/
@@ -435,12 +871,6 @@ Chatbots for your website, WhatsApp, Instagram and Facebook that answer question
 Our AI chatbot development for small businesses gives your customers instant answers trained on your own services, prices and policies, then hands over to a person when needed. Every conversation can become a lead or a booking in your calendar. Connect it to your CRM with business automation.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What a chatbot handles for you
-- Answers common questions instantly, 24/7
-- Collects name, phone and needs
-- Books appointments into your calendar
-- Hands over to your team when needed
-Most chatbots go live in 1–3 weeks.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -536,7 +966,7 @@ We also build chatbots in English, Spanish and Arabic for businesses across the 
 From the public Upwork profile and portfolio of our engineering lead.
 Browse our case studies and portfolio ↗
 
-### What clients say about our AI builds
+### What clients say about our AI assistants
 “Nauman has been a God-sent for me. My project involved complex interactions with AI agents and needed high levels of coordination and communication between agents and Nauman did everything magnificently. I am extremely satisfied and consider him and long term part of our organization's valuable resources. HIGHLY recommended.”
 Saeed A.Multi-Agent AI System with Firebase & Stripe (n8n + Claude API)View on Upwork ↗
 “Nauman was an outstanding development partner from start to finish. He built a complex AI-powered platform from the ground up, including multiple AI engines, user authentication, payment integration, and a full training module system, and delivered on time with high quality work throughout.”
@@ -602,7 +1032,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -809,7 +1239,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -849,12 +1279,14 @@ AI spokesperson videos, product commercials, voiceovers and multi-language versi
 Our AI video ads and commercials help small businesses test more ideas for less money: we script the ad, generate scenes, avatars and voiceovers with AI, then edit and polish them like a traditional commercial. You can launch in days and create versions for every audience. Run them with our ads management team to see which one wins.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What one project can deliver
-- A sales script and storyboard
-- AI scenes, product shots or a spokesperson
-- Natural AI voiceover in your chosen language
-- Versions for Meta, TikTok and YouTube
-First versions in about 5–7 days.
+Without a plan
+- Filming costs too much
+- One ad is not enough
+- You sell in more than one language
+With Pacific Marketing
+- More ad variations to test
+- Lower cost per video
+- Ads in English, Spanish and more
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -1016,7 +1448,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -1056,11 +1488,11 @@ We use AI to write, design and build faster, then a real designer and developer 
 Our AI website builder service for small businesses gives you the speed of AI without the generic look: we draft copy and images with AI, shape them around your brand and customers, and launch on Framer or Webflow in 3–7 days. Later, we can grow it into a full custom-coded business website.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What you get in a week
-- A 3–6 page site written with AI and edited by a human
-- Custom AI images that fit your brand
-- Built on Framer or Webflow, ready to edit
-- Mobile-friendly, fast and set up for Google
+Your AI website week
+- Day 1Content call and AI drafts of copy and images.
+- Days 2–3Design and build on Framer or Webflow.
+- Days 4–5Your review and our edits.
+- Days 6–7Domain, forms, analytics and launch.
 Live in 3–7 days after your content call.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
@@ -1219,7 +1651,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -1259,11 +1691,11 @@ Logo design, brand colors and fonts, guidelines, business cards, packaging and f
 Our logo design and branding for small businesses in Houston gives you a clear, consistent identity that works on a storefront, a phone screen and a business card. We start with your customers and competitors, then design options, refine with you and deliver every file you need. After launch, our graphic design team keeps everything on brand.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What a brand project delivers
-- Logo with variations and icon
-- Color palette and font pairing
-- A short brand guide
-- Files for print, web and social
+A typical branding project
+- Week 1Brand questionnaire, research and mood boards.
+- Week 2Logo concepts presented online.
+- Week 3Refinement, colors and fonts.
+- Week 4Brand guide, mockups and all files.
 Most branding projects take 2–4 weeks.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
@@ -1426,7 +1858,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -1466,12 +1898,14 @@ Workflows, CRM setup, automatic follow-ups and reporting that connect your tools
 Our business automation and CRM setup for small businesses removes the copy-paste work between forms, inboxes, calendars, invoices and spreadsheets. We map your process, set up a CRM such as HubSpot or GoHighLevel and connect everything with Zapier, Make or n8n. Add an AI chatbot and leads are answered before you even see them.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-Typical automations we set up
-- New leads added to your CRM automatically
-- Instant follow-up texts and emails
-- Reminders, invoices and payment chasers
-- A weekly report sent to your inbox
-First automations usually go live in 1–2 weeks.
+Without a plan
+- Leads slip through the cracks
+- Your team copies data all day
+- No clear view of the pipeline
+With Pacific Marketing
+- Faster follow-up on every lead
+- Hours saved every week
+- A clear sales pipeline
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -1629,7 +2063,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -1669,12 +2103,6 @@ Booking, POS, CRM and inventory systems, clinic, school and restaurant software,
 Our custom business software development in Houston replaces the spreadsheets and patchwork apps that slow your team down. Our engineering lead has shipped more than 50 platforms, from telehealth systems to multi-agent AI tools. We plan with you, build in milestones and support you after launch. For customer-facing portals, see custom web apps and portals.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-Systems we build most often
-- Booking and scheduling systems
-- POS and inventory management
-- Custom CRMs and admin dashboards
-- Clinic, school and restaurant systems
-Most systems launch in 6–16 weeks, in stages.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -1836,7 +2264,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -1876,12 +2304,8 @@ Hand-coded websites, client portals, dashboards and booking or payment systems, 
 Our custom website and web app development team designs and codes the features off-the-shelf tools cannot handle: logins, member areas, client portals, calculators and integrations with the software you already use. Our engineering lead has shipped more than 50 platforms. For internal tools like POS or inventory, see custom business software.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-Typical custom builds
-- Client portals with logins and file sharing
-- Dashboards that pull data from your tools
-- Membership sites with payments
-- Booking and payment flows built for you
-Most custom builds take 4–12 weeks, in clear milestones.
+“Nauman has been a God-sent for me. My project involved complex interactions with AI agents and needed high levels of coordination and communication between agents and Nauman did everything magnificently. I am extremely satisfied and consider him and…”
+Saeed A.Multi-Agent AI System with Firebase & Stripe (n8n + Claude API)
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -2043,7 +2467,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -2083,12 +2507,8 @@ Newsletters, welcome and nurture sequences, abandoned-cart emails, WhatsApp broa
 Our email and WhatsApp marketing for small businesses turns past customers and leads into repeat sales. We set up automated sequences that run in the background, plan campaigns around your offers and grow your list the right way. For online stores, it works hand in hand with our Shopify store setup.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What we set up first
-- A welcome sequence for new subscribers
-- Abandoned-cart or follow-up messages
-- A monthly newsletter or broadcast plan
-- List growth forms and tracking
-Core automations usually live within 2 weeks.
+“Nauman was a pleasure to work with. He held my hand through the process and was prompt on all communication. Highly recommend.”
+Vanessa E.Shopify Store Modification for Wholesale and Inventory Sync
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -2184,7 +2604,7 @@ We also run email and WhatsApp campaigns for clients across the US and abroad, i
 Figures from Meta Ads Manager for messaging campaigns we ran, and our team’s Upwork record.
 Browse our case studies and portfolio ↗
 
-### What clients say about working with us
+### What clients say about our follow-up
 “Nauman was a pleasure to work with. He held my hand through the process and was prompt on all communication. Highly recommend.”
 Vanessa E.Shopify Store Modification for Wholesale and Inventory SyncView on Upwork ↗
 “Working with Khan has been an absolute pleasure. He is incredibly dedicated, consistently going above and beyond to ensure our company’s marketing and SEO goals are met. His responsiveness, even outside of regular hours, speaks volumes about his commitment. On top of his work ethic, he’s also a genuinely pleasant and professional person to collaborate with. I highly recommend him.”
@@ -2250,7 +2670,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -2457,7 +2877,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -2497,12 +2917,6 @@ Google Business Profile optimization, reviews, citations and local pages that mo
 Our local SEO and Google Maps marketing in Houston gets your business into the “map pack”, the three listings people tap first when they search “near me”. We optimize your Google Business Profile, build citations, help you collect reviews and create local pages. For broader rankings, combine it with full SEO services.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In the first 60 days
-- Google Business Profile fully optimized
-- Listings fixed on 40+ directories
-- A simple system to collect more reviews
-- Weekly posts and photos on your profile
-Many profiles see more calls within 30–60 days.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -2664,7 +3078,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -2704,12 +3118,6 @@ Facebook, Instagram, Google, YouTube and TikTok campaigns, set up with proper tr
 Our paid ads management for small businesses in Houston and across the US starts with tracking: if we cannot measure calls, forms and sales, we fix that first. Then we build campaigns, test creatives and move budget to what brings customers. Strong ads need strong videos, so we often add AI video ads and commercials.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What we set up first
-- Conversion tracking for calls, forms and sales
-- Campaigns on the platforms your buyers use
-- Ad creatives and copy to test
-- A weekly check and monthly cost-per-lead report
-Campaigns usually go live within 1–2 weeks.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -2871,7 +3279,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -2901,6 +3309,213 @@ Tell us what you sell and what you spend now. We will review your setup and send
 
 ---
 
+<!-- https://pacificmarketingsolution.com/services/saas-development/ -->
+Page title: SaaS and MVP Development, From Idea to Launch
+Address: https://pacificmarketingsolution.com/services/saas-development/
+Summary: SaaS and MVP development from idea to launch: Next.js, FastAPI, Supabase and Stripe billing, with weekly testable builds and full code ownership.
+
+# Turn your idea into a product people pay for: SaaS and MVP development
+Full-stack SaaS, MVPs, mobile web apps and real-time video platforms, built in milestones and handed over with full source code.
+Our SaaS and MVP development covers the whole engineering lifecycle: data, FastAPI and Node.js backends, Next.js and React frontends, Stripe billing, AI features and reliable cloud hosting. Our engineering lead has shipped more than 50 platforms with a 100% Job Success Score on Upwork. For software used only inside your company, see custom business software.
+Free · No contract · Reply within 24 hours
+Free 30-minute call on Google Meet · or call +1 (832) 240-0846
+A typical MVP project
+- Week 1Scope, milestones and tech stack agreed.
+- Weeks 2–3Screens and data model approved.
+- Weeks 3–10Weekly testable builds, billing and AI features.
+- Launch +Go-live, monitoring and full handover.
+Most MVPs launch in 6–12 weeks.
+Businesses we have worked with
+Based in Houston, working with small businesses across the US and worldwide.
+
+## Most product ideas stall before launch
+Founders come to us when these problems keep their product from shipping.
+
+### Months of work, nothing to show
+Status reports arrive, but there is no build you can actually try.
+
+### A prototype that cannot scale
+The first version breaks with real users, payments or data.
+
+### Locked out of your own product
+A past developer kept the code, the servers or the passwords.
+
+### One team for the whole build
+We agree the scope and milestones first, then ship a testable build every week. Backend, frontend, billing, AI features and cloud setup are handled by one team, and you own every line of code. For a marketing site to launch the product, add website development.
+
+#### What we do
+- Agree scope, milestones and stack
+- Design the screens and data model
+- Build and test in weekly releases
+- Launch, monitor and hand over
+
+#### What you get
+- A working product, not a slide deck
+- Billing and accounts ready for customers
+- A stack that scales with users
+- Full IP transfer and documentation
+
+### Real client video testimonials
+Michelle TuleyMarket-Ai
+Petika Tavebayabooks.com
+
+## SaaS and product services we build
+Each product is built on a proven, modern stack your next developer can pick up easily.
+
+### MVP development
+A first version with the core features, ready for real users and feedback.
+Best for: Founders validating an idea.
+
+### Full-stack SaaS platforms
+Next.js and React frontends with FastAPI or Node.js backends on PostgreSQL, Supabase or MongoDB.
+Best for: Products ready to scale.
+
+### Stripe billing and subscriptions
+Plans, trials, invoices, customer portals and usage-based billing.
+Best for: Any paid product.
+
+### Mobile web apps (PWAs)
+Apps that install on phones and work across iPhone, Android and desktop.
+Best for: Products used on the go.
+
+### Live video and camera platforms
+Multi-camera monitoring and live streaming with low-latency media processing.
+Best for: Security, events and remote monitoring.
+
+### Cloud, DevOps and integrations
+Docker, AWS, Redis, CI and API integrations set up for reliable releases.
+Best for: Teams that need uptime.
+
+### Works well with
+See every Build service ↗
+
+## Products for the way your industry works
+We build SaaS for founders and companies in demanding industries.
+
+### Healthcare and telehealth
+Video visits, records, claims and analytics.
+
+### Legal and professional services
+Secure portals and private AI tools.
+
+### Security and monitoring
+Live camera feeds across many locations.
+
+### SaaS development for Houston founders
+We build products for founders and companies across Greater Houston, including:
+- Downtown
+- Midtown
+- The Heights
+- Montrose
+- Katy
+- Sugar Land
+- The Woodlands
+- Pearland
+- Cypress
+- Spring
+- Pasadena
+Most of our SaaS clients are across the US and abroad, with weekly online demos.
+
+## Products our engineers have shipped
+From the public Upwork profile and portfolio of our engineering lead.
+Browse our case studies and portfolio ↗
+
+### What clients say about our product builds
+“Nauman was an outstanding development partner from start to finish. He built a complex AI-powered platform from the ground up, including multiple AI engines, user authentication, payment integration, and a full training module system, and delivered on time with high quality work throughout.”
+Mike S.Custom GPT Integration with Circle.soView on Upwork ↗
+“Great work definitely will hire again. Everyone should know this guy can do the work.”
+Les O.Enterprise AI assessment platformView on Upwork ↗
+“Working with Nauman was a great experience from start to finish. He is a highly skilled and dedicated developer who handled the AI integration aspects of our project with precision and expertise. He understood the requirements quickly, delivered clean and functional code, and consistently went the extra mile to make sure everything worked exactly as expected.”
+Rabey A.Chrome Extension: AI Fashion Photo Generator via Gemini APIView on Upwork ↗
+
+## From free call to a product in your customers’ hands
+
+### Book a free call
+A 30-minute Google Meet call about your goals, customers and current setup. You leave with clear next steps.
+
+### Custom plan
+A written plan with scope, timeline and a fixed price in US dollars. No long-term contract.
+
+### We build, create & market
+We do the work and share progress in weekly updates you can review online.
+
+### You grow
+Weekly updates and a monthly report on leads, calls and sales, with more effort behind what works.
+
+### A typical MVP project
+- Week 1Scope, milestones and tech stack agreed.
+- Weeks 2–3Screens and data model approved.
+- Weeks 3–10Weekly testable builds, billing and AI features.
+- Launch +Go-live, monitoring and full handover.
+
+## Ways to build your product
+Every business is different, so we confirm a fixed price after your free call. Prices are in US dollars, and we can quote in other currencies on request.
+
+### Starter
+MVP
+Custom quote
+- Core features only
+- User accounts and Stripe billing
+- Weekly testable builds
+- 30 days of support
+
+### Growth
+Full SaaS launch
+Custom quote
+- Complete feature set
+- Admin panel and analytics
+- AI features where useful
+- Cloud setup and monitoring
+- 3 months of support
+
+### Pro
+Long-term product team
+Custom quote
+- Dedicated monthly engineering hours
+- Roadmap and new releases
+- Scaling and performance work
+- Mobile web app
+- Priority support
+
+## The engineers behind your product
+
+### Muhammad Ali Khan
+Founder & Marketing Lead
+Has run SEO, paid ads and lead generation for small businesses in the US and abroad, and leads every client plan from first call to monthly report.
+LinkedIn ↗
+
+### Nauman N.
+Director of Engineering
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
+Upwork profile ↗
+Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
+
+## SaaS and MVP development questions, answered
+Q: What is an MVP?
+A minimum viable product is the smallest version of your product that real users can try and pay for. It tests the idea before you spend on every feature.
+Q: How long does it take to build a SaaS MVP?
+Most MVPs launch in 6–12 weeks. You get a working build to click through every week along the way.
+Q: Which tech stack do you use?
+Usually Next.js, React and TypeScript on the front, FastAPI (Python) or Node.js on the back, PostgreSQL or Supabase for data, Stripe for billing and AWS or Docker for hosting.
+Q: Can you add AI features to my product?
+Yes. We add Claude, OpenAI or Gemini features, AI agents, voice AI and document search where they help your users.
+Q: How much does SaaS development cost?
+It depends on features, users and integrations. After a discovery call we send a fixed-scope quote in US dollars, paid in milestones.
+Q: Do I own the code?
+Yes. You get full IP transfer: clean source code, documentation and access to every cloud account.
+Q: Can you take over a product another developer started?
+Yes. We review the existing code first, tell you honestly what to keep or rebuild, then continue in milestones.
+
+## Get your free product plan
+Send us your product outline. We will reply with a technical breakdown and a first milestone proposal, whether or not you hire us.
+- Call+1 (832) 240-0846
+- WhatsAppMessage us ↗
+- Emailinfo@pacificmarketingsolution.com
+- Book a callPick a time in our calendar ↗
+535 W Airtex Blvd, Houston, TX 77090
+
+---
+
 <!-- https://pacificmarketingsolution.com/services/seo/ -->
 Page title: SEO Services for Small Businesses in Houston
 Address: https://pacificmarketingsolution.com/services/seo/
@@ -2911,12 +3526,8 @@ Keyword research, on-page and technical fixes, helpful content and quality links
 Our SEO services for small businesses in Houston focus on the searches that bring paying customers, not vanity rankings. We fix what stops Google from understanding your site, write content that answers real questions and earn links that build trust. For map results, pair it with Google Maps optimization.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In the first 90 days
-- A full technical and keyword audit
-- Fixes to titles, pages, speed and indexing
-- New content for your highest-value searches
-- Monthly ranking, traffic and lead reports
-Most clients see early movement in 2–3 months.
+Our track record
+from Google search in six months, 3% average CTR
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -3078,7 +3689,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -3118,12 +3729,8 @@ We set up, design and launch your Shopify store, load your products and connect 
 Our Shopify store setup for small businesses covers everything between “I want to sell online” and your first order: theme, product pages, checkout, shipping rules and the apps you actually need. Then we help you bring buyers in with Meta and Google ads and keep them coming back with email and WhatsApp campaigns.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In a typical store launch
-- Branded theme set up for phone and desktop
-- Products, collections and variants uploaded
-- Payments, taxes and shipping rates configured
-- Store analytics and abandoned-cart email on
-Most stores launch in 2–4 weeks.
+Our track record
+business websites and stores launched, from clinics to law firms
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -3285,7 +3892,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -3325,12 +3932,6 @@ Hooks, scripts, trend-based edits, captions and clips cut from your long videos,
 Our Reels and TikTok video editing for businesses turns your ideas, phone footage and long videos into short clips that stop the scroll in the first two seconds. We script hooks, follow trends that fit your brand and add captions, so viewers understand you even with the sound off. Want them posted for you too? Add social media management.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In a typical month
-- 8–20 edited Reels, TikToks or Shorts
-- Hooks and scripts written for each clip
-- Burned-in captions and on-brand text
-- Clips cut from your podcasts or long videos
-First clips delivered in about 1 week.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -3492,7 +4093,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -3532,12 +4133,7 @@ A monthly content plan, designed posts and reels, replies to comments and messag
 Our social media management for small businesses in Houston takes the daily work off your plate: we plan the month, create the posts, publish them at the right times and answer your community. Every post is designed by our graphic design team and every video edited by our Reels and TikTok editors.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In a typical month
-- A content calendar you approve in one click
-- 12–20 posts, stories and short videos
-- Comments and messages answered daily
-- A one-page report with reach, leads and next steps
-Your first posts go out within about 2 weeks.
+Petika Tavebayabooks.com · client video
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -3699,7 +4295,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -3739,12 +4335,7 @@ Product, promo, testimonial and explainer videos, edited for your website, ads, 
 Our video production for small businesses in Houston turns what makes you different into short, clear videos people actually watch to the end. We plan the story, film or create the footage, edit, add captions and deliver versions for every channel. Need lots of short clips? See our Reels and TikTok editing.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What a typical shoot delivers
-- A planned script and shot list
-- One main video of 60–120 seconds
-- Short cut-downs for ads and social
-- Captions, music and your branding
-Most videos are delivered in 1–3 weeks.
+Michelle TuleyMarket-Ai · client video
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -3906,7 +4497,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -3946,12 +4537,6 @@ Fast, mobile-first business websites and landing pages with clear calls to actio
 Our small business website development in Houston starts with one question: what should a visitor do next? Then we design, write and build every page around that action, so your site works as hard as your best salesperson. Pair it with local SEO for Houston businesses and visitors arrive ready to buy.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-In a typical website project
-- 5–10 pages written and designed for your customers
-- Mobile-first build that loads in about 2 seconds
-- Booking, quote and contact forms that email you
-- Google Analytics and call tracking set up
-Most business sites launch in 3–6 weeks.
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -4113,7 +4698,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
@@ -4153,12 +4738,14 @@ Custom themes, Elementor pages, WooCommerce stores and fast fixes, with security
 Our WordPress website design and support service is for owners who want the freedom of WordPress without the headaches: plugin conflicts, hacked sites and pages that break after an update. We build it right, keep it safe and make changes when you need them. Want more visitors too? Add search engine optimization.
 Free · No contract · Reply within 24 hours
 Free 30-minute call on Google Meet · or call +1 (832) 240-0846
-What you can expect
-- Theme or Elementor design that matches your brand
-- Editing set up so you can change text and photos
-- Security hardening, daily backups and updates
-- Fixes usually started the same business day
-New WordPress sites typically go live in 3–5 weeks.
+Without a plan
+- An update broke the site
+- The site is slow or was hacked
+- Editing feels risky
+With Pacific Marketing
+- A fast, stable WordPress site
+- Peace of mind with backups and monitoring
+- Changes done quickly when you ask
 Businesses we have worked with
 Based in Houston, working with small businesses across the US and worldwide.
 
@@ -4320,7 +4907,7 @@ LinkedIn ↗
 
 ### Nauman N.
 Director of Engineering
-Full-stack and AI engineer who has shipped 50+ web, SaaS and AI platforms, from booking systems and CRMs to AI chatbots and voice agents.
+Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from AI analytics dashboards and voice agents to telehealth SaaS and live video apps, and hands over full source code.
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
