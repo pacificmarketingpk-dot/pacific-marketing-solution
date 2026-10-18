@@ -1,11 +1,17 @@
 # Pacific Marketing Solution
 
-> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios.
+> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines custom software and SaaS development, SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios.
 
 Full text of every page in one file: https://pacificmarketingsolution.com/llms-full.txt
 Sitemap: https://pacificmarketingsolution.com/sitemap.xml
 
 Contact: info@pacificmarketingsolution.com
+
+## Start here by goal
+- [Marketing Services That Bring Customers, Not Just Clicks](https://pacificmarketingsolution.com/marketing/): Need more calls and bookings? See every marketing service we offer, from Google Maps and SEO to ads, websites and video, and where most owners start.
+- [Business Automation & AI: Stop Doing It All by Hand](https://pacificmarketingsolution.com/automation/): Missing calls, chasing leads and copying data between apps? See how AI receptionists, chatbots and automations answer, follow up and report for you.
+- [Custom Software & SaaS Development for US Businesses](https://pacificmarketingsolution.com/software/): Off-the-shelf tools don't fit, or have an app idea? Our Houston team builds custom CRMs, booking systems, AI agents and SaaS products. Fixed quotes.
+- [Pricing & Packages: Fixed Quotes, No Long-Term Contract](https://pacificmarketingsolution.com/pricing/): How much does marketing, automation or custom software cost? See how our packages work, what changes the price and what is always included.
 
 ## Services
 - [All services](https://pacificmarketingsolution.com/services/): 22 services in four groups: Build, Create, Grow and Automate.
@@ -36,6 +42,10 @@ Contact: info@pacificmarketingsolution.com
 ## Company
 - [About us](https://pacificmarketingsolution.com/about/): Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.
 - [Industries we serve](https://pacificmarketingsolution.com/industries/): Every industry wins customers differently. See how we help med spas, law firms, home service pros, dental practices and growing teams, with real proof.
+  - [Med Spa Marketing That Fills Your Calendar](https://pacificmarketingsolution.com/industries/med-spas/)
+  - [Law Firm Marketing: More Signed Cases, No Missed Calls](https://pacificmarketingsolution.com/industries/law-firms/)
+  - [Home Services Marketing: More Booked HVAC & Plumbing Jobs](https://pacificmarketingsolution.com/industries/home-services/)
+  - [Dental Marketing: More New Patients, Fewer Empty Chairs](https://pacificmarketingsolution.com/industries/dental/)
 - [Case studies and results](https://pacificmarketingsolution.com/work/): Real SEO, Google Ads and Meta Ads case studies with the numbers: clicks, impressions, click-through rate, cost per click and more.
   - [Meta Ads Case Study: 155,000+ Clicks Under 1 Cent Each (155,000+ link clicks)](https://pacificmarketingsolution.com/work/primax-solar-energy-meta-ads/)
   - [Meta Ads Case Study: 151 Buyer Chats for About $21 (151 messaging conversations)](https://pacificmarketingsolution.com/work/shahid-enterprizes-meta-ads/)
@@ -76,7 +86,7 @@ The same pages exist in other languages at their own addresses (every version li
 
 ## Entity summary
 - Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios
-- Category: digital marketing agency (SEO, AEO and GEO, paid advertising, websites, content and creative, social media management, AI chatbots and voice agents, AI automation and CRM setup, white-label services)
+- Category: digital marketing, automation and custom software company (custom software and SaaS development, SEO, AEO and GEO, paid advertising, websites, content and creative, social media management, AI chatbots and voice agents, AI automation and CRM setup, white-label services)
 - Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; - Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
 - Website languages: English (default), French, German, Arabic, Chinese (Simplified), Japanese, Spanish (Mexico), Spanish (Spain), Portuguese (Portugal)
 - Contact: info@pacificmarketingsolution.com
