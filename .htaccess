@@ -31,6 +31,23 @@ RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/api-systems-inte
 RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/cloud-devops-infrastructure/?$ /$1/services/saas-custom-software-development/
 </IfModule>
 
+# old WordPress pages -> the page that replaced them (permanent)
+<IfModule mod_alias.c>
+RedirectMatch 301 ^/email-marketing/?$ /services/email-whatsapp-marketing/
+RedirectMatch 301 ^/terms-and-conditions/?$ /terms-of-service/
+RedirectMatch 301 ^/graphic-designing-and-video-editing/?$ /services/graphic-design/
+RedirectMatch 301 ^/website-development-portfolio/?$ /work/
+RedirectMatch 301 ^/lead-generation/?$ /marketing/
+RedirectMatch 301 ^/home/?$ /
+# WordPress system files, feeds and the default post no longer exist: tell search engines they are gone
+RedirectMatch 410 ^/(wp-content|wp-includes|wp-admin|wp-json)(/.*)?$
+RedirectMatch 410 ^/(wp-login|xmlrpc|wp-cron|wp-signup|wp-trackback)\.php$
+RedirectMatch 410 ^/hello-world(/.*)?$
+RedirectMatch 410 ^/sample-page/?$
+RedirectMatch 410 ^/(comments/)?feed/?$
+</IfModule>
+ErrorDocument 410 /404.html
+
 # smaller downloads
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript text/javascript application/json application/manifest+json image/svg+xml
