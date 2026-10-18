@@ -12,6 +12,7 @@ $name     = pms_line($in['name'] ?? '', 100);
 $email    = pms_line($in['email'] ?? '', 254);
 $phone    = pms_line($in['phone'] ?? '', 40);
 $company  = pms_line($in['company'] ?? '', 160);
+$btype    = pms_line($in['btype'] ?? '', 120);
 $interest = pms_line($in['interest'] ?? '', 120);
 $message  = pms_text($in['message'] ?? '', 4000);
 $id       = pms_line($in['id'] ?? '', 80);
@@ -19,7 +20,7 @@ $id       = pms_line($in['id'] ?? '', 80);
 if (pms_is_junk($name, $company, $message)) { pms_respond(true); }               // obvious junk is dropped quietly
 
 $digits = strlen((string)preg_replace('/\D/', '', $phone));
-if (mb_strlen($name, 'UTF-8') < 2 || !pms_valid_email($email) || !preg_match('/^[0-9+()\-.\s]{6,40}$/', $phone) || $digits < 6 || $digits > 20) {
+if (mb_strlen($name, 'UTF-8') < 2 || mb_strlen($company, 'UTF-8') < 2 || $btype === '' || !pms_valid_email($email) || !preg_match('/^[0-9+()\-.\s]{6,40}$/', $phone) || $digits < 6 || $digits > 20) {
     pms_respond(false, 422);
 }
 
@@ -33,6 +34,7 @@ $body = "New Website Contact Form Submission\n\n"
       . "Email: {$email}\n"
       . "Phone: {$phone}\n"
       . "Company: {$company}\n"
+      . "Business type: {$btype}\n"
       . "Interested in: {$interest}\n\n"
       . "Message:\n{$message}\n";
 
