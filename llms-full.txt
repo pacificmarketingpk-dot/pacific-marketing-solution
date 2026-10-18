@@ -191,6 +191,19 @@ Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He 
 Upwork profile ↗
 Houston clients get US Central Time hours. Remote clients get calls scheduled around their time zone and a reply to every message within one business day.
 
+## Lessons from real client projects
+Short reads on SEO, ads and AI, with the real numbers from our client dashboards.
+
+### What Upwork clients say about our AI engineer
+41 reviews, a 5.0 rating and 100% Job Success. We read the reviews and the tags clients chose to see what they value.
+
+### Voice AI agents in practice: three builds and what they share
+A coaching platform, a phone receptionist and lead re-engagement calls. What our AI engineer's voice agent projects have in common.
+
+### The tech stack behind our AI and SaaS builds
+What we build AI agents, voice agents and SaaS products with, and why each part is there.
+Read all insights ↗
+
 ## Questions Houston business owners ask us
 Q: How much do marketing and software cost for a small business in Houston?
 It depends on scope, and you get a fixed quote in US dollars before any work starts. After the free growth plan call we send a written plan with the price, so there are no surprises.
