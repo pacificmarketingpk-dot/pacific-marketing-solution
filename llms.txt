@@ -1,6 +1,6 @@
 # Pacific Marketing Solution
 
-> Pacific Marketing Solution is a digital marketing agency based in Houston, Texas (USA). It combines custom software and SaaS development, SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios.
+> Pacific Marketing Solution is a marketing, automation and custom software company based in Houston, Texas (USA), serving businesses across the United States. It combines custom software and SaaS development, SEO, AEO and GEO, paid advertising (Google Ads and Meta Ads), websites, content and creative work, AI chatbots and voice agents, CRM automation and white-label services to turn online attention into measurable growth. Pacific Marketing Solution is a startup by Unimind Studios.
 
 Full text of every page in one file: https://pacificmarketingsolution.com/llms-full.txt
 Sitemap: https://pacificmarketingsolution.com/sitemap.xml
@@ -74,15 +74,15 @@ Contact: info@pacificmarketingsolution.com
 - [Terms of service](https://pacificmarketingsolution.com/terms-of-service/): The terms for using the Pacific Marketing Solution website and services, including scope, payments, ownership, liability and your responsibilities.
 
 ## Languages
-The same pages exist in other languages at their own addresses (every version links to all the others with hreflang):
-- [Français](https://pacificmarketingsolution.com/fr/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [Deutsch](https://pacificmarketingsolution.com/de/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [العربية](https://pacificmarketingsolution.com/ar/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [中文](https://pacificmarketingsolution.com/zh/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [日本語](https://pacificmarketingsolution.com/ja/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [Español (México)](https://pacificmarketingsolution.com/es-mx/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [Español (España)](https://pacificmarketingsolution.com/es-es/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
-- [Português (Portugal)](https://pacificmarketingsolution.com/pt-pt/): home page in this language; also /services/, /about/, /contact/, /glossary/ and three service pages
+English is the main site. Each other language has 15 pages at its own address, linked to the English pages with hreflang: home, /services/ with nine service pages (SEO, AEO and GEO; performance marketing; websites; content and video; social media; AI automation and CRM; AI chatbots and voice agents; SaaS and custom software; white-label), /work/, /about/, /contact/ and /glossary/. The hub pages (/marketing/, /automation/, /software/), the industry pages and /pricing/ are in English only.
+- [Français](https://pacificmarketingsolution.com/fr/)
+- [Deutsch](https://pacificmarketingsolution.com/de/)
+- [العربية](https://pacificmarketingsolution.com/ar/)
+- [中文](https://pacificmarketingsolution.com/zh/)
+- [日本語](https://pacificmarketingsolution.com/ja/)
+- [Español (México)](https://pacificmarketingsolution.com/es-mx/)
+- [Español (España)](https://pacificmarketingsolution.com/es-es/)
+- [Português (Portugal)](https://pacificmarketingsolution.com/pt-pt/)
 
 ## Entity summary
 - Company: Pacific Marketing Solution (legal name Pacific Marketing Solution LLC), a startup by Unimind Studios
@@ -90,7 +90,7 @@ The same pages exist in other languages at their own addresses (every version li
 - Offices: 535 W Airtex Blvd, Houston, TX 77090, USA; - Customers: small and growing businesses and agencies; work shown includes health care, law, skin care, weight loss, solar energy, e-commerce and professional services
 - Website languages: English (default), French, German, Arabic, Chinese (Simplified), Japanese, Spanish (Mexico), Spanish (Spain), Portuguese (Portugal)
 - Contact: info@pacificmarketingsolution.com
-- Primary office: Houston
+- Primary office: Houston, Texas (serves clients across the US)
 - Phone: +1 832 240 0846
 - Service areas: United States
 - Evidence: case studies and campaign figures at https://pacificmarketingsolution.com/work/ and https://pacificmarketingsolution.com/insights/ (numbers come from the Search Console, Google Ads and Meta Ads reports supplied with each project)
