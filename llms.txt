@@ -9,44 +9,44 @@ Contact: info@pacificmarketingsolution.com
 
 ## Services
 - [All services](https://pacificmarketingsolution.com/services/): 22 services in four groups: Build, Create, Grow and Automate.
-- [Website Development](https://pacificmarketingsolution.com/services/website-development/): Small business website development in Houston: fast, mobile-first sites built to bring calls and bookings. Get a free growth plan.
-- [Shopify Stores](https://pacificmarketingsolution.com/services/shopify-stores/): Shopify store setup for small businesses in Houston and the US: design, products, payments and shipping done for you. Get a free growth plan.
-- [WordPress Websites](https://pacificmarketingsolution.com/services/wordpress-websites/): WordPress website design and support for Houston small businesses: Elementor, WooCommerce, fixes, security and backups. Get a free growth plan.
-- [AI Websites](https://pacificmarketingsolution.com/services/ai-websites/): An AI website builder service for small businesses: a professional site with AI copy and images, live in 3–7 days. Get a free growth plan.
-- [Custom Websites](https://pacificmarketingsolution.com/services/custom-websites/): Custom website and web app development for Houston businesses: portals, dashboards, memberships and booking systems. Get a free growth plan.
-- [SaaS & MVP Development](https://pacificmarketingsolution.com/services/saas-development/): SaaS and MVP development from idea to launch: Next.js, FastAPI, Supabase and Stripe billing, with weekly testable builds and full code ownership.
-- [Video Production](https://pacificmarketingsolution.com/services/video-production/): Video production for small businesses in Houston: product, promo, testimonial and explainer videos plus editing. Get a free growth plan.
-- [Reels & TikTok Videos](https://pacificmarketingsolution.com/services/short-form-videos/): Reels and TikTok video editing for businesses: hooks, captions, trends and clips from your long videos, every month. Get a free growth plan.
-- [AI Videos & Commercials](https://pacificmarketingsolution.com/services/ai-videos-commercials/): AI video ads and commercials for small businesses: avatar spokespeople, voiceovers and product ads in several languages. Get a free growth plan.
-- [Graphic Design](https://pacificmarketingsolution.com/services/graphic-design/): Graphic design services for small businesses: social posts, ad creatives, carousels, flyers, menus and web graphics. Get a free growth plan.
-- [Branding & Logos](https://pacificmarketingsolution.com/services/branding-logos/): Logo design and branding for small businesses in Houston: logos, colors, fonts, guidelines, cards and packaging. Get a free growth plan.
-- [Social Media Management](https://pacificmarketingsolution.com/services/social-media-management/): Social media management for small businesses in Houston: content calendar, posting, replies and monthly reports. Get a free growth plan.
-- [Search Engine Optimization](https://pacificmarketingsolution.com/services/seo/): SEO services for small businesses in Houston: keyword research, on-page and technical SEO, content and links. Get a free growth plan.
-- [Local SEO & Google Maps](https://pacificmarketingsolution.com/services/local-seo/): Local SEO and Google Maps marketing in Houston: Business Profile, reviews, citations and local pages that bring calls. Get a free growth plan.
-- [Paid Ads](https://pacificmarketingsolution.com/services/paid-ads/): Paid ads management for small businesses: Meta, Google, YouTube and TikTok ads with conversion tracking and clear reports. Get a free growth plan.
-- [AI Search Optimization](https://pacificmarketingsolution.com/services/ai-search-optimization/): AI search optimization for small businesses: get mentioned in ChatGPT, Perplexity and Google AI Overviews with answer-ready content. Get a free plan.
-- [AI Chatbots](https://pacificmarketingsolution.com/services/ai-chatbots/): AI chatbot development for small businesses: website, WhatsApp and Instagram bots that answer, capture leads and book 24/7. Get a free plan.
-- [AI Agents & Voice Receptionists](https://pacificmarketingsolution.com/services/ai-agents-voice/): AI agent and voice receptionist development: phone agents that answer and book, multi-agent systems and private AI on your documents. Free plan.
-- [Business Automation](https://pacificmarketingsolution.com/services/business-automation/): Business automation and CRM setup for small businesses: HubSpot, GoHighLevel, Zapier, Make and n8n workflows that save hours. Get a free plan.
-- [AI Analytics Dashboards](https://pacificmarketingsolution.com/services/ai-analytics-dashboards/): AI analytics dashboard development: Shopify, Stripe, Meta and Google Ads in one live view with true profit, CAC, MER and AI summaries. Free plan.
-- [Email & WhatsApp Marketing](https://pacificmarketingsolution.com/services/email-whatsapp-marketing/): Email and WhatsApp marketing for small businesses: newsletters, automated sequences, abandoned-cart emails, broadcasts and SMS. Get a free plan.
-- [Custom Business Software](https://pacificmarketingsolution.com/services/custom-business-software/): Custom business software development in Houston: booking, POS, CRM, inventory, clinic and restaurant systems and dashboards. Get a free plan.
-- [White-label services](https://pacificmarketingsolution.com/services/white-label-services/): White-label SEO, website, content and ad management delivered under your brand, so your agency can take on more clients with confidence.
+- [Website Development](https://pacificmarketingsolution.com/services/website-development/): Is your website slow or not bringing calls? We design fast, mobile-first business websites in Houston and across the US. Fixed price, and you own it.
+- [Shopify Stores](https://pacificmarketingsolution.com/services/shopify-stores/): Want to sell online without fighting your store every day? We set up Shopify stores with products, payments and shipping done. See what is included.
+- [WordPress Websites](https://pacificmarketingsolution.com/services/wordpress-websites/): Plugins breaking or your developer gone? We build, fix and look after WordPress sites you can update yourself, with security and backups handled.
+- [AI Websites](https://pacificmarketingsolution.com/services/ai-websites/): No website yet, or quotes that take months? Get a professional business site live in 3 to 7 days, built with AI and checked by a person. See the steps.
+- [Custom Websites](https://pacificmarketingsolution.com/services/custom-websites/): Outgrown off-the-shelf tools? We build client portals, booking systems, memberships and dashboards around how you work, with full source code.
+- [SaaS & MVP Development](https://pacificmarketingsolution.com/services/saas-development/): Have a software idea but no reliable team? We build MVPs and SaaS products in weekly testable releases, with Stripe billing and full code ownership.
+- [Video Production](https://pacificmarketingsolution.com/services/video-production/): Want customers to trust you before they call? We make product, promo, testimonial and explainer videos for businesses. See examples of our work.
+- [Reels & TikTok Videos](https://pacificmarketingsolution.com/services/short-form-videos/): No time to film and edit? We turn your footage into Reels and TikToks with strong hooks and captions every month, so you post without the work.
+- [AI Videos & Commercials](https://pacificmarketingsolution.com/services/ai-videos-commercials/): Video ads cost too much to film? We make AI spokesperson, voiceover and product ads in days, in several languages. See sample AI videos.
+- [Graphic Design](https://pacificmarketingsolution.com/services/graphic-design/): DIY graphics making your business look small? We design ads, social posts, flyers and menus in one consistent style. Fast turnaround.
+- [Branding & Logos](https://pacificmarketingsolution.com/services/branding-logos/): Look like every competitor in town? We design logos and brand kits people remember, with simple rules your team can follow. See our process.
+- [Social Media Management](https://pacificmarketingsolution.com/services/social-media-management/): Posting only when you remember? We plan, post and reply to comments and DMs for you, with a monthly report on what brought customers in.
+- [Search Engine Optimization](https://pacificmarketingsolution.com/services/seo/): Stuck on page two? We fix indexing, content and technical SEO so you rank for searches that bring paying customers. See our law firm case study.
+- [Local SEO & Google Maps](https://pacificmarketingsolution.com/services/local-seo/): Competitors showing up on Google Maps before you? We fix your Business Profile, reviews and local pages so nearby customers call you first.
+- [Paid Ads](https://pacificmarketingsolution.com/services/paid-ads/): Paying for clicks that never call? We run Google, Meta and TikTok ads tracked to real leads, and you keep the ad account. See real ad results.
+- [AI Search Optimization](https://pacificmarketingsolution.com/services/ai-search-optimization/): Does ChatGPT recommend your competitors instead of you? We optimize your site and listings so ChatGPT, Perplexity and Google AI name your business.
+- [AI Chatbots](https://pacificmarketingsolution.com/services/ai-chatbots/): Losing website visitors after hours? Our AI chatbots answer questions and book appointments around the clock. See what one costs and how it works.
+- [AI Agents & Voice Receptionists](https://pacificmarketingsolution.com/services/ai-agents-voice/): Calls going to voicemail? An AI receptionist answers in seconds, books appointments and passes urgent calls to you. See how it sounds and what it costs.
+- [Business Automation](https://pacificmarketingsolution.com/services/business-automation/): Copying data between apps and chasing leads by hand? We connect your CRM, forms and calendar so follow-ups and reminders run by themselves.
+- [AI Analytics Dashboards](https://pacificmarketingsolution.com/services/ai-analytics-dashboards/): Five reports and still no idea what is profitable? See ad spend, revenue and true profit in one live dashboard, with plain-English AI summaries.
+- [Email & WhatsApp Marketing](https://pacificmarketingsolution.com/services/email-whatsapp-marketing/): One-time customers who never return? We set up email, text and WhatsApp campaigns, reminders and offers that bring them back to buy again.
+- [Custom Business Software](https://pacificmarketingsolution.com/services/custom-business-software/): Paying for six apps that don't fit? Our Houston team builds custom CRM, booking and POS software for US businesses. Fixed quote, full source code.
+- [White-label services](https://pacificmarketingsolution.com/services/white-label-services/): Turning down client work for lack of staff? We deliver web, AI and marketing projects under your agency's brand, on your deadlines, never contacting clients.
 
 ## Company
 - [About us](https://pacificmarketingsolution.com/about/): Learn about Pacific Marketing Solution, our digital growth approach, services, client experience, case studies and commitment to measurable results.
-- [Industries we serve](https://pacificmarketingsolution.com/industries/): Marketing, websites, AI and software for clinics, law firms, home services, restaurants, retail, B2B suppliers, real estate and SaaS founders.
+- [Industries we serve](https://pacificmarketingsolution.com/industries/): Every industry wins customers differently. See how we help med spas, law firms, home service pros, dental practices and growing teams, with real proof.
 - [Case studies and results](https://pacificmarketingsolution.com/work/): Real SEO, Google Ads and Meta Ads case studies with the numbers: clicks, impressions, click-through rate, cost per click and more.
-  - [Meta Ads case study: Primax Solar Energy (155,000+ link clicks)](https://pacificmarketingsolution.com/work/primax-solar-energy-meta-ads/)
-  - [Meta Ads case study: Shahid Enterprizes (151 messaging conversations)](https://pacificmarketingsolution.com/work/shahid-enterprizes-meta-ads/)
-  - [Google Ads case study: Naples Dent Away (595 clicks, 9 conversions)](https://pacificmarketingsolution.com/work/naples-dent-away-google-ads/)
-  - [SEO and Google Ads case study: Allen Jacobi Law](https://pacificmarketingsolution.com/work/allen-jacobi-law/)
-  - [SEO case study: Skin Body Health](https://pacificmarketingsolution.com/work/skin-body-health-seo/)
-  - [SEO case study: Pure Hope Weight Loss](https://pacificmarketingsolution.com/work/pure-hope-weight-loss-seo/)
-- [Contact](https://pacificmarketingsolution.com/contact/): Contact Pacific Marketing Solution in Houston, Texas. Send a message or book a meeting to talk about your marketing goals.
+  - [Meta Ads Case Study: 155,000+ Clicks Under 1 Cent Each (155,000+ link clicks)](https://pacificmarketingsolution.com/work/primax-solar-energy-meta-ads/)
+  - [Meta Ads Case Study: 151 Buyer Chats for About $21 (151 messaging conversations)](https://pacificmarketingsolution.com/work/shahid-enterprizes-meta-ads/)
+  - [Local Google Ads Case Study: 9 Conversions on $1,720 (595 clicks, 9 conversions)](https://pacificmarketingsolution.com/work/naples-dent-away-google-ads/)
+  - [Law Firm SEO Case Study: Indexing Fixed, Leads by Month 3](https://pacificmarketingsolution.com/work/allen-jacobi-law/)
+  - [Skin Care Clinic SEO Case Study: Leads in Six Months](https://pacificmarketingsolution.com/work/skin-body-health-seo/)
+  - [Weight Loss Clinic SEO Case Study: 201 Clicks, 5.2% CTR](https://pacificmarketingsolution.com/work/pure-hope-weight-loss-seo/)
+- [Contact](https://pacificmarketingsolution.com/contact/): Tell us what is holding your business back. Call, text, email or book a time, and get a written plan for your next steps within one business day.
 
 ## Learn
-- [Marketing insights](https://pacificmarketingsolution.com/insights/): Plain-English lessons from our own SEO, Google Ads and Meta Ads campaigns: what the numbers show and what we would do next.
+- [Marketing insights](https://pacificmarketingsolution.com/insights/): Straight answers on SEO, ads, AI agents and software, written from real client dashboards and builds. Short reads with the actual numbers.
 - [Marketing terms explained](https://pacificmarketingsolution.com/glossary/): Plain-English meanings of common marketing words such as SEO, AEO, GEO, CRM, CTR, CPC, conversion, funnel and white-label.
 - [What Upwork clients say about our AI engineer](https://pacificmarketingsolution.com/insights/what-upwork-clients-say-about-our-ai-engineer/): 41 Upwork reviews, a 5.0 rating and 100% Job Success. What clients say about Nauman N., who leads our AI and SaaS builds.
 - [Voice AI agents in practice: three builds and what they share](https://pacificmarketingsolution.com/insights/voice-ai-agents-three-builds/): A voice coaching platform, an AI phone receptionist and lead re-engagement calls: what our voice agent builds share, and what to plan first.
