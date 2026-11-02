@@ -169,6 +169,15 @@ function pms_client_ip(): string
     return (string)($_SERVER['REMOTE_ADDR'] ?? 'unknown');
 }
 
+/**
+ * The address the request actually came from. Unlike the headers above, a sender cannot fake it, so a looser
+ * limit on it stops a script that invents a new "visitor address" header for every message.
+ */
+function pms_conn_ip(): string
+{
+    return (string)($_SERVER['REMOTE_ADDR'] ?? 'unknown');
+}
+
 /** Send one plain-text message through the company mailbox over SMTP with implicit TLS (port 465). */
 function pms_send_mail(string $subject, string $body, ?string $replyEmail = null, ?string $replyName = null): bool
 {

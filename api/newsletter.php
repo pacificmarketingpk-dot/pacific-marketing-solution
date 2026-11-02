@@ -11,7 +11,7 @@ $email = pms_line($in['email'] ?? '', 254);
 $id    = pms_line($in['id'] ?? '', 80);
 if (!pms_valid_email($email)) { pms_respond(false, 422); }
 
-if (!pms_limit('news-ip', pms_client_ip(), 5, 600) || !pms_limit('news-all', 'site', 100, 3600)) { pms_respond(false, 429); }
+if (!pms_limit('news-ip', pms_client_ip(), 5, 600) || !pms_limit('news-conn', pms_conn_ip(), 30, 600) || !pms_limit('news-all', 'site', 100, 3600)) { pms_respond(false, 429); }
 if ($id !== '' && !pms_limit('news-id', $id, 1, 3600)) { pms_respond(true); }
 
 $body = "New newsletter subscriber:\n\nEmail: {$email}\n";
