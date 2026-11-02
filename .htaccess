@@ -35,16 +35,22 @@ RedirectMatch 301 ^/(fr|de|ar|zh|ja|es-mx|es-es|pt-pt)/services/cloud-devops-inf
 <IfModule mod_alias.c>
 RedirectMatch 301 ^/email-marketing/?$ /services/email-whatsapp-marketing/
 RedirectMatch 301 ^/terms-and-conditions/?$ /terms-of-service/
+RedirectMatch 301 ^/terms/?$ /terms-of-service/
+RedirectMatch 301 ^/privacy/?$ /privacy-policy/
 RedirectMatch 301 ^/graphic-designing-and-video-editing/?$ /services/graphic-design/
 RedirectMatch 301 ^/website-development-portfolio/?$ /work/
 RedirectMatch 301 ^/lead-generation/?$ /marketing/
+RedirectMatch 301 ^/search-engine-optimization/?$ /services/seo/
 RedirectMatch 301 ^/home/?$ /
+# old WordPress service that is no longer offered: tell search engines it is gone, not just missing
+RedirectMatch 410 ^/reputation-management/?$
 # WordPress system files, feeds and the default post no longer exist: tell search engines they are gone
 RedirectMatch 410 ^/(wp-content|wp-includes|wp-admin|wp-json)(/.*)?$
 RedirectMatch 410 ^/(wp-login|xmlrpc|wp-cron|wp-signup|wp-trackback)\.php$
 RedirectMatch 410 ^/hello-world(/.*)?$
 RedirectMatch 410 ^/sample-page/?$
-RedirectMatch 410 ^/(comments/)?feed/?$
+RedirectMatch 410 (^|/)(comments/)?feed/?$
+RedirectMatch 410 ^/category/(.*)?$
 </IfModule>
 ErrorDocument 410 /404.html
 
