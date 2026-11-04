@@ -26,7 +26,7 @@ if (mb_strlen($name, 'UTF-8') < 2 || mb_strlen($company, 'UTF-8') < 2 || $btype 
 
 // limits: 3 messages per sender email per day, 3 per visitor address per 10 minutes, 100 per hour for the whole site, and each request id is accepted once
 if (!pms_limit('contact-email', strtolower($email), 3, 86400)) { pms_respond(true); }   // max 3 messages per sender address per day
-if (!pms_limit('contact-ip', pms_client_ip(), 3, 600) || !pms_limit('contact-all', 'site', 100, 3600)) { pms_respond(false, 429); }
+if (!pms_limit('contact-ip', pms_client_ip(), 3, 600) || !pms_limit('contact-conn', pms_conn_ip(), 30, 600) || !pms_limit('contact-all', 'site', 100, 3600)) { pms_respond(false, 429); }
 if ($id !== '' && !pms_limit('contact-id', $id, 1, 3600)) { pms_respond(true); }      // a repeated send of the same message
 
 $body = "New Website Contact Form Submission\n\n"

@@ -95,6 +95,26 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 Header always set X-Frame-Options "SAMEORIGIN"
 </IfModule>
 
+# security: browsers always use https, no other site can put this site inside a frame, injected <base>/<object>/form
+# tricks are refused, and browser features the site never uses (camera, microphone, location, payments...) are switched off
+<IfModule mod_headers.c>
+Header always set Strict-Transport-Security "max-age=31536000"
+Header always set Content-Security-Policy "upgrade-insecure-requests; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'"
+Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=(), hid=(), midi=(), magnetometer=(), display-capture=()"
+Header always set Cross-Origin-Opener-Policy "same-origin-allow-popups"
+Header always set X-Permitted-Cross-Domain-Policies "none"
+Header always unset X-Powered-By
+Header unset X-Powered-By
+</IfModule>
+
+# repository notes are not public pages
+<FilesMatch "\.(md|py|sh|lock|bak|old|orig|swp|sql|zip|tar|gz)$">
+Require all denied
+</FilesMatch>
+<Files "_missing.json">
+Require all denied
+</Files>
+
 # the sitemap is always sent as XML (a server that sends .xml as text/html makes browsers show only the text and Search Console say "Sitemap is HTML")
 <IfModule mod_mime.c>
 AddType application/xml .xml
@@ -114,6 +134,7 @@ Require all denied
 </FilesMatch>
 <IfModule mod_alias.c>
 RedirectMatch 404 ^/tools/
+RedirectMatch 404 /\.(?!well-known/)
 </IfModule>
 
 # Never serve the private settings file, wherever it is placed
