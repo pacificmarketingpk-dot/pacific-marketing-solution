@@ -1,0 +1,12 @@
+// The two modal dialogs (work-detail lightbox, booking modal) and the scroll-progress
+// indicator that live at the end of <body> on every page of the legacy site. app.js expects
+// these elements to exist on every page (it reads/writes their .style directly), so they're
+// shared chrome here too, not page content.
+export default function BodyExtras() {
+  return (
+    <div
+      suppressHydrationWarning
+      dangerouslySetInnerHTML={{ __html: "<dialog id=\"wd\" class=\"wd\" aria-labelledby=\"wdt\"><button type=\"button\" class=\"wdx\" aria-label=\"Close\">&times;</button><div id=\"wdc\"></div></dialog>\n<dialog id=\"bm\" class=\"bm\" aria-labelledby=\"bmt\"><button type=\"button\" class=\"bmx\" aria-label=\"Close booking\">&times;</button><div class=\"bmw\"><div class=\"bmh\"><div><h3 id=\"bmt\">Book a meeting</h3><p class=\"bms\">Next you will pick a date and time on our Google Calendar booking page. Google confirms your booking and sends the confirmation email.</p></div><div class=\"bmchips\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg>30 min</span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><rect x=\"3\" y=\"6\" width=\"13\" height=\"12\" rx=\"2\"/><path d=\"M16 10l5-3v10l-5-3\"/></svg>Google Meet</span></div></div><div class=\"bmsteps\" role=\"list\"><div class=\"bmstep\" role=\"listitem\"><b>1</b><h4>Pick a date and time</h4><p>You will see the times that are really free, shown in your own time zone.</p></div><div class=\"bmstep\" role=\"listitem\"><b>2</b><h4>Enter your details</h4><p>Google asks for your name and email so it can reserve the time for you.</p></div><div class=\"bmstep\" role=\"listitem\"><b>3</b><h4>Confirm on Google</h4><p>Your meeting is booked only once Google Calendar shows its confirmation.</p></div></div><div class=\"bmfoot\"><div class=\"bmtz\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3a14 14 0 010 18M12 3a14 14 0 000 18\"/></svg><span class=\"bmtzpill\">Your time zone: <strong id=\"bmtzv\">UTC</strong></span></div><a id=\"bmgo\" class=\"bmcont\" href=\"https://calendar.app.google/vqnch6WRpBgAxQGN8\" target=\"_blank\" rel=\"noopener noreferrer\">Continue to Google Calendar &rsaquo;</a></div><p class=\"bmnote\">Opens our Google Calendar booking page in a new tab.</p></div></dialog>\n\n\n\n\n<div id=\"sp\" aria-hidden=\"true\"></div>" }}
+    />
+  );
+}
