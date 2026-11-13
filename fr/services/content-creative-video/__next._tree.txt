@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0ukgiettpn16w.css","style"]
+:HL["/_next/static/chunks/283a3e62zgr06.css","style"]
 :HL["/fonts/plus-jakarta-sans-latin-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/plus-jakarta-sans-latin-800-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/plus-jakarta-sans-latin-500-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"content-creative-video","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"services","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"fr","c":"$Q2"}]]
-0:{"b":"Nk3lwUDThJmYIEM3ekHpT","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"jHepZ2zDBp0XxYKwEo9iy","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
