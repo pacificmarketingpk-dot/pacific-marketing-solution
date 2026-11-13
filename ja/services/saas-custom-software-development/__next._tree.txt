@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2s3dv5_o2y6s7.css","style"]
+:HL["/_next/static/chunks/0ilb1ab_hpfhx.css","style"]
 :HL["/fonts/plus-jakarta-sans-latin-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/plus-jakarta-sans-latin-800-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/plus-jakarta-sans-latin-500-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"saas-custom-software-development","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"services","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"ja","c":"$Q2"}]]
-0:{"b":"H38ziBIMSP0T6ySatSKw9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"QU9D2IzzEYWKmwjdBpaGi","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
