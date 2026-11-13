@@ -1,0 +1,276 @@
+import type { Metadata } from "next";
+import Script from "next/script";
+
+const TITLE = "Mobile App Development in Houston: iOS & Android";
+const DESCRIPTION = "Need an iOS or Android app? Our Houston team builds native and cross-platform mobile apps for US businesses. Fixed quote, full source code.";
+const URL = "https://pacificmarketingsolution.com/services/mobile-app-development/";
+
+export const metadata: Metadata = {
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: {
+    canonical: URL,
+    languages: {
+      en: URL,
+      "x-default": URL,
+    },
+  },
+  robots: {
+    index: true,
+    follow: true,
+    "max-image-preview": "large",
+    "max-snippet": -1,
+    "max-video-preview": -1,
+  },
+  openGraph: {
+    type: "website" as const,
+    url: URL,
+    title: TITLE,
+    description: DESCRIPTION,
+    locale: "en_US",
+    images: [{ url: "https://pacificmarketingsolution.com/images/og/about.jpg", width: 1200, height: 630, alt: TITLE }],
+  },
+  twitter: {
+    card: "summary_large_image" as const,
+    title: TITLE,
+    description: DESCRIPTION,
+    images: ["https://pacificmarketingsolution.com/images/og/about.jpg"],
+  },
+};
+
+const FAQ_LD = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  inLanguage: "en",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "How much does a mobile app cost?",
+      acceptedAnswer: { "@type": "Answer", text: "It depends on the platforms, screens and backend work. After a discovery call we send a fixed-scope quote in US dollars, paid in milestones." },
+    },
+    {
+      "@type": "Question",
+      name: "How long does it take to build a mobile app?",
+      acceptedAnswer: { "@type": "Answer", text: "Most apps launch in 8–16 weeks, starting with a working core so you can test on real devices early." },
+    },
+    {
+      "@type": "Question",
+      name: "Should we build native iOS and Android, or one cross-platform app?",
+      acceptedAnswer: { "@type": "Answer", text: "Most business apps (booking, field service, loyalty, internal tools) do well as a single React Native app that ships to both stores. We build native when performance, camera or hardware access make it the better call, and we will tell you honestly which fits your app." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you handle App Store and Google Play submission?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes. We prepare listings, screenshots and privacy details and submit the app on your developer accounts, so the accounts and the published app stay yours." },
+    },
+    {
+      "@type": "Question",
+      name: "Who owns the app and source code?",
+      acceptedAnswer: { "@type": "Answer", text: "You do. The code, design files, app store listings and data belong to your business once paid." },
+    },
+    {
+      "@type": "Question",
+      name: "Can the app connect to our existing website or software?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes. We build or connect to an API so the app, your website and any custom business software share the same data." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you build apps for businesses across the US?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes. Most app clients are across the US and abroad, and we work fully online with calls on US Central Time." },
+    },
+    {
+      "@type": "Question",
+      name: "What happens after the app is published?",
+      acceptedAnswer: { "@type": "Answer", text: "We offer support plans for bug fixes, OS updates, new features and store maintenance, so the app keeps working as iOS and Android change." },
+    },
+  ],
+};
+
+const VIDEO_LD = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoObject",
+      name: "Video testimonial from Michelle Tuley, Market-Ai",
+      description: "Client video testimonial from Michelle Tuley of Market-Ai about working with Pacific Marketing Solution.",
+      thumbnailUrl: "https://pacificmarketingsolution.com/images/testimonials/testimonial-tuley-poster.jpg",
+      contentUrl: "https://pacificmarketingsolution.com/videos/testimonial-tuley.mp4",
+      uploadDate: "2026-10-12T14:33:56+05:00",
+      duration: "PT2M16S",
+      inLanguage: "en",
+    },
+    {
+      "@type": "VideoObject",
+      name: "Video testimonial from Petika Tave, bayabooks.com",
+      description: "Client video testimonial from Petika Tave of bayabooks.com about working with Pacific Marketing Solution.",
+      thumbnailUrl: "https://pacificmarketingsolution.com/images/testimonials/testimonial-petika-tave-poster.jpg",
+      contentUrl: "https://pacificmarketingsolution.com/videos/testimonial-petika-tave.mp4",
+      uploadDate: "2026-10-12T14:33:56+05:00",
+      duration: "PT0M44S",
+      inLanguage: "en",
+    },
+  ],
+};
+
+const ORG = {
+  "@type": ["ProfessionalService", "Organization"],
+  "@id": "https://pacificmarketingsolution.com/#organization",
+  name: "Pacific Marketing Solution",
+  legalName: "Pacific Marketing Solution LLC",
+  url: "https://pacificmarketingsolution.com/",
+  parentOrganization: { "@type": "Organization", name: "Unimind Studios" },
+  email: "info@pacificmarketingsolution.com",
+  image: "https://pacificmarketingsolution.com/images/og/home.jpg",
+  logo: { "@type": "ImageObject", url: "https://pacificmarketingsolution.com/logo-512.png", width: 512, height: 512 },
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: "customer service",
+    email: "info@pacificmarketingsolution.com",
+    availableLanguage: ["English"],
+    telephone: "+1 832 240 0846",
+    url: "https://wa.me/18322400846",
+  },
+  description:
+    "Marketing, automation and custom software for businesses across the US, UK and Canada, from one Houston-based team: websites, SEO, Google Maps, ads, AI receptionists, mobile apps, custom software and white-label delivery for agencies and SaaS teams.",
+  address: [{ "@type": "PostalAddress", streetAddress: "535 W Airtex Blvd", addressLocality: "Houston", addressRegion: "TX", postalCode: "77090", addressCountry: "US" }],
+  location: { "@type": "Place", name: "Houston office", address: { "@type": "PostalAddress", streetAddress: "535 W Airtex Blvd", addressLocality: "Houston", addressRegion: "TX", postalCode: "77090", addressCountry: "US" } },
+  knowsAbout: [
+    "Search engine optimization",
+    "Answer engine optimization",
+    "Generative engine optimization",
+    "Google Ads",
+    "Meta Ads",
+    "Website development",
+    "Mobile app development",
+    "AI chatbots and voice agents",
+    "CRM automation",
+    "White-label marketing",
+  ],
+  makesOffer: [
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Website Development", url: "https://pacificmarketingsolution.com/services/website-development/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Shopify Stores", url: "https://pacificmarketingsolution.com/services/shopify-stores/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "WordPress Websites", url: "https://pacificmarketingsolution.com/services/wordpress-websites/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Websites", url: "https://pacificmarketingsolution.com/services/ai-websites/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Custom Websites", url: "https://pacificmarketingsolution.com/services/custom-websites/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Mobile App Development", url: URL } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "SaaS & MVP Development", url: "https://pacificmarketingsolution.com/services/saas-development/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Video Production", url: "https://pacificmarketingsolution.com/services/video-production/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Reels & TikTok Videos", url: "https://pacificmarketingsolution.com/services/short-form-videos/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Videos & Commercials", url: "https://pacificmarketingsolution.com/services/ai-videos-commercials/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Graphic Design", url: "https://pacificmarketingsolution.com/services/graphic-design/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Branding & Logos", url: "https://pacificmarketingsolution.com/services/branding-logos/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Social Media Management", url: "https://pacificmarketingsolution.com/services/social-media-management/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Search Engine Optimization", url: "https://pacificmarketingsolution.com/services/seo/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Local SEO & Google Maps", url: "https://pacificmarketingsolution.com/services/local-seo/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Paid Ads", url: "https://pacificmarketingsolution.com/services/paid-ads/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Search Optimization", url: "https://pacificmarketingsolution.com/services/ai-search-optimization/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Chatbots", url: "https://pacificmarketingsolution.com/services/ai-chatbots/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Agents & Voice Receptionists", url: "https://pacificmarketingsolution.com/services/ai-agents-voice/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Business Automation", url: "https://pacificmarketingsolution.com/services/business-automation/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "AI Analytics Dashboards", url: "https://pacificmarketingsolution.com/services/ai-analytics-dashboards/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Email & WhatsApp Marketing", url: "https://pacificmarketingsolution.com/services/email-whatsapp-marketing/" } },
+    { "@type": "Offer", itemOffered: { "@type": "Service", name: "Custom Business Software", url: "https://pacificmarketingsolution.com/services/custom-business-software/" } },
+  ],
+  telephone: "+1 832 240 0846",
+  areaServed: [
+    { "@type": "Country", name: "United States" },
+    { "@type": "Country", name: "United Kingdom" },
+    { "@type": "Country", name: "Canada" },
+    { "@type": "City", name: "Houston, TX" },
+  ],
+  hasMap: "https://www.google.com/maps?q=535+W+Airtex+Blvd,+Houston,+TX+77090",
+  founder: { "@type": "Person", "@id": "https://pacificmarketingsolution.com/#founder", name: "Muhammad Ali Khan", jobTitle: "Founder & Marketing Lead", sameAs: ["https://www.linkedin.com/in/leadgenwithkhan/"] },
+  employee: [{ "@type": "Person", name: "Nauman N.", jobTitle: "Director of Engineering", sameAs: ["https://www.upwork.com/freelancers/naumannaeem9"], image: "https://pacificmarketingsolution.com/images/team/nauman-n.webp" }],
+  sameAs: [
+    "https://www.linkedin.com/company/pacific-marketing-solution-llc/",
+    "https://www.facebook.com/pacificmarketingllc",
+    "https://www.instagram.com/pacificmarketing.llc",
+    "https://www.tiktok.com/@pacificmarketingllc",
+  ],
+};
+
+const PAGE_LD = {
+  "@context": "https://schema.org",
+  "@graph": [
+    ORG,
+    { "@type": "WebSite", "@id": "https://pacificmarketingsolution.com/#website", url: "https://pacificmarketingsolution.com/", name: "Pacific Marketing Solution", publisher: { "@id": "https://pacificmarketingsolution.com/#organization" }, inLanguage: "en" },
+    {
+      "@type": "WebPage",
+      "@id": `${URL}#webpage`,
+      url: URL,
+      name: TITLE,
+      description: DESCRIPTION,
+      inLanguage: "en",
+      isPartOf: { "@id": "https://pacificmarketingsolution.com/#website" },
+      about: { "@id": "https://pacificmarketingsolution.com/#organization" },
+      breadcrumb: { "@id": `${URL}#breadcrumb` },
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": `${URL}#breadcrumb`,
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://pacificmarketingsolution.com/" },
+        { "@type": "ListItem", position: 2, name: "Software", item: "https://pacificmarketingsolution.com/software/" },
+        { "@type": "ListItem", position: 3, name: "Mobile App Development", item: URL },
+      ],
+    },
+    {
+      "@type": "Service",
+      "@id": `${URL}#service`,
+      name: "Mobile App Development",
+      serviceType: "Mobile App Development",
+      description: DESCRIPTION,
+      url: URL,
+      provider: { "@id": "https://pacificmarketingsolution.com/#organization" },
+      areaServed: [
+        { "@type": "Country", name: "United States" },
+        { "@type": "Country", name: "United Kingdom" },
+        { "@type": "Country", name: "Canada" },
+        { "@type": "City", name: "Houston, TX" },
+      ],
+      inLanguage: "en",
+      hasOfferCatalog: {
+        "@type": "OfferCatalog",
+        name: "Mobile App Development",
+        itemListElement: [
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "iOS app development" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "Android app development" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "Cross-platform apps (React Native)" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "App Store and Google Play submission" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "Backend APIs and push notifications" } },
+          { "@type": "Offer", itemOffered: { "@type": "Service", name: "App maintenance and updates" } },
+        ],
+      },
+    },
+  ],
+};
+
+const BODY = `<main id="main-content" tabindex="-1">
+<div id="view-home">
+<i class="lp-sv" hidden></i>
+<div class="zone lp-z-automate"><div class="zone-bg" aria-hidden="true"><i class="o1"></i><i class="o2"></i><i class="gridl"></i></div><div class="wrap"><nav class="crumbs lp-crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">›</span><a href="/software/">Software</a><span aria-hidden="true">›</span><span aria-current="page">Mobile App Development</span></nav><div class="hero lp-h-form"><div><div class="badge"><span class="dot"></span>Mobile App Development · Serving businesses across the US</div><h1>Apps your customers actually use: <em>mobile app development in Houston and across the US</em></h1><p class="sub">Native iOS, Android and cross-platform apps for booking, field service, loyalty and internal tools, built and submitted to the App Store and Google Play.</p><p class="lead">Our mobile app development for businesses across the US turns a app idea into something customers can download and use. Our engineering lead has shipped more than 50 platforms, including live, published apps. We plan with you, build in milestones you can test on a real phone, and support you after launch. For a browser-based tool instead of an app, see <a href="/services/custom-websites/">custom web apps and portals</a>.</p><div class="cta"><a class="btn" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a><a class="btn ghost" href="https://calendar.app.google/vqnch6WRpBgAxQGN8" target="_blank" rel="noopener">Book a Call <span aria-hidden="true">&#8599;</span></a></div><p class="lp-risk">Free · No contract · Reply within 24 hours</p><p class="callnote">Free 30-minute call on Google Meet · or call <a href="tel:+18322400846" dir="ltr">+1 (832) 240-0846</a></p></div><div class="hv"><form class="lp-form lp-hform" id="gpf-hero" novalidate data-ok="Thank you. We received your details and will email you shortly." data-err="Sorry, that did not send. Please call us or email info@pacificmarketingsolution.com." data-vn="Please enter your name." data-vp="Please enter a valid phone number." data-ve="Please enter a valid email address." data-vc="Please enter your company name." data-vt="Please choose your business type." data-msg="Free growth plan request (hero form): Mobile App Development page."><p class="lp-hk">Get your free mobile app plan</p><p class="lp-hs">Free · Reply within 24 hours</p><label>Your name *<input name="name" autocomplete="name" required></label><label>Phone number *<input name="phone" type="tel" autocomplete="tel" required dir="ltr"></label><label>Work email *<input name="email" type="email" autocomplete="email" required dir="ltr"></label><label>Company name *<input name="company" autocomplete="organization" required></label><label>Business type *<select name="btype" required><option value="">Choose one</option><option>Restaurant or café</option><option>Dental or medical clinic</option><option>Home services</option><option>Real estate</option><option>Retail shop</option><option>Auto shop</option><option>Law firm or professional services</option><option>E-commerce or online store</option><option>Manufacturing or B2B</option><option>Startup or SaaS</option><option>Other</option></select></label><input type="text" name="website" class="hpf" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn" type="submit">Get Free Growth Plan</button><p class="lp-msg" role="status" aria-live="polite"></p></form></div></div></div></div>
+<div class="wrap trustwrap"><div class="trustbar"><a class="ts" href="#testimonials" data-anchor="testimonials" data-tt="2"><b>★ 5.0 rating</b><span>41 Upwork reviews of our AI engineer</span><i class="tsa" aria-hidden="true">→</i></a><a class="ts" href="/insights/meta-ads-cost-per-click-155000-link-clicks/"><b>155,000+</b><span>ad clicks for one client in three campaigns</span><i class="tsa" aria-hidden="true">→</i></a><a class="ts" href="/work/" data-route="work"><b>50+</b><span>web and AI platforms shipped by our engineering lead</span><i class="tsa" aria-hidden="true">→</i></a><a class="tl" href="/about/" data-route="about"><p>Businesses we have worked with</p><ul><li><img class="dk" src="/images/logos/sm/allen-jacobi-law-logo.webp" alt="Allen Jacobi Law" width="31" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/allen-jacobi-law-logo-light.webp" alt="" aria-hidden="true" width="31" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/skin-body-health-logo.webp" alt="Skin Body Health" width="86" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/skin-body-health-logo-light.webp" alt="" aria-hidden="true" width="86" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/pure-hope-weight-loss-logo.webp" alt="Pure Hope Weight Loss" width="64" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/pure-hope-weight-loss-logo-light.webp" alt="" aria-hidden="true" width="64" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/naples-dent-away-logo.webp" alt="Naples Dent Away" width="70" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/naples-dent-away-logo-light.webp" alt="" aria-hidden="true" width="70" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/our-village-logo.webp" alt="Our Village" width="61" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/our-village-logo-light.webp" alt="" aria-hidden="true" width="61" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/cata-electronics-logo.webp" alt="Cata Electronics" width="78" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/cata-electronics-logo-light.webp" alt="" aria-hidden="true" width="78" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/5-wards-services-logo.webp" alt="5 Wards Services" width="81" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/5-wards-services-logo-light.webp" alt="" aria-hidden="true" width="81" height="26" loading="lazy" decoding="async"></li><li><img class="dk" src="/images/logos/sm/earth-wonders-logo.webp" alt="Earth Wonders" width="26" height="26" loading="lazy" decoding="async"><img class="lt" src="/images/logos/sm/earth-wonders-logo-light.webp" alt="" aria-hidden="true" width="26" height="26" loading="lazy" decoding="async"></li></ul><i class="tsa" aria-hidden="true">→</i></a></div></div><p class="wrap lp-based">Based in Houston, Texas, working with businesses across the US.</p>
+<section id="problem"><div class="wrap"><span class="tag">The problem, and how we fix it</span><h2>A good app idea is not the same as a published app</h2><p class="lead">Businesses come to us for mobile app development when these become daily frustrations.</p><div class="lp-g3"><article class="lp-c"><span class="lp-n">01</span><h3>The idea has been "in planning" for months</h3><p>No wireframes, no quote and no clear next step, just a growing list of features.</p></article><article class="lp-c"><span class="lp-n">02</span><h3>A no-code app builder cannot do what you need</h3><p>Custom logic, payments, hardware access or offline use are outside what a drag-and-drop builder supports.</p></article><article class="lp-c"><span class="lp-n">03</span><h3>A freelancer disappeared mid-build</h3><p>Missed deadlines, no source code handed over, or an app that never reached the store.</p></article></div><div class="lp-sv2"><div class="lp-solve"><h3>One team, from wireframe to the App Store</h3><p>We map the screens and user flow, design the app with you, build in milestones you can test on your own phone, and handle submission to the App Store and Google Play. Your code and accounts stay yours, and the app can connect to <a href="/services/custom-business-software/">custom business software</a> or existing tools through <a href="/services/business-automation/">automation</a>.</p><div class="lp-2"><div class="lp-col b"><h4>What we do</h4><ul><li>Map screens and user flow</li><li>Design the app and approve it with you</li><li>Build, test on real devices and secure the app</li><li>Submit to the App Store and Google Play</li></ul></div><div class="lp-col g"><h4>What you get</h4><ul><li>A published, working app</li><li>One codebase for iOS and Android, where it fits</li><li>Push notifications and a connected backend</li><li>Code and store accounts you own</li></ul></div></div></div><div class="lp-vids"><h3>Real client video testimonials</h3><div class="lp-vg"><figure class="lp-vid"><button type="button" class="lp-vb" data-src="/videos/testimonial-tuley.mp4" data-poster="/images/testimonials/testimonial-tuley-poster.jpg" aria-label="Play video testimonial from Michelle Tuley, Market-Ai"><img src="/images/testimonials/testimonial-tuley-poster.jpg" alt="Michelle Tuley of Market-Ai, video testimonial" width="270" height="480" loading="lazy" decoding="async"><span class="lp-play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span><span class="lp-vd" aria-hidden="true">2:16</span></button><figcaption><b>Michelle Tuley</b><span>Market-Ai</span></figcaption></figure><figure class="lp-vid"><button type="button" class="lp-vb" data-src="/videos/testimonial-petika-tave.mp4" data-poster="/images/testimonials/testimonial-petika-tave-poster.jpg" aria-label="Play video testimonial from Petika Tave, bayabooks.com"><img src="/images/testimonials/testimonial-petika-tave-poster.jpg" alt="Petika Tave of bayabooks.com, video testimonial" width="270" height="480" loading="lazy" decoding="async"><span class="lp-play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span><span class="lp-vd" aria-hidden="true">0:44</span></button><figcaption><b>Petika Tave</b><span>bayabooks.com</span></figcaption></figure></div></div></div><div class="lp-ctarow"><a class="btn" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a><a class="btn ghost" href="https://calendar.app.google/vqnch6WRpBgAxQGN8" target="_blank" rel="noopener">Book a Call <span aria-hidden="true">&#8599;</span></a></div></div></section>
+<section id="included"><div class="wrap"><span class="tag">What&#8217;s included</span><h2>Mobile app services we build</h2><p class="lead">Each app is designed and built for your business, not assembled from a generic template. Customer support can plug in through an <a href="/services/ai-chatbots/">AI chatbot</a>.</p><div class="lp-g3"><article class="lp-c lp-inc"><h3>iOS app development</h3><p>Apps built and tested for iPhone and iPad, submitted to the App Store under your developer account.</p><p class="lp-best"><b>Best for:</b> Businesses whose customers are mostly on iPhone.</p></article><article class="lp-c lp-inc"><h3>Android app development</h3><p>Apps built and tested for Android phones and tablets, submitted to Google Play under your developer account.</p><p class="lp-best"><b>Best for:</b> Field teams, delivery and service businesses.</p></article><article class="lp-c lp-inc"><h3>Cross-platform apps</h3><p>One React Native codebase that ships to both the App Store and Google Play, for faster delivery and lower long-term cost.</p><p class="lp-best"><b>Best for:</b> Most booking, loyalty and internal business apps.</p></article><article class="lp-c lp-inc"><h3>App Store &amp; Google Play submission</h3><p>Listings, screenshots, privacy details and the review process handled for you, on accounts you control.</p><p class="lp-best"><b>Best for:</b> A first app that needs to go live correctly.</p></article><article class="lp-c lp-inc"><h3>Backend APIs &amp; push notifications</h3><p>A secure backend for accounts, data and payments, plus push notifications for bookings, orders and updates.</p><p class="lp-best"><b>Best for:</b> Apps that need to stay in sync with a website or CRM.</p></article><article class="lp-c lp-inc"><h3>App maintenance &amp; updates</h3><p>Bug fixes, OS updates and new features, so the app keeps working as iOS and Android change.</p><p class="lp-best"><b>Best for:</b> Apps already live that need an ongoing team.</p></article></div><h3 class="lp-h3">Works well with</h3><div class="lp-rels"><a class="lp-rel" href="/services/custom-business-software/"><span class="mg-ic"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg></span><span><b>Custom Business Software</b><span>A CRM, booking or POS backend your app can connect to.</span></span></a><a class="lp-rel" href="/services/custom-websites/"><span class="mg-ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 8l-4 4 4 4"/><path d="M16 8l4 4-4 4"/><path d="M13.5 5l-3 14"/></svg></span><span><b>Custom Websites</b><span>A companion web portal alongside the mobile app.</span></span></a><a class="lp-rel" href="/services/ai-agents-voice/"><span class="mg-ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></span><span><b>AI Receptionist &amp; Voice Agents</b><span>Answer calls and book appointments that show up in the app.</span></span></a></div><p class="lp-more"><a href="/services/#automate">See every Automate service &#8599;</a></p></div></section>
+<section id="industries"><div class="wrap"><span class="tag">Industries &amp; areas we serve</span><h2>Apps built for the way your industry works</h2><p class="lead">We build mobile apps for businesses with specific daily processes, not generic templates.</p><div class="lp-g3 lp-ind"><article class="lp-c"><h3>Clinics and healthcare</h3><p>Appointment booking, intake forms and secure patient messaging.</p></article><article class="lp-c"><h3>Field service and delivery</h3><p>Job scheduling, route updates, photos and offline-ready forms for crews on the road.</p></article><article class="lp-c"><h3>Retail and loyalty</h3><p>Loyalty points, order tracking and push notifications for promotions.</p></article></div><p class="lp-remote">See how we do this for <a href="/industries/med-spas/">med spas</a>, <a href="/industries/law-firms/">law firms</a>, <a href="/industries/home-services/">home services</a> and <a href="/industries/dental/">dental practices</a>.</p><div class="lp-areas-w" id="areas"><h3>Mobile app development across the US</h3><p>We work with businesses anywhere in the US, from a single location to many. Our office is in Houston, Texas, and every project runs online with calls, shared progress builds and monthly reports.</p></div></div></section>
+<section id="results"><div class="wrap"><span class="tag">Results &amp; reviews</span><h2>Platforms our engineers have shipped</h2><p class="lead">From the public Upwork profile and portfolio of our engineering lead.</p><div class="results"><div class="rc"><b>1,000+</b><span>consultations a day handled by a telehealth platform our engineer built</span><em>Engineering · Upwork portfolio</em></div><div class="rc"><b>50+</b><span>web, SaaS and AI platforms shipped by our engineering lead</span><em>Engineering · Upwork</em></div><div class="rc"><b>5.0</b><span>average rating from 41 Upwork reviews of our engineering lead</span><em>Upwork</em></div></div><p class="lp-more"><a href="/work/">Browse our case studies and portfolio &#8599;</a></p><h3 class="lp-h3" id="testimonials">What clients say about our builds</h3><div class="lp-g3"><figure class="lp-rev"><div class="lp-rh"><span class="lp-ub">Verified Upwork review</span><span class="lp-st" role="img" aria-label="5 out of 5 stars">★★★★★</span></div><blockquote>“Nauman was an outstanding development partner from start to finish. He built a complex AI-powered platform from the ground up, including multiple AI engines, user authentication, payment integration, and a full training module system, and delivered on time with high quality work throughout.”</blockquote><figcaption><b>Mike S.</b><span>Custom GPT Integration with Circle.so</span><a href="https://www.upwork.com/freelancers/naumannaeem9" target="_blank" rel="noopener">View on Upwork &#8599;</a></figcaption></figure><figure class="lp-rev"><div class="lp-rh"><span class="lp-ub">Verified Upwork review</span><span class="lp-st" role="img" aria-label="5 out of 5 stars">★★★★★</span></div><blockquote>“Nauman is an exceptional ML infrastructure developer who masterfully combines Python and Node.js expertise. His work resulted in 40% faster model inference times and 60% reduced memory usage through skilled optimization. Highly recommended for any ML infrastructure or API development project.”</blockquote><figcaption><b>Haff A.</b><span>AI/ML Python &amp; Node.js Developer</span><a href="https://www.upwork.com/freelancers/naumannaeem9" target="_blank" rel="noopener">View on Upwork &#8599;</a></figcaption></figure><figure class="lp-rev"><div class="lp-rh"><span class="lp-ub">Verified Upwork review</span><span class="lp-st" role="img" aria-label="5 out of 5 stars">★★★★★</span></div><blockquote>“Great work overall, communication was smooth, delivery was on time, and the quality met expectations. Really appreciated the professionalism and attention to detail. Nauman took this project and devoted a lot of time and care, listened to our needs, and responded as needed. Would be happy to work together again!”</blockquote><figcaption><b>Hasmik V.</b><span>AI Model Builder</span><a href="https://www.upwork.com/freelancers/naumannaeem9" target="_blank" rel="noopener">View on Upwork &#8599;</a></figcaption></figure></div><div class="lp-ctarow"><a class="btn ghost" href="https://www.upwork.com/freelancers/naumannaeem9" target="_blank" rel="noopener">See all reviews on Upwork &#8599;</a><a class="btn" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a></div></div></section>
+<section id="process"><div class="wrap"><div class="band"><span class="tag">How it works</span><h2>From free call to a published app</h2><div class="lp-steps"><article class="card"><div class="sh"><span class="no">01</span><h3>Book a free call</h3></div><p>A 30-minute Google Meet call about your app idea, users and timeline. You leave with clear next steps.</p></article><article class="card"><div class="sh"><span class="no">02</span><h3>Custom plan</h3></div><p>A written plan with screens, scope, timeline and a fixed price in US dollars. No long-term contract.</p></article><article class="card"><div class="sh"><span class="no">03</span><h3>We build, test &amp; submit</h3></div><p>We build in milestones, share progress builds you can test on your phone, and submit to the stores.</p></article><article class="card"><div class="sh"><span class="no">04</span><h3>You grow</h3></div><p>We track downloads, crashes and usage, and keep the app current with a monthly report.</p></article></div><h3 class="lp-h3">A typical app project</h3><ol class="lp-tl"><li><b>Weeks 1–2</b><span>Discovery, user flows and fixed-scope plan.</span></li><li><b>Weeks 3–4</b><span>Screen designs approved by your team.</span></li><li><b>Weeks 5–12</b><span>Build in milestones with TestFlight/Play testing every 1–2 weeks.</span></li><li><b>Launch +</b><span>Store submission, review, launch and support.</span></li></ol></div></div></section>
+<section id="packages"><div class="wrap"><span class="tag">Packages</span><h2>Ways to build your app</h2><p class="lead">Every app is different, so we confirm a fixed price after your free call. Prices are in US dollars, and we can quote in other currencies on request.</p><div class="lp-g3 lp-tiers"><article class="lp-tier"><h3>Starter</h3><p class="lp-for">A focused MVP</p><p class="lp-price">Custom quote</p><ul><li>One platform (iOS or Android)</li><li>Core screens and flow</li><li>App Store or Play submission</li><li>30 days of support</li></ul><a class="btn lp-ol" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a></article><article class="lp-tier pop"><span class="lp-pop">Most popular</span><h3>Growth</h3><p class="lp-for">A complete cross-platform app</p><p class="lp-price">Custom quote</p><ul><li>iOS and Android from one codebase</li><li>Backend API and push notifications</li><li>Both store submissions</li><li>Milestone test builds</li><li>3 months of support</li></ul><a class="btn" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a></article><article class="lp-tier"><h3>Pro</h3><p class="lp-for">Long-term product partner</p><p class="lp-price">Custom quote</p><ul><li>Dedicated monthly team hours</li><li>Roadmap and new features</li><li>Analytics, crash monitoring and backend hosting</li><li>App Store optimization</li><li>Priority support</li></ul><a class="btn lp-ol" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a></article></div></div></section>
+<section id="team"><div class="wrap"><span class="tag">Our team</span><h2>The engineers behind your app</h2><div class="lp-g2t"><article class="lp-c lp-person"><div class="lp-ph" role="img" aria-label="Photo coming soon">Photo coming soon</div><div><h3>Muhammad Ali Khan</h3><p class="lp-role">Founder &amp; Marketing Lead</p><p>Has run SEO, paid ads and lead generation for small businesses in the US and abroad, and leads every client plan from first call to monthly report.</p><p class="lp-links"><a href="https://www.linkedin.com/in/leadgenwithkhan/" target="_blank" rel="noopener">LinkedIn &#8599;</a></p></div></article><article class="lp-c lp-person"><img src="/images/team/nauman-n.webp" alt="Nauman N., Director of Engineering at Pacific Marketing Solution" width="160" height="160" loading="lazy" decoding="async"><div><h3>Nauman N.</h3><p class="lp-role">Director of Engineering</p><p>Full-stack and AI systems architect with a 100% Job Success Score on Upwork. He has shipped 50+ platforms, from mobile apps and AI analytics dashboards to telehealth SaaS and live video apps, and hands over full source code.</p><p class="lp-links"><a href="https://www.upwork.com/freelancers/naumannaeem9" target="_blank" rel="noopener">Upwork profile &#8599;</a></p></div></article></div><p class="lp-tz">We work on US Central Time and schedule calls around your time zone, with a reply to every message within one business day.</p></div></section>
+<section id="faq"><div class="wrap"><div class="faqgrid"><div><span class="tag">FAQ</span><h2>Mobile app questions, answered</h2></div><div class="acc"><details open><summary>How much does a mobile app cost?</summary><p>It depends on the platforms, screens and backend work. After a discovery call we send a fixed-scope quote in US dollars, paid in milestones.</p></details><details><summary>How long does it take to build a mobile app?</summary><p>Most apps launch in 8–16 weeks, starting with a working core so you can test on real devices early.</p></details><details><summary>Should we build native iOS and Android, or one cross-platform app?</summary><p>Most business apps (booking, field service, loyalty, internal tools) do well as a single React Native app that ships to both stores. We build native when performance, camera or hardware access make it the better call, and we will tell you honestly which fits your app.</p></details><details><summary>Do you handle App Store and Google Play submission?</summary><p>Yes. We prepare listings, screenshots and privacy details and submit the app on your developer accounts, so the accounts and the published app stay yours.</p></details><details><summary>Who owns the app and source code?</summary><p>You do. The code, design files, app store listings and data belong to your business once paid.</p></details><details><summary>Can the app connect to our existing website or software?</summary><p>Yes. We build or connect to an API so the app, your website and any custom business software share the same data.</p></details><details><summary>Do you build apps for businesses across the US?</summary><p>Yes. Most app clients are across the US and abroad, and we work fully online with calls on US Central Time.</p></details><details><summary>What happens after the app is published?</summary><p>We offer support plans for bug fixes, OS updates, new features and store maintenance, so the app keeps working as iOS and Android change.</p></details></div></div></div></section>
+<section id="get-plan"><div class="wrap"><div class="lp-final"><span class="tag">Free, no obligation</span><h2>Get your free mobile app plan</h2><p class="lead">Describe the app you want to build. We will reply with questions, a rough plan and next steps, whether or not you hire us.</p></div><div class="lp-ct"><form class="lp-form" id="gpf" novalidate data-ok="Thank you. We received your details and will email you shortly." data-err="Sorry, that did not send. Please call us or email info@pacificmarketingsolution.com." data-vn="Please enter your name." data-vp="Please enter a valid phone number." data-ve="Please enter a valid email address." data-vc="Please enter your company name." data-vt="Please choose your business type." data-msg="Free growth plan request: Mobile App Development page."><label>Your name *<input name="name" autocomplete="name" required></label><label>Phone number *<input name="phone" type="tel" autocomplete="tel" required dir="ltr"></label><label>Work email *<input name="email" type="email" autocomplete="email" required dir="ltr"></label><label>Company name *<input name="company" autocomplete="organization" required></label><label>Business type *<select name="btype" required><option value="">Choose one</option><option>Restaurant or café</option><option>Dental or medical clinic</option><option>Home services</option><option>Real estate</option><option>Retail shop</option><option>Auto shop</option><option>Law firm or professional services</option><option>E-commerce or online store</option><option>Manufacturing or B2B</option><option>Startup or SaaS</option><option>Other</option></select></label><input type="text" name="website" class="hpf" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn" type="submit">Get Free Growth Plan</button><p class="lp-note">Free · No contract · Reply within 24 hours</p><p class="lp-msg" role="status" aria-live="polite"></p></form><div class="lp-side"><ul class="lp-cl"><li><span>Call</span><a href="tel:+18322400846" dir="ltr">+1 (832) 240-0846</a></li><li><span>WhatsApp</span><a href="https://wa.me/18322400846" target="_blank" rel="noopener">Message us &#8599;</a></li><li><span>Email</span><a href="mailto:info@pacificmarketingsolution.com">info@pacificmarketingsolution.com</a></li><li><span>Book a call</span><a href="https://calendar.app.google/vqnch6WRpBgAxQGN8" target="_blank" rel="noopener">Pick a time in our calendar &#8599;</a></li></ul><div class="lp-map" data-src="https://www.google.com/maps?q=535+W+Airtex+Blvd,+Houston,+TX+77090&amp;output=embed"><button type="button" class="btn ghost lp-mapb">Show map of our Houston office</button><p translate="no">535 W Airtex Blvd, Houston, TX 77090</p></div></div></div></div></section>
+<div class="lp-sticky"><a class="btn ghost lp-ic" href="tel:+18322400846" aria-label="Call +1 (832) 240-0846"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></a><a class="btn ghost lp-ic" href="https://wa.me/18322400846" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4A8 8 0 1 1 8 18.6z"/></svg></a><a class="btn" href="#get-plan" data-anchor="get-plan">Get Free Growth Plan</a></div>
+</div>
+<div id="view-page" class="pg" data-static="1" data-path="services/mobile-app-development" hidden></div>
+</main>`;
+
+export default function Page() {
+  return (
+    <>
+      <Script id="faq-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_LD) }} />
+      <Script id="video-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(VIDEO_LD) }} />
+      <Script id="page-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(PAGE_LD) }} />
+      <div suppressHydrationWarning dangerouslySetInnerHTML={{ __html: BODY }} />
+    </>
+  );
+}
